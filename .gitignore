@@ -1,5 +1,4 @@
 *
-!*/
 !.gitignore
 !*.air
 !*.flo
@@ -9,3 +8,4 @@
 !*.orc
 !*.orh
 !*.pts
+!*.coe

@@ -1,0 +1,1698 @@
+VERSION       70
+IWMM default coefficient file
+BEGDATE        1       9    1981
+ENDDATE       31       8    1982
+********  NCATCH    NSEG NRESSEG NRESERV  PERDAY  NLOOPS AUTOCAL LOADING********
+SYSTEM         1       1       1       1       1       1       0       0
+QUAL  = ON
+SEEPS = OFF 
+SEDMNT= OFF
+FERTLZ= OFF
+POINTS= OFF
+CHECKS= OFF
+WARMST         0
+METFILE        1
+METFILE 
+DIVFILES       0
+PTSFILES       0
+AIRFILE        1
+AIRFILE 
+FILES   untitled.CAT
+FILES   untitled.RIV
+FILES   untitled.LAK
+FILES   untitled.PSM
+FILES   untitled.WST
+FILES   untitled.OUT
+******** SYSTEM COEFFICIENTS ******
+TOL        0.001   0.001   0.001   0.001
+TAREA   1.0580E6       0
+EVPMAX      44.5   -74.1       1       1       2       0
+RKCONV    0.0003
+RINPUT         2       2
+CONSTITS       8
+CONSTIT MFLO           1cms             Flow            Flow
+CONSTIT        1       1       0       0
+CONSTIT MELEV          1m               Elev.           Elevation
+CONSTIT        0       0       1       0
+CONSTIT MVOL           1m^3             Vol.            Volume
+CONSTIT        0       0       1       0
+CONSTIT MDEPTH         1m               Depth           Depth
+CONSTIT        0       1       0       0
+CONSTIT MVEL           1m/s             Vel.            Velocity
+CONSTIT        0       1       0       0
+CONSTIT MSPILL         1cms             Spill           Spill
+CONSTIT        0       0       1       0
+CONSTIT MQADJ          1cms             Flow Adj.       Flow Adjust
+CONSTIT        0       0       1       0
+CONSTIT MTEMP          1C               Temp.           Temperature
+CONSTIT        1       1       1       0
+CONSTITS      20
+CHEMICALMSOX           0ug/m3           SOx             SOx
+CHEMICAL       0       0       0       0
+CHEMICAL       0      32
+CHEMICAL       1       1       1    -999       0       0    -999       0       0
+CHEMICAL       0       1       1
+CHEMICALMNOX           0ug/m3           NOx             NOx
+CHEMICAL       0       0       0       0
+CHEMICAL       0      46
+CHEMICAL       1       1       1    -999       0       0    -999       0       0
+CHEMICAL       0       1       1
+CHEMICALMH             1S.U.            pH              pH
+CHEMICAL       1       1       1       0
+CHEMICAL       1       1
+CHEMICAL       1       1       1    -999       0       0    -999       0       0
+CHEMICAL       0       0       1
+CHEMICALMNH4           1mg/l N          NH4             Ammonia
+CHEMICAL       1       1       1       1
+CHEMICAL       1   14.01
+CHEMICAL       1       1       1    -999       0       0    -999       0       0
+CHEMICAL       0       0       1
+CHEMICALMAL            1mg/l            Al              Aluminum
+CHEMICAL       1       1       1       1
+CHEMICAL       1   8.994
+CHEMICAL       1       1       1    -999       0       0   2E-32       1       3
+CHEMICAL       0       0       1
+CHEMICALMCA            1mg/l            Ca              Calcium
+CHEMICAL       1       1       1       1
+CHEMICAL       1   20.04
+CHEMICAL       1       1       1    -999       0       0    -999       0       0
+CHEMICAL       0       0       1
+CHEMICALMMG            1mg/l            Mg              Magnesium
+CHEMICAL       1       1       1       1
+CHEMICAL       1   12.15
+CHEMICAL       1       1       1    -999       0       0    -999       0       0
+CHEMICAL       0       0       1
+CHEMICALMK             1mg/l            K               Potassium
+CHEMICAL       1       1       1       1
+CHEMICAL       1    39.1
+CHEMICAL       1       1       1    -999       0       0    -999       0       0
+CHEMICAL       0       0       1
+CHEMICALMNA            1mg/l            Na              Sodium
+CHEMICAL       1       1       1       1
+CHEMICAL       1   22.99
+CHEMICAL       1       1       1    -999       0       0    -999       0       0
+CHEMICAL       0       0       1
+CHEMICALMSO4           1mg/l S          SO4             Sulfate
+CHEMICAL       1       1       1       1
+CHEMICAL      -1   16.03
+CHEMICAL       1       1       1    -999       0       0    -999       0       0
+CHEMICAL       0       0       1
+CHEMICALMNO3           1mg/l N          NO3             Nitrate
+CHEMICAL       1       1       1       1
+CHEMICAL      -1   14.01
+CHEMICAL       1       1       1    -999       0       0    -999       0       0
+CHEMICAL       0       0       1
+CHEMICALMCL            1mg/l            Cl              Chloride
+CHEMICAL       1       1       1       1
+CHEMICAL      -1   35.45
+CHEMICAL       1       1       1    -999       0       0    -999       0       0
+CHEMICAL       0       0       1
+CHEMICALMPO4           1mg/l P          PO4             Phosphate
+CHEMICAL       1       1       1       1
+CHEMICAL      -1   30.97
+CHEMICAL       1       1       1    -999       0       0    -999       0       0
+CHEMICAL       0       0       1
+CHEMICALMALK           1mg/l CaCO3      Alk.            Alkalinity
+CHEMICAL       1       1       1       1
+CHEMICAL       0      50
+CHEMICAL       1       1       1    -999       0       0    -999       0       0
+CHEMICAL       0       0       1
+CHEMICALMOACD          1mg/l            DOC             Org. Carbon
+CHEMICAL       1       1       1       1
+CHEMICAL       0      67
+CHEMICAL       1       1       1    -999       0       0    -999       0       0
+CHEMICAL       0       0       1
+CHEMICALMTIC           1mg/l            TIC             Inorg. Carbon
+CHEMICAL       1       1       1       0
+CHEMICAL       0       1
+CHEMICAL       1       1       1    -999       0       0    -999       0       0
+CHEMICAL       0       0       1
+CHEMICALMSIO4          1mg/l Si         SiO2            Silica
+CHEMICAL       1       1       1       1
+CHEMICAL       0       1
+CHEMICAL       1       1       1    -999       0       0    -999       0       0
+CHEMICAL       0       0       1
+CHEMICALMPEST1         0mg/l            Pest. 1         Pesticide 1
+CHEMICAL       1       1       1       1
+CHEMICAL       0       1
+CHEMICAL       1       1       1    -999       0       0    -999       0       0
+CHEMICAL       0       0       1
+CHEMICALMPEST2         0mg/l            Pest. 2         Pesticide 2
+CHEMICAL       1       1       1       1
+CHEMICAL       0       1
+CHEMICAL       1       1       1    -999       0       0    -999       0       0
+CHEMICAL       0       0       1
+CHEMICALMPEST3         0mg/l            Pest. 3         Pesticide 3
+CHEMICAL       1       1       1       1
+CHEMICAL       0       1
+CHEMICAL       1       1       1    -999       0       0    -999       0       0
+CHEMICAL       0       0       1
+CONSTITS      14
+PHYSICALMCOLI          1#/100 ml        Fec. Coli.      Fecal Coliform
+PHYSICAL       1       1       1       1
+PHYSICAL       0     0.1
+PHYSICAL       1       1       1    -999       0       0    -999       0       0
+PHYSICAL       0       0       1
+PHYSICALMBOD2          1mg/l            BOD             BOD
+PHYSICAL       1       1       1       1
+PHYSICAL       0       1
+PHYSICAL       1       1       1    -999       0       0    -999       0       0
+PHYSICAL       0       0       1
+PHYSICALMDO            1mg/l            DO              Dissolved Oxygen
+PHYSICAL       1       1       1       0
+PHYSICAL       0       1
+PHYSICAL       1       1       1    -999       0       0    -999       0       0
+PHYSICAL       0       0       1
+PHYSICALMCO2           0mole/l          CO2             Carbon Dioxide
+PHYSICAL       0       0       0       0
+PHYSICAL       0       1
+PHYSICAL       1       1       1    -999       0       0    -999       0       0
+PHYSICAL       0       0       1
+PHYSICALMALG1          0ug/l Chl-a      Alg. 1          BlueGreen
+PHYSICAL       0       1       1       0
+PHYSICAL       0      20
+PHYSICAL       1       1       1    -999       0       0    -999       0       0
+PHYSICAL       0       0       1
+PHYSICALMALG2          0ug/l Chl-a      Alg. 2          Diatoms
+PHYSICAL       0       1       1       0
+PHYSICAL       0      18
+PHYSICAL       1       1       1    -999       0       0    -999       0       0
+PHYSICAL       0       0       1
+PHYSICALMALG3          0ug/l Chl-a      Alg. 3          Green Algae
+PHYSICAL       0       1       1       0
+PHYSICAL       0      18
+PHYSICAL       1       1       1    -999       0       0    -999       0       0
+PHYSICAL       0       0       1
+PHYSICALMALG4          1g/m2 Chl-a      Alg. 4          Periphyton
+PHYSICAL       0       1       0       0
+PHYSICAL       0    0.02
+PHYSICAL       1       1       1    -999       0       0    -999       0       0
+PHYSICAL       0       0       0
+PHYSICALMDET           0mg/l C          Det.            Detritus
+PHYSICAL       0       1       1       0
+PHYSICAL       0       1
+PHYSICAL       1       1       1    -999       0       0    -999       0       0
+PHYSICAL       0       0       1
+PHYSICALMSDET          0mg/l C          Set. Det.       Settled Detritus
+PHYSICAL       0       0       0       0
+PHYSICAL       0       1
+PHYSICAL       1       1       1    -999       0       0    -999       0       0
+PHYSICAL       0       0       0
+PHYSICALMSED1          1mg/l            Clay            Clay
+PHYSICAL       1       1       1       1
+PHYSICAL       0       1
+PHYSICAL       1       1       1    -999       0       0    -999       0       0
+PHYSICAL       0       0       1
+PHYSICALMSED2          1mg/l            Silt            Silt
+PHYSICAL       1       1       1       1
+PHYSICAL       0       1
+PHYSICAL       1       1       1    -999       0       0    -999       0       0
+PHYSICAL       0       0       1
+PHYSICALMSED3          1mg/l            Sand            Sand
+PHYSICAL       1       1       1       1
+PHYSICAL       0       1
+PHYSICAL       1       1       1    -999       0       0    -999       0       0
+PHYSICAL       0       0       1
+PHYSICALMSSED          0m^3/day         Sed. Dep.       Sediment Deposition
+PHYSICAL       0       0       1       0
+PHYSICAL       0       1
+PHYSICAL       1       1       1    -999       0       0    -999       0       0
+PHYSICAL       0       0       0
+CONSTITS       9
+COMPOSITMTPO4          1mg/l            TP              Total Phosphorus
+COMPOSIT       1       1       1       1
+COMPOSIT       0   30.97
+COMPOSIT       1       1       1
+COMPONEN       0       0       0       0       0       0       0       0       0
+COMPONEN       0       0       0       1       0       0       0       0       0
+COMPONEN       0       0       0       0       0       00.000514 0.00024 0.00079
+COMPONEN       0       0       0       0       0       0       0
+COMPOSITMTKN           1mg/l            TKN             Total Kjeldahl Nitrogen
+COMPOSIT       1       1       1       1
+COMPOSIT       0   14.01
+COMPOSIT       1       1       1
+COMPONEN       0       0       0       1       0       0       0       0       0
+COMPONEN       0       0       0       0       0       0       0       0       0
+COMPONEN       0       0       0       0       0       0  0.0121 0.00518  0.0127
+COMPONEN       0       0       0       0       0       0       0
+COMPOSITMTNH4          1mg/l            TN              Total Nitrogen
+COMPOSIT       1       1       1       1
+COMPOSIT       0   14.01
+COMPOSIT       1       1       1
+COMPONEN       0       0       0       1       0       0       0       0       0
+COMPONEN       0       1       0       0       0       0       0       0       0
+COMPONEN       0       0       0       0       0       0  0.0121 0.00518  0.0127
+COMPONEN       0       0       0       0       0       0       0
+COMPOSITMTOC           1mg/l            TOC             Total Organic Carbon
+COMPOSIT       1       1       1       1
+COMPOSIT       0      67
+COMPOSIT       1       1       1
+COMPONEN       0       0       0       0       0       0       0       0       0
+COMPONEN       0       0       0       0       0       1       0       0       0
+COMPONEN       0       0       0       0       0       00.0149250.0149250.014925
+COMPONEN       00.014925       0       0       0       0       0
+COMPOSITMTALG          1ug/l Chl-a      Tot. Phyto      Total Phytoplankton
+COMPOSIT       1       1       1       1
+COMPOSIT       0       1
+COMPOSIT       1       1       1
+COMPONEN       0       0       0       0       0       0       0       0       0
+COMPONEN       0       0       0       0       0       0       0       0       0
+COMPONEN       0       0       0       0       0       0      20      18      18
+COMPONEN       0       0       0       0       0       0       0
+COMPOSITMTDS           1mg/l            TDS             Total Dissolved Solids
+COMPOSIT       1       1       1       1
+COMPOSIT       0       1
+COMPOSIT       1       0       0
+COMPONEN       0       0       0 18.0421   8.994   20.04   12.15    39.1   22.99
+COMPONEN 48.0259 62.0195   35.45 94.9602       0       0  5.0793  2.1396       0
+COMPONEN       0       0       0       0       0       0       0       0       0
+COMPONEN       0       0       0       0       0       0       0
+COMPOSITMTSS           1mg/l            TSS             Total Suspended Sediment
+COMPOSIT       1       1       1       1
+COMPOSIT       0       1
+COMPOSIT       1       0       0
+COMPONEN       0       0       0       0       0       0       0       0       0
+COMPONEN       0       0       0       0       0       0       0       0       0
+COMPONEN       0       0       0       0       0       0       0       0       0
+COMPONEN       0       0       0       1       1       0       0
+COMPOSITMTS            1mg/l            Tot. Sed.       Total Sediment
+COMPOSIT       1       1       1       1
+COMPOSIT       0       1
+COMPOSIT       1       0       0
+COMPONEN       0       0       0       0       0       0       0       0       0
+COMPONEN       0       0       0       0       0       0       0       0       0
+COMPONEN       0       0       0       0       0       0       0       0       0
+COMPONEN       0       0       0       1       1       1       0
+COMPOSITMSEDDEPT       0m               Sed. Depth      Sediment Depth
+COMPOSIT       0       1       0       0
+COMPOSIT       0       1
+COMPOSIT       1       0       0
+COMPONEN       0       0       0       0       0       0       0       0       0
+COMPONEN       0       0       0       0       0       0       0       0       0
+COMPONEN       0       0       0       0       0       0       0       0       0
+COMPONEN       0       0       0       0       0       0       0
+REACTION      30
+REACTION      22       0     0.1       0       0   1.047NRBOD   1/d     BOD Decay
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0       0       0      -1       0       0       0       0
+STOICH         0       0       0       0       0       0       0
+REACTION      15       0     0.1       0       0   1.047NRODEC  1/d     Organic Carbon Decay
+STOICH         0       0       0    0.12       0       0       0       0       0
+STOICH      0.06       0       0       0    0.12       0   66.72       0       0
+STOICH         0       0       0     178       0       0       0       0       0
+STOICH         0       0       0       0       0       0       0
+REACTION       4       0       2       0       0    1.08NRNITR  1/d     Nitrification
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       1       0       0      -2       0       0       0       0
+STOICH         0       0       0       0     -64       0       0       0       0
+STOICH         0       0       0       0       0       0       0
+REACTION      11       1       2       0       0   1.047NRDEN   1/d     Denitrification
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0       0       0       1       0       0       0       0
+STOICH         0       0       0       0      40       0       0       0       0
+STOICH         0       0       0       0       0       0       0
+REACTION      10       1     0.1       0       0   1.047NRSO4   1/d     Sulfate Reduction
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0       0       0       1       0       0       0       0
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0       0       0       0       0       0
+REACTION      18       0     0.1       0       0    1.06NRPDK1  1/d     Pesticide 1 Decay
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0       0       0       0       0       0
+REACTION      19       0     0.1       0       0    1.06NRPDK2  1/d     Pesticide 2 Decay
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0       0       0       0       0       0
+REACTION      20       0     0.1       0       0    1.06NRPDK3  1/d     Pesticide 3 Decay
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0       0       0       0       0       0
+REACTION      31       0     0.1       0       0       1NRSDS1  m/d     Sediment 1 Settling
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0       0       0       0       0       1
+REACTION      32       0     0.1       0       0       1NRSDS2  m/d     Sediment 2 Settling
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0       0       0       0       0       1
+REACTION      33       0     0.1       0       0       1NRSDS3  m/d     Sediment 3 Settling
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0       0       0       0       0       1
+REACTION      25       0     0.1       0       0       1NRAGR1  1/d     Algae 1 Growth
+STOICH         0       0       0 -0.0121       0       0       0       0       0
+STOICH  -0.00092 -0.0121       0-0.00051       0       0      -1       0       0
+STOICH         0       0       0       0    2.67       0       0       0       0
+STOICH         0       0       0       0       0       0       0
+REACTION      26       0     0.1       0       0       1NRAGR2  1/d     Algae 2 Growth
+STOICH         0       0       0-0.00518       0       0       0       0       0
+STOICH  -0.00092-0.00515       0-0.00024       0       0      -1       0       0
+STOICH         0       0       0       0    2.67       0       0       0       0
+STOICH         0       0       0       0       0       0       0
+REACTION      27       0     0.1       0       0       1NRAGR3  1/d     Algae 3 Growth
+STOICH         0       0       0 -0.0127       0       0       0       0       0
+STOICH  -0.00092 -0.0127       0-0.00079       0       0      -1       0       0
+STOICH         0       0       0       0    2.67       0       0       0       0
+STOICH         0       0       0       0       0       0       0
+REACTION      25       0     0.1       0       0   1.047NRARS1  1/d     Algae 1 Respiration
+STOICH         0       0       0  0.0121       0       0       0       0       0
+STOICH  0.000915       0       00.000514  0.0116       0       1       0       0
+STOICH         0       0       0       0   -2.67       0       0       0       0
+STOICH         0       0       0       0       0       0       0
+REACTION      26       0     0.1       0       0   1.047NRARS2  1/d     Algae 2 Respiration
+STOICH         0       0       0 0.00518       0       0       0       0       0
+STOICH  0.000915       0       0 0.00024 0.00494       0       1       0       0
+STOICH         0       0       0       0   -2.67       0       0       0       0
+STOICH         0       0       0       0       0       0       0
+REACTION      27       0     0.1       0       0   1.047NRARS3  1/d     Algae 3 Respiration
+STOICH         0       0       0  0.0127       0       0       0       0       0
+STOICH  0.000915       0       0 0.00079  0.0119       0       1       0       0
+STOICH         0       0       0       0   -2.67       0       0       0       0
+STOICH         0       0       0       0       0       0       0
+REACTION      25       0     0.1       0       0   1.047NRAMR1  1/d     Algae 1 Mortality
+STOICH         0       0       0 0.00692       0       0       0       0       0
+STOICH         0       0       00.000274 0.00665   0.003       0       0       0
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0     0.8       0       0       0       0       0
+REACTION      26       0     0.1       0       0   1.047NRAMR2  1/d     Algae 2 Mortality
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0       0       0       0   0.003       0       0       0
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0     0.8       0       0       0       0       0
+REACTION      27       0     0.1       0       0   1.047NRAMR3  1/d     Algae 3 Mortality
+STOICH         0       0       0 0.00752       0       0       0       0       0
+STOICH         0       0       0 0.00055 0.00697   0.003       0       0       0
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0     0.8       0       0       0       0       0
+REACTION      25       0     0.1       0       0       1NRAST1  m/d     Algae 1 Settling
+STOICH         0       0       0 0.00692       0       0       0       0       0
+STOICH         0       0       00.000274 0.00665   0.003       0       0       0
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0     0.8       0       0       0       0
+REACTION      26       0     0.1       0       0       1NRAST2  m/d     Algae 2 Settling
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0       0       0       0   0.003       0       0       0
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0     0.8       0       0       0       0
+REACTION      27       0     0.1       0       0       1NRAST3  m/d     Algae 3 Settling
+STOICH         0       0       0 0.00752       0       0       0       0       0
+STOICH         0       0       0 0.00055 0.00697   0.003       0       0       0
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0     0.8       0       0       0       0
+REACTION      29       0     0.1       0       0   1.047NRDTDK  1/d     Detritus Decay
+STOICH         0       0       00.006025       0       0       0       0       0
+STOICH  0.000919       0       0  0.0003 0.00573       0       1       0       0
+STOICH         0       0       0       0   -2.67       0       0       0       0
+STOICH         0       0       0       0       0       0       0
+REACTION      29       0     0.1       0       0       1NRDTST  m/d     Detritus Settling
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0       1       0       0       0       0
+REACTION      30       0     0.1       0       0   1.047NRSDTD  1/d     Settled Detritus Decay
+STOICH         0       0       00.006025       0       0       0       0       0
+STOICH  0.000919       0       0  0.0003 0.00573       0       1       0       0
+STOICH         0       0       0       0   -2.67       0       0       0       0
+STOICH         0       0       0       0       0       0       0
+REACTION      21       0     0.1       0       0    1.07NRCOLI  1/d     Coliform Decay
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0       0       0       0       0       0       0
+REACTION      28       0     0.1       0       0   1.066NRPEGR  1/d     Periphyton Growth
+STOICH         0       0       0-0.01286       0       0       0       0       0
+STOICH  -9.15E-4-0.01286       0-4.64E-4       0       0      -1       0       0
+STOICH         0       0       0       0    2.67       0       0       0       0
+STOICH         0       0       0       0       0       0       0
+REACTION      28       0     0.1       0       0   1.066NRPERS  1/d     Periphyton Respiration
+STOICH         0       0       0 0.01286       0       0       0       0       0
+STOICH  0.000915       0       00.000464 0.01148       0       1       0       0
+STOICH         0       0       0       0   -2.67       0       0       0       0
+STOICH         0       0       0       0       0       0       0
+REACTION      28       0     0.1       0       0       1NRPEMR  1/d     Periphyton Mortality
+STOICH         0       0       0 0.00768       0       0       0       0       0
+STOICH         0       0       00.000224 0.00746   0.003       0       0       0
+STOICH         0       0       0       0       0       0       0       0       0
+STOICH         0     0.8       0       0       0       0       0
+******** SEDIMENT ********
+NPART          3       2
+SEDIMEN1   0.002    2.65   0.004
+SEDIMEN2    0.01    2.65     0.1
+SEDIMEN3     0.2    2.65      12
+******** ALGAE & PERIPHYTON COEFFICIENTS ********
+WQCOEF1     0.01   0.005    0.05     110      15      40      28
+WQCOEF2     0.01   0.005    0.05     110       0      13       6
+WQCOEF3     0.01   0.005    0.05     110      12      30      22
+PERIPH         1    0.25   0.025   0.005     110
+PERIPH    0.0007       2      20      10     0.1   0.267  0.0776   0.075
+SHADING    0.052   0.031   0.174
+WQCOEF       0.3     0.3
+******** MINERALS ********
+NMNRLS         4
+MINERL1 Hornblende           939     0.5   0.002   25600
+MNWTH1         0       0       0       0    5400    3500    2173     350     600
+MNWTH1         0       0     130       0   11893       0       0    5600       0
+MNWTH1         0       0
+MINERL2 Chlorite             925     0.5    0.02       0
+MNWTH2         0       0       0       0       0       0    2000       0       0
+MNWTH2         0       0       0       0    2000       0       0    4000       0
+MNWTH2         0       0
+MINERL3 Mica                 398     0.5    0.01       0
+MNWTH3         0       0       0       0       0       0    1000       0       0
+MNWTH3         0       0       0       0    1000       0       0    4000       0
+MNWTH3         0       0
+MINERL4 Feldspar             278     0.5    0.01       0
+MNWTH4         0       0       0       0       0       0    1000       0       0
+MNWTH4         0       0       0       0    1000       0       0    4000       0
+MNWTH4         0       0
+******** LITTER & HUMUS REACTIONS ********
+FRLCH        0.1    0.25     0.7    0.05
+RATES          1    0.06   0.005
+******** SNOW AND ICE COEFFICIENTS ********
+SNOW           0   0.005   0.005       0    0.08    0.08       5       0   0.004
+SNOWLCH        0   0.005     0.1       4       0
+******** SEPTIC ********
+SEPTIC       162
+SEPTIC         0       0       0      58       0       0       0       0       0
+SEPTIC         0       0       0     9.8       0       0       0       0       0
+SEPTIC         0       0   1E+07     170       0       0       0       0       0
+SEPTIC         0       0       0       0       0       0       0
+SEPTIC         0       0       0       0       0       0       0       0       0
+SEPTIC         0       0       0       0       0       0       0       0       0
+SEPTIC         0       0       0       0       0       0       0       0       0
+SEPTIC         0       0       0       0       0       0       0
+SEPTIC         0       0       0       0       0       0       0       0       0
+SEPTIC         0       0       0       0       0       0       0       0       0
+SEPTIC         0       0       0       0       0       0       0       0       0
+SEPTIC         0       0       0       0       0       0       0
+******** CANOPY AND LAND USE ********
+PARTDV       0.8     0.8     0.8     0.8     0.8     0.8     0.8     0.8     0.8
+PARTDV       0.8     0.8     0.8
+IVDGAS      ON  
+NOXSOXVD     0.1     0.1     0.1     0.1     0.1     0.1     0.1     0.1     0.1
+NOXSOXVD     0.1     0.1     0.1
+NOXSOXVU     0.1     0.1     0.1     0.1     0.1     0.1     0.1     0.1     0.1
+NOXSOXVU     0.1     0.1     0.1
+HEIGHT        10     0.4
+NITRIFYR      14   14.09
+******** LAND USE TYPE ********
+INTCEPT      0.8       0     0.1Deciduous
+EROSION        0     0.9
+GROWTH       0.5       1     0.8 5.8E-08   1E-07     0.6     0.9   0.005
+HEIGHT        18     1.5
+CROPPING    0.01    0.01    0.01    0.01    0.01    0.01    0.01    0.01    0.01
+CROPPING    0.01    0.01    0.01
+LAID           0       0       0     0.5       1     2.5       4     4.5     4.5
+LAID           1       0       0
+UDISTD         0       0    0.05    0.15     0.2     0.2     0.2    0.15    0.05
+UDISTD         0       0       0
+LFD            0       0       0       0       0   0.004   0.004   0.004   0.004
+LFD         0.16   0.004   0.004
+BETAD      5E-05   5E-05   5E-05  0.0001  0.0001  0.0001 0.00015 0.00015  0.0002
+BETAD     0.0002  0.0002   5E-05
+LFCMPD1        0       0       0    17.1    0.02     6.9    0.92       5    0.04
+LFCMPD1      1.8       0   0.011     1.1      90       0       0       0       0
+LFCMPD1        0       0
+TRCMPD         0       0       0     0.9   0.002     0.9     0.2     0.5   0.008
+TRCMPD      0.25       0   0.003     0.1   6.104       0       0       0       0
+TRCMPD         0       0
+FERTLZ=        1
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+******** LAND USE TYPE ********
+INTCEPT        0       0     0.1Coniferous
+EROSION        0     0.9
+GROWTH       0.5       1     0.8 1.1E-08 2.4E-08     0.6     0.9    0.01
+HEIGHT        18       3
+CROPPING    0.05    0.05    0.05    0.05    0.05    0.05    0.05    0.05    0.05
+CROPPING    0.05    0.05    0.05
+LAID          12      12      12      12      13      14      15      15      15
+LAID          15      14      13
+UDISTD         0       0    0.05     0.1    0.15    0.15    0.15    0.15     0.1
+UDISTD       0.1    0.05       0
+LFD        0.002   0.002   0.002   0.002    0.02    0.02    0.02    0.02    0.02
+LFD         0.02   0.002   0.002
+BETAD      5E-06   5E-06   5E-06   1E-05   2E-05   2E-05   2E-05   3E-05   3E-05
+BETAD      2E-05   1E-05   5E-06
+LFCMPD1        0       0       0      10    0.01     2.5       1       5    0.04
+LFCMPD1        1       0   0.011     1.1    49.3       0       0       0       0
+LFCMPD1        0       0
+TRCMPD         0       0       0    0.55   0.001     0.6     0.1     0.2    0.01
+TRCMPD      0.15       0   0.003    0.02   3.687       0       0       0       0
+TRCMPD         0       0
+FERTLZ=        1
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+******** LAND USE TYPE ********
+INTCEPT      0.5       0     0.1Mixed Forest
+EROSION        0     0.9
+GROWTH       0.5       1     0.8 5.8E-08   6E-08     0.6     0.9   0.005
+HEIGHT        18     1.5
+CROPPING    0.03    0.03    0.03    0.03    0.03    0.03    0.03    0.03    0.03
+CROPPING    0.03    0.03    0.03
+LAID           6       6       6     6.5       7       8     9.5      10      10
+LAID           8       7     6.5
+UDISTD         0       0    0.05    0.15     0.2     0.2     0.2    0.15    0.05
+UDISTD         0       0       0
+LFD        0.001   0.001   0.001   0.001    0.01   0.012   0.012   0.012   0.012
+LFD         0.09   0.003   0.003
+BETAD      5E-05   5E-05   5E-05  0.0001  0.0001  0.0001 0.00015 0.00015  0.0002
+BETAD     0.0002  0.0002   5E-05
+LFCMPD1        0       0       0    17.1    0.02     6.9    0.92       5    0.04
+LFCMPD1      1.8       0   0.011     1.1      90       0       0       0       0
+LFCMPD1        0       0
+TRCMPD         0       0       0     0.9   0.002     0.9     0.2     0.5   0.008
+TRCMPD      0.25       0   0.003     0.1   6.104       0       0       0       0
+TRCMPD         0       0
+FERTLZ=        1
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+******** LAND USE TYPE ********
+INTCEPT      0.9       0     0.1Orchard
+EROSION    0.108     0.9
+GROWTH       0.5       1     0.8 5.8E-08   1E-07     0.6     0.9   0.005
+HEIGHT         5       3
+CROPPING     0.1     0.1     0.1     0.1     0.1     0.1     0.1     0.1     0.1
+CROPPING     0.1     0.1     0.1
+LAID           0       0       0     0.5       1     2.5       4     4.5     4.5
+LAID           1       0       0
+UDISTD         0       0    0.05    0.15     0.2     0.2     0.2    0.15    0.05
+UDISTD         0       0       0
+LFD            0       0       0       0       0   0.004   0.004   0.004   0.004
+LFD         0.16   0.004   0.004
+BETAD      5E-05   5E-05   5E-05  0.0001  0.0001  0.0001 0.00015 0.00015  0.0002
+BETAD     0.0002  0.0002   5E-05
+LFCMPD1        0       0       0    17.1    0.02     6.9    0.92       5    0.04
+LFCMPD1      1.8       0   0.011     1.1      90       0       0       0       0
+LFCMPD1        0       0
+TRCMPD         0       0       0     0.9   0.002     0.9     0.2     0.5   0.008
+TRCMPD      0.25       0   0.003     0.1   6.104       0       0       0       0
+TRCMPD         0       0
+FERTLZ=        1
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0    3.73       0       0       0       0       0
+FERTLZ=        0       4       0       2-4.19253       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0    7.47       0       0       0       0       0
+FERTLZ=        0       7       0       4-4.78049       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0    7.47       0       0       0       0       0
+FERTLZ=        0       7       0       4-4.78049       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0    7.47       0       0       0       0       0
+FERTLZ=        0       7       0       4-4.78049       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0    7.47       0       0       0       0       0
+FERTLZ=        0       7       0       4-4.78049       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0    7.47       0       0       0       0       0
+FERTLZ=        0       7       0       4-4.78049       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0    3.73       0       0       0       0       0
+FERTLZ=        0       4       0       2-4.19253       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+******** LAND USE TYPE ********
+INTCEPT        1       0   0.015Cropland / Pasture
+EROSION    0.108     0.9
+GROWTH       0.1       1     0.1 5.8E-08   1E-07     0.6     0.9   0.005
+HEIGHT         1       1
+CROPPING    0.35    0.35    0.35    0.35    0.35    0.35    0.35    0.35    0.35
+CROPPING    0.35    0.35    0.35
+LAID           1       1       1       1     1.5     1.5     1.5     1.5     1.5
+LAID         1.5     1.5     1.5
+UDISTD         0       0     0.1     0.2     0.3     0.3     0.1       0       0
+UDISTD         0       0       0
+LFD        0.001   0.001   0.001   0.001   0.001   0.001   0.001   0.001   0.001
+LFD        0.001   0.001   0.001
+BETAD      5E-06   5E-06   5E-06   1E-05   2E-05   2E-05   2E-05   3E-05   3E-05
+BETAD      2E-05   1E-05   5E-06
+LFCMPD1        0       0       0      10    0.01     2.5       1       5    0.04
+LFCMPD1        1       0   0.011     1.1    49.3       0       0       0       0
+LFCMPD1        0       0
+TRCMPD         0       0       0    0.55   0.001     0.6     0.1     0.2    0.01
+TRCMPD      0.15       0   0.003    0.02   3.687       0       0       0       0
+TRCMPD         0       0
+FERTLZ=        1
+FERTLZ=        0       0       0     2.1       0       0       0     4.4       0
+FERTLZ=        0       0       0     1.4  10.861       0       0       0       0
+FERTLZ=        0       0   50000   34.12       0       0       0       0       0
+FERTLZ=        0    3.79       0       0       0       0       0
+FERTLZ=        0       0       0     2.1       0       0       0     4.4       0
+FERTLZ=        0       0       0     1.4  10.861       0       0       0       0
+FERTLZ=        0       0   50000   34.12       0       0       0       0       0
+FERTLZ=        0    3.79       0       0       0       0       0
+FERTLZ=        0       0       0     2.1       0       0       0     4.4       0
+FERTLZ=        0       0       0     1.4  10.861       0       0       0       0
+FERTLZ=        0       0   50000   34.12       0       0       0       0       0
+FERTLZ=        0    3.79       0       0       0       0       0
+FERTLZ=        0       0       0     2.1       0       0       0     4.4       0
+FERTLZ=        0       0       0     1.4  10.861       0       0       0       0
+FERTLZ=        0       0   50000   34.12       0       0       0       0       0
+FERTLZ=        0    3.79       0       0       0       0       0
+FERTLZ=        0       0       0     2.1       0       0       0     4.4       0
+FERTLZ=        0       0       0     1.4  10.861       0       0       0       0
+FERTLZ=        0       0   50000   34.12       0       0       0       0       0
+FERTLZ=        0    3.79       0       0       0       0       0
+FERTLZ=        0       0       0     2.1       0       0       0     4.4       0
+FERTLZ=        0       0       0     1.4  10.861       0       0       0       0
+FERTLZ=        0       0   50000   34.12       0       0       0       0       0
+FERTLZ=        0    3.79       0       0       0       0       0
+FERTLZ=        0       0       0     2.1       0       0       0     4.4       0
+FERTLZ=        0       0       0     1.4  10.861       0       0       0       0
+FERTLZ=        0       0   50000   34.12       0       0       0       0       0
+FERTLZ=        0    3.79       0       0       0       0       0
+FERTLZ=        0       0       0     2.1       0       0       0     4.4       0
+FERTLZ=        0       0       0     1.4  10.861       0       0       0       0
+FERTLZ=        0       0   50000   34.12       0       0       0       0       0
+FERTLZ=        0    3.79       0       0       0       0       0
+FERTLZ=        0       0       0     2.1       0       0       0     4.4       0
+FERTLZ=        0       0       0     1.4  10.861       0       0       0       0
+FERTLZ=        0       0   50000   34.12       0       0       0       0       0
+FERTLZ=        0    3.79       0       0       0       0       0
+FERTLZ=        0       0       0     2.1       0       0       0     4.4       0
+FERTLZ=        0       0       0     1.4  10.861       0       0       0       0
+FERTLZ=        0       0   50000   34.12       0       0       0       0       0
+FERTLZ=        0    3.79       0       0       0       0       0
+FERTLZ=        0       0       0     2.1       0       0       0     4.4       0
+FERTLZ=        0       0       0     1.4  10.861       0       0       0       0
+FERTLZ=        0       0   50000   34.12       0       0       0       0       0
+FERTLZ=        0    3.79       0       0       0       0       0
+FERTLZ=        0       0       0     2.1       0       0       0     4.4       0
+FERTLZ=        0       0       0     1.4  10.861       0       0       0       0
+FERTLZ=        0       0   50000   34.12       0       0       0       0       0
+FERTLZ=        0    3.79       0       0       0       0       0
+******** LAND USE TYPE ********
+INTCEPT        1       0       0Confined Feeding
+EROSION    0.108     0.9
+GROWTH         0       1       0       0       0       0       0   0.005
+HEIGHT         1       0
+CROPPING       1       1       1       1       1       1       1       1       1
+CROPPING       1       1       1
+LAID           0       0       0       0       0       0       0       0       0
+LAID           0       0       0
+UDISTD         0       0    0.05    0.15     0.2     0.2     0.2    0.15    0.05
+UDISTD         0       0       0
+LFD            0       0       0       0       0       0       0       0       0
+LFD            0       0       0
+BETAD          0       0       0       0       0       0       0       0       0
+BETAD          0       0       0
+LFCMPD1        0       0       0       0       0       0       0       0       0
+LFCMPD1        0       0       0       0       0       0       0       0       0
+LFCMPD1        0       0
+TRCMPD         0       0       0       0       0       0       0       0       0
+TRCMPD         0       0       0       0       0       0       0       0       0
+TRCMPD         0       0
+FERTLZ=        1
+FERTLZ=        0       0       0      40       0       0       0       0       0
+FERTLZ=        0       0       0      20       0       0       0       0       0
+FERTLZ=        0       0  100000      34       0       0       0       0       0
+FERTLZ=        0       4       0       0       0       0       0
+FERTLZ=        0       0       0      40       0       0       0       0       0
+FERTLZ=        0       0       0      20       0       0       0       0       0
+FERTLZ=        0       0  100000      34       0       0       0       0       0
+FERTLZ=        0       4       0       0       0       0       0
+FERTLZ=        0       0       0      40       0       0       0       0       0
+FERTLZ=        0       0       0      20       0       0       0       0       0
+FERTLZ=        0       0  100000      34       0       0       0       0       0
+FERTLZ=        0       4       0       0       0       0       0
+FERTLZ=        0       0       0      40       0       0       0       0       0
+FERTLZ=        0       0       0      20       0       0       0       0       0
+FERTLZ=        0       0  100000      34       0       0       0       0       0
+FERTLZ=        0       4       0       0       0       0       0
+FERTLZ=        0       0       0      40       0       0       0       0       0
+FERTLZ=        0       0       0      20       0       0       0       0       0
+FERTLZ=        0       0  100000      34       0       0       0       0       0
+FERTLZ=        0       4       0       0       0       0       0
+FERTLZ=        0       0       0      40       0       0       0       0       0
+FERTLZ=        0       0       0      20       0       0       0       0       0
+FERTLZ=        0       0  100000      34       0       0       0       0       0
+FERTLZ=        0       4       0       0       0       0       0
+FERTLZ=        0       0       0      40       0       0       0       0       0
+FERTLZ=        0       0       0      20       0       0       0       0       0
+FERTLZ=        0       0  100000      34       0       0       0       0       0
+FERTLZ=        0       4       0       0       0       0       0
+FERTLZ=        0       0       0      40       0       0       0       0       0
+FERTLZ=        0       0       0      20       0       0       0       0       0
+FERTLZ=        0       0  100000      34       0       0       0       0       0
+FERTLZ=        0       4       0       0       0       0       0
+FERTLZ=        0       0       0      40       0       0       0       0       0
+FERTLZ=        0       0       0      20       0       0       0       0       0
+FERTLZ=        0       0  100000      34       0       0       0       0       0
+FERTLZ=        0       4       0       0       0       0       0
+FERTLZ=        0       0       0      40       0       0       0       0       0
+FERTLZ=        0       0       0      20       0       0       0       0       0
+FERTLZ=        0       0  100000      34       0       0       0       0       0
+FERTLZ=        0       4       0       0       0       0       0
+FERTLZ=        0       0       0      40       0       0       0       0       0
+FERTLZ=        0       0       0      20       0       0       0       0       0
+FERTLZ=        0       0  100000      34       0       0       0       0       0
+FERTLZ=        0       4       0       0       0       0       0
+FERTLZ=        0       0       0      40       0       0       0       0       0
+FERTLZ=        0       0       0      20       0       0       0       0       0
+FERTLZ=        0       0  100000      34       0       0       0       0       0
+FERTLZ=        0       4       0       0       0       0       0
+******** LAND USE TYPE ********
+INTCEPT        1       0   0.015Rangeland
+EROSION    0.108     0.9
+GROWTH       0.1       1     0.1 5.8E-08   1E-07     0.6     0.9   0.005
+HEIGHT         1       1
+CROPPING     0.1     0.1     0.1     0.1     0.1     0.1     0.1     0.1     0.1
+CROPPING     0.1     0.1     0.1
+LAID           1       1       1       1     1.5     1.5     1.5     1.5     1.5
+LAID         1.5     1.5     1.5
+UDISTD         0       0     0.1     0.2     0.3     0.3     0.1       0       0
+UDISTD         0       0       0
+LFD        0.001   0.001   0.001   0.001   0.001   0.001   0.001   0.001   0.001
+LFD        0.001   0.001   0.001
+BETAD      5E-06   5E-06   5E-06   1E-05   2E-05   2E-05   2E-05   3E-05   3E-05
+BETAD      2E-05   1E-05   5E-06
+LFCMPD1        0       0       0      10    0.01     2.5       1       5    0.04
+LFCMPD1        1       0   0.011     1.1    49.3       0       0       0       0
+LFCMPD1        0       0
+TRCMPD         0       0       0    0.55   0.001     0.6     0.1     0.2    0.01
+TRCMPD      0.15       0   0.003    0.02   3.687       0       0       0       0
+TRCMPD         0       0
+FERTLZ=        1
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+******** LAND USE TYPE ********
+INTCEPT      0.8       0     0.1Forested Wetland
+EROSION        0     0.9
+GROWTH       0.5       1     0.8 5.8E-08   1E-07     0.6     0.9   0.005
+HEIGHT        18     1.5
+CROPPING    0.01    0.01    0.01    0.01    0.01    0.01    0.01    0.01    0.01
+CROPPING    0.01    0.01    0.01
+LAID           0       0       0     0.5       1     2.5       4     4.5     4.5
+LAID           1       0       0
+UDISTD         0       0    0.05    0.15     0.2     0.2     0.2    0.15    0.05
+UDISTD         0       0       0
+LFD            0       0       0       0       0   0.004   0.004   0.004   0.004
+LFD         0.16   0.004   0.004
+BETAD      5E-05   5E-05   5E-05  0.0001  0.0001  0.0001 0.00015 0.00015  0.0002
+BETAD     0.0002  0.0002   5E-05
+LFCMPD1        0       0       0    17.1    0.02     6.9    0.92       5    0.04
+LFCMPD1      1.8       0   0.011     1.1      90       0       0       0       0
+LFCMPD1        0       0
+TRCMPD         0       0       0     0.9   0.002     0.9     0.2     0.5   0.008
+TRCMPD      0.25       0   0.003     0.1   6.104       0       0       0       0
+TRCMPD         0       0
+FERTLZ=        1
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+******** LAND USE TYPE ********
+INTCEPT        1       0   0.015Non-forested Wetland
+EROSION        0     0.9
+GROWTH       0.1       1     0.1 5.8E-08   1E-07     0.6     0.9   0.005
+HEIGHT         1       1
+CROPPING    0.01    0.01    0.01    0.01    0.01    0.01    0.01    0.01    0.01
+CROPPING    0.01    0.01    0.01
+LAID           1       1       1       1     1.5     1.5     1.5     1.5     1.5
+LAID         1.5     1.5     1.5
+UDISTD         0       0     0.1     0.2     0.3     0.3     0.1       0       0
+UDISTD         0       0       0
+LFD        0.001   0.001   0.001   0.001   0.001   0.001   0.001   0.001   0.001
+LFD        0.001   0.001   0.001
+BETAD      5E-06   5E-06   5E-06   1E-05   2E-05   2E-05   2E-05   3E-05   3E-05
+BETAD      2E-05   1E-05   5E-06
+LFCMPD1        0       0       0      10    0.01     2.5       1       5    0.04
+LFCMPD1        1       0   0.011     1.1    49.3       0       0       0       0
+LFCMPD1        0       0
+TRCMPD         0       0       0    0.55   0.001     0.6     0.1     0.2    0.01
+TRCMPD      0.15       0   0.003    0.02   3.687       0       0       0       0
+TRCMPD         0       0
+FERTLZ=        1
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+******** LAND USE TYPE ********
+INTCEPT        1       0   0.015Tundra
+EROSION    0.108     0.9
+GROWTH       0.1       1     0.1 5.8E-08   1E-07     0.6     0.9   0.005
+HEIGHT         1       1
+CROPPING     0.1     0.1     0.1     0.1     0.1     0.1     0.1     0.1     0.1
+CROPPING     0.1     0.1     0.1
+LAID           1       1       1       1     1.5     1.5     1.5     1.5     1.5
+LAID         1.5     1.5     1.5
+UDISTD         0       0     0.1     0.2     0.3     0.3     0.1       0       0
+UDISTD         0       0       0
+LFD        0.001   0.001   0.001   0.001   0.001   0.001   0.001   0.001   0.001
+LFD        0.001   0.001   0.001
+BETAD      5E-06   5E-06   5E-06   1E-05   2E-05   2E-05   2E-05   3E-05   3E-05
+BETAD      2E-05   1E-05   5E-06
+LFCMPD1        0       0       0      10    0.01     2.5       1       5    0.04
+LFCMPD1        1       0   0.011     1.1    49.3       0       0       0       0
+LFCMPD1        0       0
+TRCMPD         0       0       0    0.55   0.001     0.6     0.1     0.2    0.01
+TRCMPD      0.15       0   0.003    0.02   3.687       0       0       0       0
+TRCMPD         0       0
+FERTLZ=        1
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0      20       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+******** LAND USE TYPE ********
+INTCEPT        1       0       0Barren
+EROSION    0.108     0.9
+GROWTH         0       1       0       0       0       0       0   0.005
+HEIGHT         1       0
+CROPPING       1       1       1       1       1       1       1       1       1
+CROPPING       1       1       1
+LAID           0       0       0       0       0       0       0       0       0
+LAID           0       0       0
+UDISTD         0       0    0.05    0.15     0.2     0.2     0.2    0.15    0.05
+UDISTD         0       0       0
+LFD            0       0       0       0       0       0       0       0       0
+LFD            0       0       0
+BETAD          0       0       0       0       0       0       0       0       0
+BETAD          0       0       0
+LFCMPD1        0       0       0       0       0       0       0       0       0
+LFCMPD1        0       0       0       0       0       0       0       0       0
+LFCMPD1        0       0
+TRCMPD         0       0       0       0       0       0       0       0       0
+TRCMPD         0       0       0       0       0       0       0       0       0
+TRCMPD         0       0
+FERTLZ=        1
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0  100000       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0  100000       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0  100000       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0  100000       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0  100000       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0  100000       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0  100000       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0  100000       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0  100000       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0  100000       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0  100000       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0  100000       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+******** LAND USE TYPE ********
+INTCEPT      0.8     0.3     0.1Residential
+EROSION     0.03     0.9
+GROWTH       0.2       1     0.2 2.4E-08   4E-08     0.3     0.4   0.005
+HEIGHT         5       1
+CROPPING     0.2     0.2     0.2     0.2     0.2     0.2     0.2     0.2     0.2
+CROPPING     0.2     0.2     0.2
+LAID           0       0       0     0.2     0.4       1     1.6     1.8     1.8
+LAID         0.4       0       0
+UDISTD         0       0    0.05    0.15     0.2     0.2     0.2    0.15    0.05
+UDISTD         0       0       0
+LFD            0       0       0       0       0   0.002   0.002   0.002   0.002
+LFD         0.05   0.002   0.002
+BETAD      2E-05   2E-05   2E-05   4E-05   4E-05   4E-05   6E-05   6E-05   8E-05
+BETAD      8E-05   8E-05   2E-05
+LFCMPD1        0       0       0    17.1    0.02     6.9    0.92       5    0.04
+LFCMPD1      1.8       0   0.011     1.1      90       0       0       0       0
+LFCMPD1        0       0
+TRCMPD         0       0       0     0.9   0.002     0.9     0.2     0.5   0.008
+TRCMPD      0.25       0   0.003     0.1   6.104       0       0       0       0
+TRCMPD         0       0
+FERTLZ=        1
+FERTLZ=        0       0       0   0.005       0       0       0       0       0
+FERTLZ=        0    0.01       0    0.01 -0.0339       0       0       0       0
+FERTLZ=        0       0   50000    0.48       0       0       0       0       0
+FERTLZ=        0    0.05       0       7       7       7       0
+FERTLZ=        0       0       0   0.005       0       0       0       0       0
+FERTLZ=        0    0.01       0    0.01 -0.0339       0       0       0       0
+FERTLZ=        0       0   50000    0.48       0       0       0       0       0
+FERTLZ=        0    0.05       0       7       7       7       0
+FERTLZ=        0       0       0   0.005       0       0       0       0       0
+FERTLZ=        0    0.01       0    0.01 -0.0339       0       0       0       0
+FERTLZ=        0       0   50000    0.48       0       0       0       0       0
+FERTLZ=        0    0.05       0       7       7       7       0
+FERTLZ=        0       0       0   0.005       0       0       0       0       0
+FERTLZ=        0    0.01       0    0.01 -0.0339       0       0       0       0
+FERTLZ=        0       0   50000    0.48       0       0       0       0       0
+FERTLZ=        0    0.05       0       7       7       7       0
+FERTLZ=        0       0       0   0.005       0       0       0       0       0
+FERTLZ=        0    0.01       0    0.01 -0.0339       0       0       0       0
+FERTLZ=        0       0   50000    0.48       0       0       0       0       0
+FERTLZ=        0    0.05       0       7       7       7       0
+FERTLZ=        0       0       0   0.005       0       0       0       0       0
+FERTLZ=        0    0.01       0    0.01 -0.0339       0       0       0       0
+FERTLZ=        0       0   50000    0.48       0       0       0       0       0
+FERTLZ=        0    0.05       0       7       7       7       0
+FERTLZ=        0       0       0   0.005       0       0       0       0       0
+FERTLZ=        0    0.01       0    0.01 -0.0339       0       0       0       0
+FERTLZ=        0       0   50000    0.48       0       0       0       0       0
+FERTLZ=        0    0.05       0       7       7       7       0
+FERTLZ=        0       0       0   0.005       0       0       0       0       0
+FERTLZ=        0    0.01       0    0.01 -0.0339       0       0       0       0
+FERTLZ=        0       0   50000    0.48       0       0       0       0       0
+FERTLZ=        0    0.05       0       7       7       7       0
+FERTLZ=        0       0       0   0.005       0       0       0       0       0
+FERTLZ=        0    0.01       0    0.01 -0.0339       0       0       0       0
+FERTLZ=        0       0   50000    0.48       0       0       0       0       0
+FERTLZ=        0    0.05       0       7       7       7       0
+FERTLZ=        0       0       0   0.005       0       0       0       0       0
+FERTLZ=        0    0.01       0    0.01 -0.0339       0       0       0       0
+FERTLZ=        0       0   50000    0.48       0       0       0       0       0
+FERTLZ=        0    0.05       0       7       7       7       0
+FERTLZ=        0       0       0   0.005       0       0       0       0       0
+FERTLZ=        0    0.01       0    0.01 -0.0339       0       0       0       0
+FERTLZ=        0       0   50000    0.48       0       0       0       0       0
+FERTLZ=        0    0.05       0       7       7       7       0
+FERTLZ=        0       0       0   0.005       0       0       0       0       0
+FERTLZ=        0    0.01       0    0.01 -0.0339       0       0       0       0
+FERTLZ=        0       0   50000    0.48       0       0       0       0       0
+FERTLZ=        0    0.05       0       7       7       7       0
+******** LAND USE TYPE ********
+INTCEPT        1       1     0.1Comm./Industrial
+EROSION        0     0.9
+GROWTH         0       1       0       0       0       0       0   0.005
+HEIGHT         5       0
+CROPPING     0.2     0.2     0.2     0.2     0.2     0.2     0.2     0.2     0.2
+CROPPING     0.2     0.2     0.2
+LAID           0       0       0       0       0       0       0       0       0
+LAID           0       0       0
+UDISTD         0       0    0.05    0.15     0.2     0.2     0.2    0.15    0.05
+UDISTD         0       0       0
+LFD            0       0       0       0       0       0       0       0       0
+LFD            0       0       0
+BETAD          0       0       0       0       0       0       0       0       0
+BETAD          0       0       0
+LFCMPD1        0       0       0       0       0       0       0       0       0
+LFCMPD1        0       0       0       0       0       0       0       0       0
+LFCMPD1        0       0
+TRCMPD         0       0       0       0       0       0       0       0       0
+TRCMPD         0       0       0       0       0       0       0       0       0
+TRCMPD         0       0
+FERTLZ=        1
+FERTLZ=        0       0       0    0.01       0       0       0       0       0
+FERTLZ=        0    0.03       0    0.01 -0.0875       0       0       0       0
+FERTLZ=        0       0   50000    1.44       0       0       0       0       0
+FERTLZ=        0    0.16       0       8       8       8       0
+FERTLZ=        0       0       0    0.01       0       0       0       0       0
+FERTLZ=        0    0.03       0    0.01 -0.0875       0       0       0       0
+FERTLZ=        0       0   50000    1.44       0       0       0       0       0
+FERTLZ=        0    0.16       0       8       8       8       0
+FERTLZ=        0       0       0    0.01       0       0       0       0       0
+FERTLZ=        0    0.03       0    0.01 -0.0875       0       0       0       0
+FERTLZ=        0       0   50000    1.44       0       0       0       0       0
+FERTLZ=        0    0.16       0       8       8       8       0
+FERTLZ=        0       0       0    0.01       0       0       0       0       0
+FERTLZ=        0    0.03       0    0.01 -0.0875       0       0       0       0
+FERTLZ=        0       0   50000    1.44       0       0       0       0       0
+FERTLZ=        0    0.16       0       8       8       8       0
+FERTLZ=        0       0       0    0.01       0       0       0       0       0
+FERTLZ=        0    0.03       0    0.01 -0.0875       0       0       0       0
+FERTLZ=        0       0   50000    1.44       0       0       0       0       0
+FERTLZ=        0    0.16       0       8       8       8       0
+FERTLZ=        0       0       0    0.01       0       0       0       0       0
+FERTLZ=        0    0.03       0    0.01 -0.0875       0       0       0       0
+FERTLZ=        0       0   50000    1.44       0       0       0       0       0
+FERTLZ=        0    0.16       0       8       8       8       0
+FERTLZ=        0       0       0    0.01       0       0       0       0       0
+FERTLZ=        0    0.03       0    0.01 -0.0875       0       0       0       0
+FERTLZ=        0       0   50000    1.44       0       0       0       0       0
+FERTLZ=        0    0.16       0       8       8       8       0
+FERTLZ=        0       0       0    0.01       0       0       0       0       0
+FERTLZ=        0    0.03       0    0.01 -0.0875       0       0       0       0
+FERTLZ=        0       0   50000    1.44       0       0       0       0       0
+FERTLZ=        0    0.16       0       8       8       8       0
+FERTLZ=        0       0       0    0.01       0       0       0       0       0
+FERTLZ=        0    0.03       0    0.01 -0.0875       0       0       0       0
+FERTLZ=        0       0   50000    1.44       0       0       0       0       0
+FERTLZ=        0    0.16       0       8       8       8       0
+FERTLZ=        0       0       0    0.01       0       0       0       0       0
+FERTLZ=        0    0.03       0    0.01 -0.0875       0       0       0       0
+FERTLZ=        0       0   50000    1.44       0       0       0       0       0
+FERTLZ=        0    0.16       0       8       8       8       0
+FERTLZ=        0       0       0    0.01       0       0       0       0       0
+FERTLZ=        0    0.03       0    0.01 -0.0875       0       0       0       0
+FERTLZ=        0       0   50000    1.44       0       0       0       0       0
+FERTLZ=        0    0.16       0       8       8       8       0
+FERTLZ=        0       0       0    0.01       0       0       0       0       0
+FERTLZ=        0    0.03       0    0.01 -0.0875       0       0       0       0
+FERTLZ=        0       0   50000    1.44       0       0       0       0       0
+FERTLZ=        0    0.16       0       8       8       8       0
+******** LAND USE TYPE ********
+INTCEPT        1       0   0.015Water
+EROSION        0       0
+GROWTH       0.1       1       0       0       0       0       0   0.005
+HEIGHT         1       0
+CROPPING       0       0       0       0       0       0       0       0       0
+CROPPING       0       0       0
+LAID           0       0       0       0       0       0       0       0       0
+LAID           0       0       0
+UDISTD         0       0     0.1     0.2     0.3     0.3     0.1       0       0
+UDISTD         0       0       0
+LFD            0       0       0       0       0       0       0       0       0
+LFD            0       0       0
+BETAD          0       0       0       0       0       0       0       0       0
+BETAD          0       0       0
+LFCMPD1        0       0       0      10    0.01     2.5       1       5    0.04
+LFCMPD1        1       0   0.011     1.1    49.3       0       0       0       0
+LFCMPD1        0       0
+TRCMPD         0       0       0    0.55   0.001     0.6     0.1     0.2    0.01
+TRCMPD      0.15       0   0.003    0.02   3.687       0       0       0       0
+TRCMPD         0       0
+FERTLZ=        1
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0       0       0
+FERTLZ=        0       0       0       0       0       0       0
+******** CATCHMENT COEFFICIENTS ********
+++++++++ CATCHMENT 2 ++++++++
+CATCH2         2       1       1       0   0.005       0       1Subcatchment 1
+CATCH2         5   0.214     450     120     0.1       0
+ICATOL2        0       0       0       0       0       0       0       0       0
+CATCH2        50      45       0       0       5       0       0       0       0
+CATCH2         0       0       0       0       0
+CATCH2         0       0       0       0       0       0       0       0       0
+CATCH2         0       0       0       0       0
+STOCK2         0       0       0       0       0       0       0       0       0
+STOCK2         0       0       0       0       0
+IRRIGAT2       0       0       0       0       0       0       0       0       0
+IRRIGAT2       0       0       0       0       0
+PTSOURCE       0
+PUMPFROM       0
+PUMPTO         0
+SEPTIC         1       0     100       0       0       0       2       0    0.18
+SEPTIC      0.29
+SEDIMENT     0.2     0.2     0.4     0.4
+BMP            0      90       0      15
+BUFFZONE       0       5    0.01     0.3
+SEEPS          0       0       0       0       0       0
+MINING         0       0     200    0.13   0.126   0.376    6000     296
+MINEPERM       0       0
+MINEPERM       0       0
+XLIT2      0.009   0.135       0
+REACSOIL     0.1    0.01    0.01     0.1    0.05       0       0       0       0
+REACSOIL       0       0       0       0       0       0       0       0       0
+REACSOIL       0       0       0       0       0     0.1       0       0    0.01
+REACSOIL       0       0       0
+REACSURF       0       0       0       0       0       0       0       0  0.3456
+REACSURF    8.64  1036.8       0       0       0       0       0       0       0
+REACSURF       0       0       0       0       0       0       0       0       0
+REACSURF       0       0       0
+REACCNPY       0       0    0.05       0       0       0       0       0       0
+REACCNPY       0       0       0       0       0       0       0       0       0
+REACCNPY       0       0       0       0       0       0       0       0       0
+REACCNPY       0       0       0
+REACBIOZ       0    0.36    0.05       0       0       0       0       0       0
+REACBIOZ       0       0       0       0       0       0       0       0       0
+REACBIOZ       0       0       0       0       0       0       0    2.52       0
+REACBIOZ       0       0       0
+W2FILES        0
+LAYER1    633000      15     0.3     0.4     0.5  120000  120000    0.75      15
+CKCAMG1 0.8246920.0546910.0321570.0089743.759E-6
+COMP1      36.68     400     1.3      10       3      20
+COMP1          1       1       1       1
+SOL1           0       07.893E-5     0.1   0.001      20       4       2       1
+SOL1         0.5     0.1     0.5   0.001 20.2007     0.5 19.9451     0.5       0
+SOL1           0       0     100       0       8       0       0       0       0
+SOL1           0       0       0       0       0       0       0
+ADS1           0       01.2081E6 513.887       0 183.767 222.831 143.419 84.3273
+ADS1          10       0       0      80       0     100       0       0       0
+ADS1           0       0       0       0       0       0       0       0       0
+ADS1           0       0       0       0       0       0       0
+LAYER2    633000      25     0.2     0.3    0.45    1200    1200     0.1      15
+CKCAMG2 0.8246930.0546900.0321570.0089741.252E-6
+COMP2      12.22     400     1.3      10       3      20
+COMP2          5       5       5       5
+SOL2           0       07.893E-5     0.1   0.001      20       4       2       1
+SOL2         0.5     0.1     0.5   0.001 20.2007     0.5 19.9451     0.5       0
+SOL2           0       0     100       0       8       0       0       0       0
+SOL2           0       0       0       0       0       0       0
+ADS2           0       01.2081E6 171.202       0 61.2223 74.2365 47.7803 28.0938
+ADS2          10       0       0      80       0     100       0       0       0
+ADS2           0       0       0       0       0       0       0       0       0
+ADS2           0       0       0       0       0       0       0
+LAYER3    633000      40    0.22    0.22    0.35     200     200     0.1      15
+CKCAMG3 0.8246910.0546900.0321570.0089749.542E-7
+COMP3       9.31     400     1.3      10       3      20
+COMP3         10      10      10      10
+SOL3           0       07.893E-5     0.1   0.001      20       4       2       1
+SOL3         0.5     0.1     0.5   0.001 20.2007     0.5 19.9451     0.5       0
+SOL3           0       0     100       0       8       0       0       0       0
+SOL3           0       0       0       0       0       0       0
+ADS3           0       01.2081E6 130.433       0 46.6431 56.5583 36.4022 21.4037
+ADS3          10       0       0      80       0     100       0       0       0
+ADS3           0       0       0       0       0       0       0       0       0
+ADS3           0       0       0       0       0       0       0
+LAYER4    633000      60    0.35     0.2    0.35      90      90    0.05      15
+CKCAMG4 0.8246910.0546900.0321570.0089742.213E-7
+COMP4       2.16     400     1.3      10       3      20
+COMP4         10      10      10      10
+SOL4           0       07.893E-5     0.1   0.001      20       4       2       1
+SOL4         0.5     0.1     0.5   0.001 20.2007     0.5 19.9451     0.5       0
+SOL4           0       0     100       0       8       0       0       0       0
+SOL4           0       0       0       0       0       0       0
+ADS4           0       01.2081E6 30.2616       0 10.8216  13.122 8.44561 4.96584
+ADS4          10       0       0      80       0     100       0       0       0
+ADS4           0       0       0       0       0       0       0       0       0
+ADS4           0       0       0       0       0       0       0
+LAYER5    633000      80    0.35    0.15    0.35      20      20       0      15
+CKCAMG5 0.8246930.0546910.0321570.0089741.024E-7
+COMP5          1     400     1.3      10       3      20
+COMP5         15      15      15      15
+SOL5           0       07.893E-5     0.1   0.001      20       4       2       1
+SOL5         0.5     0.1     0.5   0.001 20.2007     0.5 19.9451     0.5       0
+SOL5           0       0     100       0       8       0       0       0       0
+SOL5           0       0       0       0       0       0       0
+ADS5           0       01.2081E6   14.01       0 5.01001   6.075 3.91001   2.299
+ADS5          10       0       0      80       0     100       0       0       0
+ADS5           0       0       0       0       0       0       0       0       0
+ADS5           0       0       0       0       0       0       0
+******** RIVER COEFFICIENTS ********
+++++++++ RIVER 3 ++++++++
+STREAM3        3       1    1000     0.1       0    0.04      15   1E-05       0
+ELEV3          1       0River 1
+IMPOUND3       0       0
+STAREA3        0       0     0.1       1     0.2       3     0.3       5     0.4
+STAREA3        8     0.5      12       1      25       2      40      20     200
+ICATOL3        0       0       0       0       0       0       0       0       0
+IRVTOL3        0       0       0       0       0       0       0       0       0
+ILKTOL3        0       0       0       0       0       0       0       0       0
+DIVFROM        0
+DIVTO          0
+PTSOURCE       0
+OBSDATA3
+SEDIMENT   1E-06     1.3       0       0       0       0
+SEDTYPES     0.2     0.4     0.4
+AIRK3          1     0.2       0
+REAC-H2O     0.5     0.1     0.1       0       0       0       0       0  0.3456
+REAC-H2O    8.64  1036.8       1       1       1    0.15    0.15    0.15    0.05
+REAC-H2O    0.05    0.05     0.1     0.2     0.2     0.1     0.1     0.1       1
+REAC-H2O       0       0    0.05
+REAC-BED       0       0       0     0.1    0.05       0       0       0       0
+REAC-BED       0       0       0       0       0       0       0       0       0
+REAC-BED       0       0       0       0       0       0       0       0       0
+REAC-BED       0       0       0
+OBSDATA3
+W2FILES        0
+STRCH3         0       0   0.005     0.1   0.001      20       4       2       1
+STRCH3       0.5     0.1     0.5   0.001   0.054     0.5      20       0     0.5
+STRCH3       100       0       0       9       0       0       0       0       0
+STRCH3         0       0       0       0       0       0       0
+BEDCH3         0       0       0       0       0       0       0       0       0
+BEDCH3         0       0       0       0       0       0       0       0       0
+BEDCH3         0       0       0       0       0       0       0       0       0
+BEDCH3         0       0       0       0       0       0       0
+STRADS3        0       0       0 6233.81       0 472.552 404.556 197.971 20.7365
+STRADS3  16.2596       0       0   15000       0 107.184       0       0       0
+STRADS3        0       0       0       0       0       0       0       0       0
+STRADS3        0       0       0       0       0       0       0
+BEDADS3        0       0       0 6233.81       0 472.552 404.556 197.971 20.7365
+BEDADS3  16.2596       0       0   15000       0 107.184       0       0       0
+BEDADS3        0       0       0       0       0       0       0       0       0
+BEDADS3        0       0       0       0       0       0       0
+******** LAKE COEFFICIENTS ********
+++++++++ RESERVOIR 0 ++++++++
+DEPTH1         1       1       1      10       1
+STGFLO        36       0    36.5 2.40446      37 6.82379    37.5 12.5775      38
+STGFLO   19.4271    38.5 27.2363      39 35.9145    39.5 45.3955      40 55.6287
+TOTSTA         0     100       5  100000      10  400000      15  900000      20
+TOTSTA   1.6E+06      25 2.5E+06      30 3.6E+06      35 4.9E+06      40 6.4E+06
+OBSDATA        0
+REAC-H2O     0.5    0.01    0.01     0.1    0.05       0       0       0  0.3456
+REAC-H2O    8.64  1036.8       1       1       1    0.15    0.15    0.15    0.05
+REAC-H2O    0.05    0.05     0.1     0.2     0.2     0.1     0.1     0.1       1
+REAC-H2O       0       0    0.05
+REAC-BED       0       0       0     0.1    0.05       0       0       0       0
+REAC-BED       0       0       0       0       0       0       0       0       0
+REAC-BED       0       0       0       0       0       0       0       0       0
+REAC-BED       0       0       0
+ADSISO         0       0       0 6233.81       0 472.552 404.556 197.971 20.7365
+ADSISO   16.2596       0       0   15000       0 107.184       0       0       0
+ADSISO         0       0       0       0       0       0       0       0       0
+ADSISO         0       0       0       0       0       0       0
+ADSISO         0       0       0 6233.81       0 472.552 404.556 197.971 20.7365
+ADSISO   16.2596       0       0   15000       0 107.184       0       0       0
+ADSISO         0       0       0       0       0       0       0       0       0
+ADSISO         0       0       0       0       0       0       0
+ALGAE       0.01   0.005    0.05     110      15      40      28
+ALGAE       0.01   0.005    0.05     110       0      13       6
+ALGAE       0.01   0.005    0.05     110      12      30      22
+W2PARAM       34
+W2PARAM       -1      -1      -1      -1      -1      -1      -1      -1      -1
+W2PARAM       -1      -1      -1      -1      -1      -1      -1      -1      -1
+W2PARAM       -1      -1      -1      -1      -1      -1      -1      -1      -1
+W2PARAM       -1      -1      -1      -1      -1      -1      -1
+W2DERIVE      19
+W2DERIVE      -1      -1      -1      -1      -1      -1      -1      -1      -1
+W2DERIVE      -1      -1      -1      -1      -1      -1      -1      -1      -1
+W2DERIVE      -1
+W2CNTRL 
+W2MET   
+W2OUTFLO
+W2FILES        0
+-------- RESERVOIR SEGMENT 4 --------
+DEPTH          4       1       0       0Reservoir Segment 1
+DEPTH         36       5       0       0Uncontrolled Spillway
+PTSOURCE       0
+METFAC         1       0       1     0.5     0.5       1
+GMIN           0   5E-06   5E-05     4.6  0.0005   1E-06       0    -0.7       0
+SED            5   2E-06       1
+STGAREA        0     100       5  100000      10  400000      15  900000      20
+STGAREA  1.6E+06      25 2.5E+06      30 3.6E+06      35 4.9E+06      40 6.4E+06
+LAKION1        0       0       0     0.1   0.001      20       4       2       1
+LAKION10     0.5     0.1     0.5   0.001       0     0.5      20     0.5       0
+LAKION19       0       0      10       0       9       0   0.001   0.001   0.001
+LAKION28   0.001       0       0       0       0       0       0
+BEDION1        0       0       0       0       0       0       0       0       0
+BEDION10       0       0       0       0       0       0       0       0       0
+BEDION19       0       0       0       0       0       0       0       0       0
+BEDION28       0       0       0       0       0       0       0
+DEPTHTMP       0      20       5      15       6      10      25       5       0
+DEPTHTMP       0       0       0       0       0       0       0       0       0
+ICATOL1        0       0       0       0       0       0       0       0       0
+IRVTOL1        0       0       0       0       0       0       0       0       0
+ILKTOL1        0       0       0       0       0       0       0       0       0
+DIVTO          0
+OBSDATA 
+CRITERIA       0
+TMDL           0
+        
