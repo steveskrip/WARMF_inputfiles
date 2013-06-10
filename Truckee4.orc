@@ -1,0 +1,4 @@
+VERSION        3
+Latitude:     39.38 Longitude:  -120.105 TRUCKEE R BLW PROSSER CK, NR TRUCKEE, CA       
+            2MTEMP   MCL     
+30101991 0000     3.5      23112WRD   392215120065600 
