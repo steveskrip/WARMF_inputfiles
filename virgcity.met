@@ -1,827 +1,919 @@
 VERSION        3
 Latitude:      39.3 Longitude:  -119.633VirginiaCity
-01101976 0000  0.0381 9.44444 18.3333       0    2.94   860.9    3.34Virginia City NCDC/Reno Airport
-02101976 0000 0.62992 9.22222 20.5556     0.8    7.06   862.4    4.73Virginia City NCDC/Reno Airport
-03101976 0000 0.33528 6.11111 18.8889     0.8    4.67   868.2    3.24Virginia City NCDC/Reno Airport
-04101976 0000       0 3.88889 13.3333       0    2.78   868.5    1.34Virginia City NCDC/Reno Airport
-05101976 0000       0 4.44444 15.5556       0    3.17     870    1.44Virginia City NCDC/Reno Airport
-06101976 0000       0 5.55556 15.5556       0    3.61   871.1     1.8Virginia City NCDC/Reno Airport
-07101976 0000       0 5.55556 21.1111       0    3.83   871.5    1.59Virginia City NCDC/Reno Airport
-08101976 0000       0 8.33333 19.4444       0    4.39   871.5    1.44Virginia City NCDC/Reno Airport
-09101976 0000       0      10 19.4444       0     4.5   869.6    1.03Virginia City NCDC/Reno Airport
-10101976 0000       0 10.5556 23.3333       0    2.67   866.4    1.95Virginia City NCDC/Reno Airport
-11101976 0000       0 11.9444 26.1111       0    1.67   867.9    2.26Virginia City NCDC/Reno Airport
-12101976 0000       0 8.44444 21.6667       0      -1   873.2    2.01Virginia City NCDC/Reno Airport
-13101976 0000       0 6.11111 18.3333       0   -2.61   874.2    1.29Virginia City NCDC/Reno Airport
-14101976 0000       0 6.66667 17.2222       0   -0.89   868.5    1.34Virginia City NCDC/Reno Airport
-15101976 0000       0      10      20       0   -1.67   865.3    1.44Virginia City NCDC/Reno Airport
-16101976 0000       0 8.33333 23.3333       0   -2.44     868    1.34Virginia City NCDC/Reno Airport
-17101976 0000       0 8.44444 21.6667       0      -2   868.1    1.54Virginia City NCDC/Reno Airport
-18101976 0000       0 5.11111 18.3333       0   -4.17   867.3     1.8Virginia City NCDC/Reno Airport
-19101976 0000       0 2.77778 17.2222       0   -6.67   869.9    1.34Virginia City NCDC/Reno Airport
-20101976 0000       0 2.22222 13.3333       0   -5.06     870    1.39Virginia City NCDC/Reno Airport
-21101976 0000       0 3.88889      15       0   -5.11   867.4    1.23Virginia City NCDC/Reno Airport
-22101976 0000       0 4.44444 15.5556       0   -1.33   863.9     1.7Virginia City NCDC/Reno Airport
-23101976 0000       0       5 17.2222       0    0.89   864.7     1.8Virginia City NCDC/Reno Airport
-24101976 0000       0 4.44444      15       0   -2.11     868    1.95Virginia City NCDC/Reno Airport
-25101976 0000       0 4.44444 15.5556       0   -3.06   870.5    4.37Virginia City NCDC/Reno Airport
-26101976 0000       0 1.83333 15.5556       0   -4.72     873    3.24Virginia City NCDC/Reno Airport
-27101976 0000       0-5.55E-1      10       0   -4.67   874.6    1.54Virginia City NCDC/Reno Airport
-28101976 0000       0-1.66667 7.22222       0   -6.56   872.4    0.57Virginia City NCDC/Reno Airport
-29101976 0000       0-1.66667 16.1111       0    -6.5   868.9    0.51Virginia City NCDC/Reno Airport
-30101976 0000       0 1.66667 14.4444       0   -7.22   869.2    1.54Virginia City NCDC/Reno Airport
-31101976 0000       0 4.44444 16.1111       0   -6.78   871.7    1.13Virginia City NCDC/Reno Airport
-01111976 0000       0 4.44444 16.1111       0   -7.61   872.9    1.08Virginia City NCDC/Reno Airport
-02111976 0000       0       5 15.5556       0   -7.17   874.1    0.82Virginia City NCDC/Reno Airport
-03111976 0000       0 5.55556 17.7778       0   -6.11   876.6    0.98Virginia City NCDC/Reno Airport
-04111976 0000       0 5.55556 17.2222       0   -5.56   874.2    0.67Virginia City NCDC/Reno Airport
-05111976 0000       0 6.66667 19.4444       0   -4.94   871.2    0.82Virginia City NCDC/Reno Airport
-06111976 0000       0 7.77778 20.5556       0   -5.06   870.2    0.51Virginia City NCDC/Reno Airport
-07111976 0000       0 8.33333 22.2222       0   -4.78   872.8    0.36Virginia City NCDC/Reno Airport
-08111976 0000       0 8.33333 18.3333       0      -5   873.5    0.57Virginia City NCDC/Reno Airport
-09111976 0000       0 6.66667 18.8889       0   -4.61   869.5    0.72Virginia City NCDC/Reno Airport
-10111976 0000       0 6.22222 16.1111       0   -3.61     868    1.39Virginia City NCDC/Reno Airport
-11111976 0000       0 4.44444 16.6667       0   -2.89   865.2    0.87Virginia City NCDC/Reno Airport
-12111976 0000       0 2.77778 12.7778       0      -4   860.6    1.34Virginia City NCDC/Reno Airport
-13111976 0000       0 1.66667      10       0   -5.33   862.2    1.65Virginia City NCDC/Reno Airport
-14111976 0000  0.1651 2.77778 10.5556     0.8    1.39   863.8    4.42Virginia City NCDC/Reno Airport
-15111976 0000  0.4699 1.66667 11.6667     0.8    3.28   872.9    1.49Virginia City NCDC/Reno Airport
-16111976 0000       0 2.22222 5.55556       0    1.94   875.8    0.93Virginia City NCDC/Reno Airport
-17111976 0000       0 4.44444 14.4444       0    0.11   875.5    0.62Virginia City NCDC/Reno Airport
-18111976 0000       0 3.88889 15.5556       0   -0.67   871.4    0.62Virginia City NCDC/Reno Airport
-19111976 0000       0       5 18.3333       0   -0.67   869.5    0.87Virginia City NCDC/Reno Airport
-20111976 0000       0 3.88889 17.2222       0   -1.39   870.1    0.72Virginia City NCDC/Reno Airport
-21111976 0000       0 2.77778 16.6667       0   -1.89   869.7    0.67Virginia City NCDC/Reno Airport
-22111976 0000       0 3.88889      15       0   -2.67   870.7    0.31Virginia City NCDC/Reno Airport
-23111976 0000       0 2.88889 12.7778       0   -4.22   872.5    0.93Virginia City NCDC/Reno Airport
-24111976 0000       0 1.11111 12.2222       0   -4.28     872    0.51Virginia City NCDC/Reno Airport
-25111976 0000       0 2.22222 12.2222       0   -5.44   868.7    1.54Virginia City NCDC/Reno Airport
-26111976 0000       00.777778 17.7778       0   -8.83     866    3.76Virginia City NCDC/Reno Airport
-27111976 0000       0-8.44444 12.7778       0  -14.22   870.9    3.76Virginia City NCDC/Reno Airport
-28111976 0000       0-12.2222 1.66667       0  -15.06   874.4    1.13Virginia City NCDC/Reno Airport
-29111976 0000       0-11.6667-4.44444       0  -14.33   877.4    0.77Virginia City NCDC/Reno Airport
-30111976 0000       0     -10 1.11111       0  -13.28   877.9    1.65Virginia City NCDC/Reno Airport
-01121976 0000       0-6.66667 6.11111       0  -12.39   878.7    1.08Virginia City NCDC/Reno Airport
-02121976 0000       0-3.88889 7.22222       0  -10.94   878.5    0.41Virginia City NCDC/Reno Airport
-03121976 0000       0-2.22222      10       0  -10.67   874.2    0.93Virginia City NCDC/Reno Airport
-04121976 0000       0-1.11111 11.1111       0   -9.83   866.9    1.34Virginia City NCDC/Reno Airport
-05121976 0000       0-1.44444 12.2222       0   -8.72   869.4    1.49Virginia City NCDC/Reno Airport
-06121976 0000       0-3.88889 9.44444       0   -8.89   873.1    1.18Virginia City NCDC/Reno Airport
-07121976 0000       0-4.44444 5.55556       0  -10.39   873.1    1.18Virginia City NCDC/Reno Airport
-08121976 0000       0-3.88889 7.22222       0  -10.56   867.4    0.93Virginia City NCDC/Reno Airport
-09121976 0000  0.1016-2.77778 12.7778     0.8   -5.06   864.8    4.01Virginia City NCDC/Reno Airport
-10121976 0000       0-4.44444 11.1111       0   -9.06   875.9    1.75Virginia City NCDC/Reno Airport
-11121976 0000       0-7.22222 1.11111       0   -9.11     876    1.54Virginia City NCDC/Reno Airport
-12121976 0000       0-7.22222 3.88889       0   -8.94     872    0.98Virginia City NCDC/Reno Airport
-13121976 0000       0-7.22222 5.55556       0      -8   869.9    0.36Virginia City NCDC/Reno Airport
-14121976 0000       0-4.44444 8.33333       0   -9.78   871.3    0.67Virginia City NCDC/Reno Airport
-15121976 0000       0-3.44444 11.6667       0  -10.17   874.3    0.93Virginia City NCDC/Reno Airport
-16121976 0000       0-6.11111 11.1111       0  -10.11   872.3    0.87Virginia City NCDC/Reno Airport
-17121976 0000       0-3.33333 8.33333       0  -10.78   865.4    0.72Virginia City NCDC/Reno Airport
-18121976 0000       0-3.88889 9.44444       0  -10.78   866.1    0.87Virginia City NCDC/Reno Airport
-19121976 0000       0-2.77778 8.88889       0   -11.5   870.9    0.62Virginia City NCDC/Reno Airport
-20121976 0000       0-2.22222      10       0  -11.67   873.5    0.72Virginia City NCDC/Reno Airport
-21121976 0000       0-3.88889 7.22222       0   -12.5     872    1.34Virginia City NCDC/Reno Airport
-22121976 0000       0-4.44444 7.22222       0  -11.61     870    0.72Virginia City NCDC/Reno Airport
-23121976 0000       0-3.88889 6.11111       0  -10.44   867.7    0.41Virginia City NCDC/Reno Airport
-24121976 0000       0-4.44444 3.88889       0  -10.83   868.2    0.82Virginia City NCDC/Reno Airport
-25121976 0000       0      -5 5.55556       0  -12.67   872.2    0.62Virginia City NCDC/Reno Airport
-26121976 0000       0-2.22222 5.55556       0  -11.39   872.5    0.72Virginia City NCDC/Reno Airport
-27121976 0000       0-4.16667      10       0  -12.39     869    1.34Virginia City NCDC/Reno Airport
-28121976 0000       0-6.66667 8.33333       0     -13   869.4    0.67Virginia City NCDC/Reno Airport
-29121976 0000       0-5.55556 7.22222       0  -10.89   863.6    0.72Virginia City NCDC/Reno Airport
-30121976 0000       0-5.55556 7.77778       0   -6.06   857.3    2.42Virginia City NCDC/Reno Airport
-31121976 0000       0-2.83333 9.44444     0.6   -5.56   859.6    0.93Virginia City NCDC/Reno Airport
-01011977 0000       0      -5 1.66667       0   -7.72   859.2    1.29Virginia City NCDC/Reno Airport
-02011977 0000       0-4.44444       5     0.6   -0.67   857.1    1.85Virginia City NCDC/Reno Airport
-03011977 0000 1.10236      -4 1.66667     0.9   -1.94   852.4    5.04Virginia City NCDC/Reno Airport
-04011977 0000 0.82804-5.61111 3.33333     0.6   -5.11   863.5    3.09Virginia City NCDC/Reno Airport
-05011977 0000       0-7.22222-1.11111     0.8   -5.67   859.3    2.83Virginia City NCDC/Reno Airport
-06011977 0000   0.254-8.33333-1.66667     0.8   -8.67     867    2.68Virginia City NCDC/Reno Airport
-07011977 0000       0-11.8889-6.66667     0.6     -10   869.4    1.59Virginia City NCDC/Reno Airport
-08011977 0000       0-12.7778-2.77778     0.3    -9.5   864.2    0.93Virginia City NCDC/Reno Airport
-09011977 0000       0-12.2222 2.77778       0  -10.72   870.5    0.93Virginia City NCDC/Reno Airport
-10011977 0000       0     -100.555556     0.3   -6.89   869.1    1.39Virginia City NCDC/Reno Airport
-11011977 0000       0-9.44444       5     0.3   -6.44   868.9    0.77Virginia City NCDC/Reno Airport
-12011977 0000       0-7.22222 3.88889     0.6    -3.5   864.5    1.65Virginia City NCDC/Reno Airport
-13011977 0000       0-6.66667 1.11111     0.6   -4.83   866.8    1.03Virginia City NCDC/Reno Airport
-14011977 0000       0-7.22222       5     0.3   -4.11   870.2    1.08Virginia City NCDC/Reno Airport
-15011977 0000       0      -5 6.66667       0   -5.39   871.8    0.51Virginia City NCDC/Reno Airport
-16011977 0000       0-5.11111 6.66667       0   -5.72   875.7    1.03Virginia City NCDC/Reno Airport
-17011977 0000       0-7.22222 9.44444       0    -6.5   880.8    0.98Virginia City NCDC/Reno Airport
-18011977 0000       0      -5 7.22222       0   -5.61     879    0.67Virginia City NCDC/Reno Airport
-19011977 0000       0-2.22222 8.33333       0      -5   873.3    0.93Virginia City NCDC/Reno Airport
-20011977 0000       0-1.11111 8.88889       0   -3.72   868.8    0.15Virginia City NCDC/Reno Airport
-21011977 0000       0-1.66667 7.77778     0.3   -0.83   866.9    0.72Virginia City NCDC/Reno Airport
-22011977 0000  0.3048-2.77E-1 7.77778     0.8    0.67   867.7    0.51Virginia City NCDC/Reno Airport
-23011977 0000  0.3048-1.66667 3.88889     0.6    1.89   872.2    0.87Virginia City NCDC/Reno Airport
-24011977 0000       0-1.94444 2.77778     0.6   -1.61   874.9    2.37Virginia City NCDC/Reno Airport
-25011977 0000       0-3.33333 2.77778     0.6   -3.78     870    1.34Virginia City NCDC/Reno Airport
-26011977 0000       0-4.44444       0     0.6   -2.78   869.1    1.75Virginia City NCDC/Reno Airport
-27011977 0000       0-4.44444-2.77778     0.3      -4   868.5    0.82Virginia City NCDC/Reno Airport
-28011977 0000       0-3.88889 4.44444     0.3   -4.61   869.9    0.93Virginia City NCDC/Reno Airport
-29011977 0000       0-3.88889 6.11111       0   -5.33   870.2    0.82Virginia City NCDC/Reno Airport
-30011977 0000       0-3.33333 7.22222       0   -6.89   871.4    0.82Virginia City NCDC/Reno Airport
-31011977 0000       0-3.88889 7.22222       0   -4.39   870.1    1.49Virginia City NCDC/Reno Airport
-01021977 0000       0-3.88889 8.88889       0   -4.17     869    3.34Virginia City NCDC/Reno Airport
-02021977 0000       0-3.61111 10.5556     0.3   -5.89   868.5    1.65Virginia City NCDC/Reno Airport
-03021977 0000       0-6.11111 3.88889     0.3   -6.72   870.2     1.7Virginia City NCDC/Reno Airport
-04021977 0000       0-6.11111 3.33333       0   -6.28   874.1    0.98Virginia City NCDC/Reno Airport
-05021977 0000       0-5.61111 6.66667     0.3   -5.94   872.3    0.77Virginia City NCDC/Reno Airport
-06021977 0000       0-7.77778 6.66667       0   -3.67   871.3    1.29Virginia City NCDC/Reno Airport
-07021977 0000       0       0      10       0   -3.17   870.9    1.59Virginia City NCDC/Reno Airport
-08021977 0000       0-1.11111 7.77778     0.3   -1.83     866     3.5Virginia City NCDC/Reno Airport
-09021977 0000       0    -1.5 8.88889     0.3    -2.5   869.3    2.01Virginia City NCDC/Reno Airport
-10021977 0000       0-3.33333 9.44444     0.3   -3.56   873.4    1.44Virginia City NCDC/Reno Airport
-11021977 0000       0-3.88889 7.22222       0   -3.83   876.1    1.23Virginia City NCDC/Reno Airport
-12021977 0000       00.555556 11.6667       0   -3.56   877.5    0.93Virginia City NCDC/Reno Airport
-13021977 0000       0 1.11111 11.6667       0   -3.78   877.3    1.08Virginia City NCDC/Reno Airport
-14021977 0000       0 1.66667 14.4444       0   -4.17   874.9    1.49Virginia City NCDC/Reno Airport
-15021977 0000       0 3.22222      15       0   -4.39   874.1    1.59Virginia City NCDC/Reno Airport
-16021977 0000       0 1.11111 12.2222       0   -3.67   873.4    1.54Virginia City NCDC/Reno Airport
-17021977 0000       0 1.66667 16.6667       0   -5.44   873.2     1.9Virginia City NCDC/Reno Airport
-18021977 0000       0 4.61111 18.3333       0   -7.06     874    0.93Virginia City NCDC/Reno Airport
-19021977 0000       0 2.22222      15       0   -6.83   873.7    1.03Virginia City NCDC/Reno Airport
-20021977 0000       0 2.77778 13.8889       0   -7.56   870.3    3.65Virginia City NCDC/Reno Airport
-21021977 0000       0 2.38889 16.1111     0.8    0.39   863.3     5.3Virginia City NCDC/Reno Airport
-22021977 0000 3.23088-3.88889      15       1   -4.06   863.5    4.53Virginia City NCDC/Reno Airport
-23021977 0000 0.14732-7.22222 3.33333     0.8   -2.89   862.5    2.98Virginia City NCDC/Reno Airport
-24021977 0000  0.0762-6.38889 4.44444     0.8   -6.78   865.9    2.78Virginia City NCDC/Reno Airport
-25021977 0000  0.3556-8.33333 2.22222     0.3   -7.33   869.9    2.83Virginia City NCDC/Reno Airport
-26021977 0000       0-7.77778 2.77778     0.3   -6.28   873.9    2.01Virginia City NCDC/Reno Airport
-27021977 0000       0-5.55556 4.44444       0   -4.89   874.5    1.08Virginia City NCDC/Reno Airport
-28021977 0000       0-3.33333 7.77778       0   -4.44   868.1     3.7Virginia City NCDC/Reno Airport
-01031977 0000  0.1016-5.11111      10     0.8   -6.44   864.8    4.73Virginia City NCDC/Reno Airport
-02031977 0000       0-7.77778 7.22222     0.3    -8.5   865.3    3.86Virginia City NCDC/Reno Airport
-03031977 0000       0-7.77778-1.11111     0.6   -6.44   865.3    5.09Virginia City NCDC/Reno Airport
-04031977 0000       0-6.66667 1.11111     0.3   -6.78   871.3    4.17Virginia City NCDC/Reno Airport
-05031977 0000       0-6.66667 2.22222     0.3   -7.28   873.4    1.44Virginia City NCDC/Reno Airport
-06031977 0000       0-5.55556 2.22222       0   -6.89   870.8     1.9Virginia City NCDC/Reno Airport
-07031977 0000       0-2.77778 8.88889       0  -11.78   868.3    5.09Virginia City NCDC/Reno Airport
-08031977 0000       0-5.55E-1 11.6667       0   -9.61   867.4    3.09Virginia City NCDC/Reno Airport
-09031977 0000       00.555556 12.7778       0    -2.5   861.8    7.25Virginia City NCDC/Reno Airport
-10031977 0000       0-6.05556 13.3333     0.8   -7.06   871.5     3.4Virginia City NCDC/Reno Airport
-11031977 0000   0.889-9.44444 12.2222     0.3   -8.72   875.6    2.37Virginia City NCDC/Reno Airport
-12031977 0000       0-8.33333 1.66667       0   -6.33   863.9    6.17Virginia City NCDC/Reno Airport
-13031977 0000       0-6.66667 7.22222       0   -7.17   859.7    5.25Virginia City NCDC/Reno Airport
-14031977 0000 0.00508-7.77778 7.77778     0.8   -8.94   862.6    2.83Virginia City NCDC/Reno Airport
-15031977 0000 0.02032-9.44444-1.66667       0  -10.44   862.1    3.81Virginia City NCDC/Reno Airport
-16031977 0000       0-6.666670.555556       0   -7.22     858    2.01Virginia City NCDC/Reno Airport
-17031977 0000  0.0762-4.44444 3.33333     0.8   -3.22   860.8    5.04Virginia City NCDC/Reno Airport
-18031977 0000  0.1524    -4.5 4.44444     0.3   -8.17   867.1    2.37Virginia City NCDC/Reno Airport
-19031977 0000       0-6.11111 1.66667       0   -4.78   864.9    3.09Virginia City NCDC/Reno Airport
-20031977 0000       0-2.77778 8.33333       0   -4.33   865.8    2.88Virginia City NCDC/Reno Airport
-21031977 0000       0-1.11111 9.44444       0   -8.56   870.2    2.21Virginia City NCDC/Reno Airport
-22031977 0000       0       0 10.5556       0   -5.56   865.8    1.49Virginia City NCDC/Reno Airport
-23031977 0000       0 4.44444 13.8889       0   -3.33   857.1    6.28Virginia City NCDC/Reno Airport
-24031977 0000       0    -1.5 18.3333       0   -7.17   858.1    4.22Virginia City NCDC/Reno Airport
-25031977 0000  0.1524      -5 8.33333     0.8   -3.17   857.7    2.42Virginia City NCDC/Reno Airport
-26031977 0000       0-5.55556 3.33333       0   -8.94   863.5    2.06Virginia City NCDC/Reno Airport
-27031977 0000       0-2.77778 5.55556       0   -6.78   863.4    4.48Virginia City NCDC/Reno Airport
-28031977 0000       0-4.77778 12.2222       0  -12.33   863.9    5.14Virginia City NCDC/Reno Airport
-29031977 0000       0-7.77778 13.8889       0   -10.5   863.4    3.09Virginia City NCDC/Reno Airport
-30031977 0000       0-7.77778 1.66667       0   -8.56   861.9    3.45Virginia City NCDC/Reno Airport
-31031977 0000       0-6.66667 1.66667       0   -8.61   864.9    2.73Virginia City NCDC/Reno Airport
-01041977 0000       0-5.55556 1.66667       0   -6.44   861.6    7.25Virginia City NCDC/Reno Airport
-02041977 0000       0-3.05556 7.77778       0   -8.56     863    5.66Virginia City NCDC/Reno Airport
-03041977 0000       0      -5 7.22222       0   -7.11   868.9    2.16Virginia City NCDC/Reno Airport
-04041977 0000       0-2.22222       5       0      -2   872.3     1.8Virginia City NCDC/Reno Airport
-05041977 0000       0 1.11111 11.1111       0   -0.11   870.2     1.9Virginia City NCDC/Reno Airport
-06041977 0000       0 7.22222 17.7778       0     2.5   870.2    2.83Virginia City NCDC/Reno Airport
-07041977 0000       0 7.77778 20.5556       0    0.67   869.7     3.7Virginia City NCDC/Reno Airport
-08041977 0000       0 8.33333 22.2222       0    0.83   864.4       9Virginia City NCDC/Reno Airport
-09041977 0000  0.0508 2.77778 21.6667     0.8    0.72   864.2    4.89Virginia City NCDC/Reno Airport
-10041977 0000       0-5.55E-1 16.1111     0.3   -1.22   867.5    3.09Virginia City NCDC/Reno Airport
-11041977 0000       0-1.66667      10       0   -3.78   867.5    2.06Virginia City NCDC/Reno Airport
-12041977 0000       0 2.22222 10.5556       0   -3.17   870.5    2.47Virginia City NCDC/Reno Airport
-13041977 0000       0 3.33333 13.3333       0    0.39   864.7    2.62Virginia City NCDC/Reno Airport
-14041977 0000       0 1.66667 17.2222       0   -0.11   863.8     3.7Virginia City NCDC/Reno Airport
-15041977 0000       0-1.11111 15.5556       0   -3.56   866.7     1.9Virginia City NCDC/Reno Airport
-16041977 0000       0 2.77778 11.6667       0     1.5   864.7    2.47Virginia City NCDC/Reno Airport
-17041977 0000       0 5.11111 18.3333       0   -1.44   867.4    4.42Virginia City NCDC/Reno Airport
-18041977 0000       0 2.77778 19.4444       0   -7.78   867.1    2.93Virginia City NCDC/Reno Airport
-19041977 0000       0 1.66667 14.4444       0   -9.61   867.8    2.93Virginia City NCDC/Reno Airport
-20041977 0000       00.555556 11.6667       0  -10.22   865.2    2.31Virginia City NCDC/Reno Airport
-21041977 0000       0 2.22222 12.7778       0   -7.72   865.3    3.14Virginia City NCDC/Reno Airport
-22041977 0000       0       5 17.7778       0   -5.17   867.3    3.14Virginia City NCDC/Reno Airport
-23041977 0000       0 6.66667 18.8889       0   -6.83   868.3    2.31Virginia City NCDC/Reno Airport
-24041977 0000       0 8.33333 21.1111       0   -6.56   868.1    2.26Virginia City NCDC/Reno Airport
-25041977 0000       0      10 20.5556       0   -3.11   866.2    5.14Virginia City NCDC/Reno Airport
-26041977 0000       0 4.72222 22.2222       0    0.78   867.3    3.81Virginia City NCDC/Reno Airport
-27041977 0000       0 1.66667 18.8889       0   -1.39   862.8    2.42Virginia City NCDC/Reno Airport
-28041977 0000       0 2.77778 17.2222       0   -0.06   863.9    4.63Virginia City NCDC/Reno Airport
-29041977 0000       0       5      20       0    -1.5   866.3    3.86Virginia City NCDC/Reno Airport
-30041977 0000       0       5 18.8889       0    2.78   863.8    3.96Virginia City NCDC/Reno Airport
-01051977 0000       0 4.55556 17.7778     0.6    4.33     862    3.91Virginia City NCDC/Reno Airport
-02051977 0000   0.254 1.66667 14.4444     0.8       0   866.3    4.32Virginia City NCDC/Reno Airport
-03051977 0000   0.254-5.55E-1 9.44444       0   -2.56     862    5.25Virginia City NCDC/Reno Airport
-04051977 0000       0       2 13.3333       0   -4.33   862.7    4.48Virginia City NCDC/Reno Airport
-05051977 0000       0       0 9.44444       0   -6.61   858.2    6.69Virginia City NCDC/Reno Airport
-06051977 0000       0-2.05556 14.4444       0   -5.22   854.9    3.96Virginia City NCDC/Reno Airport
-07051977 0000       0      -5 6.66667     0.6   -3.83   858.9    3.96Virginia City NCDC/Reno Airport
-08051977 0000       0-6.11111 6.11111     0.8    0.72   861.7    2.16Virginia City NCDC/Reno Airport
-09051977 0000  0.3556      -5       5     0.9    3.17   857.5    3.45Virginia City NCDC/Reno Airport
-10051977 0000   1.524-5.55E-1 6.11111     0.8   -0.33   860.4    4.42Virginia City NCDC/Reno Airport
-11051977 0000       0-1.38889 3.33333     0.6    0.06   860.4    4.73Virginia City NCDC/Reno Airport
-12051977 0000 0.12192-2.22222 6.11111     0.8    2.33   860.3    2.73Virginia City NCDC/Reno Airport
-13051977 0000 1.19888-5.55E-1 6.11111     0.8    3.33   863.6    2.06Virginia City NCDC/Reno Airport
-14051977 0000       0       0 7.22222     0.3    2.28   863.5    4.42Virginia City NCDC/Reno Airport
-15051977 0000       0 2.22222 13.3333       0     0.5   863.1    4.89Virginia City NCDC/Reno Airport
-16051977 0000  0.1524-1.11111 14.4444     0.8   -0.72     861    5.76Virginia City NCDC/Reno Airport
-17051977 0000 0.33782-3.88889 11.6667     0.8   -0.22   865.5    3.19Virginia City NCDC/Reno Airport
-18051977 0000 0.39878-2.77778 3.88889     0.6   -1.28   865.5    4.01Virginia City NCDC/Reno Airport
-19051977 0000  0.5334-1.66667 6.66667     0.8    2.61   868.4    4.01Virginia City NCDC/Reno Airport
-20051977 0000       0       0 11.1111       0       1   868.4    2.16Virginia City NCDC/Reno Airport
-21051977 0000       0 1.11111 14.4444       0    2.78   866.3    3.34Virginia City NCDC/Reno Airport
-22051977 0000       0 7.22222      20       0    3.83   860.3    3.76Virginia City NCDC/Reno Airport
-23051977 0000       0 4.44444      20       0    1.61   857.1    4.32Virginia City NCDC/Reno Airport
-24051977 0000       0 1.66667 14.4444     0.3    1.11     859    3.96Virginia City NCDC/Reno Airport
-25051977 0000       0 1.11111 11.1111       0    0.17   861.4     3.4Virginia City NCDC/Reno Airport
-26051977 0000       0 2.22222 12.2222       0   -0.06   861.5    4.01Virginia City NCDC/Reno Airport
-27051977 0000       0 4.33333 13.3333       0   -0.06   862.3    4.53Virginia City NCDC/Reno Airport
-28051977 0000       0 2.77778 13.3333       0   -5.33   863.6    4.22Virginia City NCDC/Reno Airport
-29051977 0000       0 1.66667 16.1111       0    -2.5   862.2    3.76Virginia City NCDC/Reno Airport
-30051977 0000       0 5.55556 19.4444       0    0.22   865.1    2.83Virginia City NCDC/Reno Airport
-31051977 0000       0 8.88889      20       0    1.56   867.8    2.88Virginia City NCDC/Reno Airport
-01061977 0000       0 13.3333 26.1111       0    1.28   866.1    4.58Virginia City NCDC/Reno Airport
-02061977 0000       0 12.7778 28.3333       0    3.83   865.6    3.34Virginia City NCDC/Reno Airport
-03061977 0000       0      10 23.8889       0   -1.28   864.2    3.91Virginia City NCDC/Reno Airport
-04061977 0000       0 12.7778      25       0    7.33   867.2    3.09Virginia City NCDC/Reno Airport
-05061977 0000       0 12.7778      25       0    7.94   867.7    2.68Virginia City NCDC/Reno Airport
-06061977 0000       0 18.3333 28.8889       0    9.44   866.2    3.34Virginia City NCDC/Reno Airport
-07061977 0000       0 18.8333 31.1111       0    8.83   866.6    4.22Virginia City NCDC/Reno Airport
-08061977 0000 0.03556 14.7222 28.8889     0.8   11.22   863.5    2.93Virginia City NCDC/Reno Airport
-09061977 0000 0.21844 12.2222 27.2222     0.8   10.89   859.9    2.62Virginia City NCDC/Reno Airport
-10061977 0000  0.2032     8.5      25     0.9    7.61   863.7    2.21Virginia City NCDC/Reno Airport
-11061977 0000  1.3462 5.55556 11.6667     0.8    6.72   866.2    2.57Virginia City NCDC/Reno Airport
-12061977 0000  0.2032 6.11111 18.3333       0    2.56     865    3.45Virginia City NCDC/Reno Airport
-13061977 0000       0 8.88889 21.6667       0    4.17   863.4    3.09Virginia City NCDC/Reno Airport
-14061977 0000       0      10 22.7778       0    3.22   864.4    3.86Virginia City NCDC/Reno Airport
-15061977 0000       0      10 23.8889       0    3.94   866.2     3.4Virginia City NCDC/Reno Airport
-16061977 0000       0 11.1111 23.3333       0    4.89   865.3    3.09Virginia City NCDC/Reno Airport
-17061977 0000       0 13.3333 23.8889       0    5.78   864.8    5.92Virginia City NCDC/Reno Airport
-18061977 0000       0 11.6667 26.6667       0    4.56   866.4    2.93Virginia City NCDC/Reno Airport
-19061977 0000       0 9.27778 17.7778       1    8.72   864.8    3.55Virginia City NCDC/Reno Airport
-20061977 0000   2.794 7.77778 24.4444       0    7.56   864.6    3.55Virginia City NCDC/Reno Airport
-21061977 0000       0 10.5556 21.1111       0    7.83   866.4     3.5Virginia City NCDC/Reno Airport
-22061977 0000       0 11.6667 23.3333       0    7.33   866.5    2.31Virginia City NCDC/Reno Airport
-23061977 0000       0 13.3333 24.4444       0    6.06   866.2     3.6Virginia City NCDC/Reno Airport
-24061977 0000       0 15.5556 28.8889       0    7.94   867.4    2.73Virginia City NCDC/Reno Airport
-25061977 0000       0 17.7778 31.6667       0    9.94   867.2    3.29Virginia City NCDC/Reno Airport
-26061977 0000       0 18.3333 31.1111       0    8.44   867.9    2.62Virginia City NCDC/Reno Airport
-27061977 0000       0 17.7778 31.6667     0.8    8.06   868.3    3.14Virginia City NCDC/Reno Airport
-28061977 0000  0.0254 16.6667 31.6667       0    4.83     870    3.04Virginia City NCDC/Reno Airport
-29061977 0000       0 18.8889 32.2222       0    6.83   868.3     1.7Virginia City NCDC/Reno Airport
-30061977 0000       0 18.3333 29.4444       0    8.83   865.5    3.14Virginia City NCDC/Reno Airport
-01071977 0000       0 19.3333 31.1111       0    9.78   866.1    3.96Virginia City NCDC/Reno Airport
-02071977 0000       0 16.2222 29.4444       0    8.83   865.6    4.17Virginia City NCDC/Reno Airport
-03071977 0000       0 13.8889 27.7778       0    7.72   863.1    4.22Virginia City NCDC/Reno Airport
-04071977 0000       0 12.7778 22.2222       0    2.89   861.3    5.66Virginia City NCDC/Reno Airport
-05071977 0000       0 9.72222 23.8889       0      -2   865.7    4.01Virginia City NCDC/Reno Airport
-06071977 0000       0 7.22222 21.1111       0   -3.28   868.5     3.4Virginia City NCDC/Reno Airport
-07071977 0000       0 8.88889 22.2222       0    0.06   867.5    2.37Virginia City NCDC/Reno Airport
-08071977 0000       0 12.2222 26.6667       0    0.11   866.6     3.4Virginia City NCDC/Reno Airport
-09071977 0000       0 11.1111 27.7778       0   -0.22   865.9    4.06Virginia City NCDC/Reno Airport
-10071977 0000       0 13.3333 27.2222       0   -0.33   866.9     3.6Virginia City NCDC/Reno Airport
-11071977 0000       0 12.7778 26.6667       0    2.22   866.1    2.52Virginia City NCDC/Reno Airport
-12071977 0000       0 15.5556 26.6667       0    3.11   864.3    4.53Virginia City NCDC/Reno Airport
-13071977 0000       0 16.5556 31.6667       0    0.61   865.3    4.53Virginia City NCDC/Reno Airport
-14071977 0000       0 13.8889 29.4444       0    1.89   866.4    3.29Virginia City NCDC/Reno Airport
-15071977 0000       0 16.1111 28.8889       0       1   866.7    3.29Virginia City NCDC/Reno Airport
-16071977 0000       0 16.6667 31.1111       0       3   868.3    3.09Virginia City NCDC/Reno Airport
-17071977 0000       0 17.2222 32.2222       0    3.33   868.2    4.17Virginia City NCDC/Reno Airport
-18071977 0000       0 17.2222 32.2222       0       3   865.2    4.06Virginia City NCDC/Reno Airport
-19071977 0000       0 17.7778 29.4444       0    0.78   864.2     3.4Virginia City NCDC/Reno Airport
-20071977 0000       0 15.2778 29.4444       0    2.56     866     3.7Virginia City NCDC/Reno Airport
-21071977 0000       0 12.7778 27.7778       0    3.72   867.4     3.6Virginia City NCDC/Reno Airport
-22071977 0000       0 15.5556 29.4444       0       2   868.9    4.06Virginia City NCDC/Reno Airport
-23071977 0000       0 15.5556 28.8889       0   -0.17   868.8    3.24Virginia City NCDC/Reno Airport
-24071977 0000       0 15.5556 28.8889       0    0.61   867.5     3.5Virginia City NCDC/Reno Airport
-25071977 0000       0 16.1111 28.8889       0    1.28   869.2    2.93Virginia City NCDC/Reno Airport
-26071977 0000       0 14.4444      30       0   -1.67   870.7    4.22Virginia City NCDC/Reno Airport
-27071977 0000       0 12.2222 26.6667       0   -1.06   870.3    3.86Virginia City NCDC/Reno Airport
-28071977 0000       0      15 29.4444       0    -0.5   868.6     3.5Virginia City NCDC/Reno Airport
-29071977 0000       0 14.4444 31.1111       0   -1.28   869.6    4.17Virginia City NCDC/Reno Airport
-30071977 0000       0 15.5556      30       0    0.33     870    2.42Virginia City NCDC/Reno Airport
-31071977 0000       0 16.1111 32.2222       0    0.72   869.9    2.01Virginia City NCDC/Reno Airport
-01081977 0000       0 17.2222 31.1111       0    3.67   869.3     1.8Virginia City NCDC/Reno Airport
-02081977 0000       0 17.7778 32.2222       0    5.39   869.3    3.29Virginia City NCDC/Reno Airport
-03081977 0000       0 19.4444 33.3333       0    7.22   867.4    2.57Virginia City NCDC/Reno Airport
-04081977 0000       0 19.4444 31.6667       0    5.78   866.3    3.45Virginia City NCDC/Reno Airport
-05081977 0000       0 18.3333 31.1111       0    1.83   865.1    3.24Virginia City NCDC/Reno Airport
-06081977 0000       0 16.6667      30       0    1.89   864.4    3.29Virginia City NCDC/Reno Airport
-07081977 0000       0 16.1111 26.6667       0     1.5   864.6    3.09Virginia City NCDC/Reno Airport
-08081977 0000       0 14.4444 26.6667       0   -1.44   866.7    2.83Virginia City NCDC/Reno Airport
-09081977 0000       0 12.7778      25       0   -0.22   866.2     1.8Virginia City NCDC/Reno Airport
-10081977 0000       0 13.8889 28.3333       0    2.06   865.5    2.78Virginia City NCDC/Reno Airport
-11081977 0000       0 18.8889 29.4444       0    2.06   865.6    2.52Virginia City NCDC/Reno Airport
-12081977 0000       0 19.4444 29.4444       0    3.17   865.8    2.78Virginia City NCDC/Reno Airport
-13081977 0000       0 18.3333 30.5556       0    6.17   864.6    2.42Virginia City NCDC/Reno Airport
-14081977 0000       0 18.3333 32.2222       0    7.33   862.8    2.06Virginia City NCDC/Reno Airport
-15081977 0000       0 17.2222 31.1111       0    0.33   863.4     3.4Virginia City NCDC/Reno Airport
-16081977 0000       0 15.5556 29.4444       0   -0.61   866.1    2.88Virginia City NCDC/Reno Airport
-17081977 0000       0 17.2222 30.5556       0    5.44   866.6    2.88Virginia City NCDC/Reno Airport
-18081977 0000       0    17.5 31.6667     0.8   11.56   868.3    2.06Virginia City NCDC/Reno Airport
-19081977 0000   0.127      15 28.5556       0    7.56   867.7    2.68Virginia City NCDC/Reno Airport
-20081977 0000       0 16.1111 26.6667       0    7.67     867    3.04Virginia City NCDC/Reno Airport
-21081977 0000       0 18.3333      30       0    7.33     867    3.34Virginia City NCDC/Reno Airport
-22081977 0000       0 16.6667 31.1111       0     4.5   865.8    3.65Virginia City NCDC/Reno Airport
-23081977 0000       0 17.3889 31.1111       0    1.94   865.3    4.06Virginia City NCDC/Reno Airport
-24081977 0000       0      15 31.1111       0    1.89     864    4.73Virginia City NCDC/Reno Airport
-25081977 0000       0 14.4444 28.8889       0    6.11   864.5    4.37Virginia City NCDC/Reno Airport
-26081977 0000       0 11.2222 21.1111       0    6.44   862.6    4.12Virginia City NCDC/Reno Airport
-27081977 0000       0 8.77778 20.5556       0    0.61   864.7    2.26Virginia City NCDC/Reno Airport
-28081977 0000       0 6.66667 18.8889       0    2.44   868.8    3.81Virginia City NCDC/Reno Airport
-29081977 0000       0 10.5556 23.8889       0    6.72   869.3    2.68Virginia City NCDC/Reno Airport
-30081977 0000       0 12.7778 26.6667       0    1.61   866.2    3.24Virginia City NCDC/Reno Airport
-31081977 0000       0 12.1111 27.2222       0   -0.94   863.6    2.98Virginia City NCDC/Reno Airport
-01091977 0000       0 9.44444 27.2222       0    0.11   864.5     3.4Virginia City NCDC/Reno Airport
-02091977 0000       0 11.1111 26.1111       0    2.89   866.3    2.93Virginia City NCDC/Reno Airport
-03091977 0000       0 12.7778 26.6667       0    1.22   867.7    3.29Virginia City NCDC/Reno Airport
-04091977 0000       0 12.7778 27.7778       0    1.11   867.4    2.42Virginia City NCDC/Reno Airport
-05091977 0000       0      15 29.4444       0   -0.28   867.7    2.57Virginia City NCDC/Reno Airport
-06091977 0000       0 15.5556      30       0    1.11   868.8    2.78Virginia City NCDC/Reno Airport
-07091977 0000       0 17.2222 31.1111       0    2.22   869.5    3.19Virginia City NCDC/Reno Airport
-08091977 0000       0 17.2222 31.1111       0    1.94   869.8    3.86Virginia City NCDC/Reno Airport
-09091977 0000       0 14.8333 29.4444       0    1.39   867.1    1.59Virginia City NCDC/Reno Airport
-10091977 0000       0 12.2222 25.5556       0    2.17   865.1    2.21Virginia City NCDC/Reno Airport
-11091977 0000       0 12.7778 27.7778       0    2.39   865.7    2.68Virginia City NCDC/Reno Airport
-12091977 0000       0 14.4444 28.3333       0   -0.72   866.8    2.98Virginia City NCDC/Reno Airport
-13091977 0000       0 12.7778 27.7778       0       0   866.2    2.01Virginia City NCDC/Reno Airport
-14091977 0000       0 14.9444 27.2222       0    1.78   863.7    2.73Virginia City NCDC/Reno Airport
-15091977 0000       0 11.2778      25       0    -1.5   860.7    3.91Virginia City NCDC/Reno Airport
-16091977 0000       0 8.88889 21.6667       0   -0.33   858.5    4.37Virginia City NCDC/Reno Airport
-17091977 0000       0 5.38889      20       0   -0.56   863.3    2.78Virginia City NCDC/Reno Airport
-18091977 0000       0 2.77778 11.6667       0    0.17   864.6    2.21Virginia City NCDC/Reno Airport
-19091977 0000       0 4.44444      15       0     1.5   860.5    4.32Virginia City NCDC/Reno Airport
-20091977 0000   1.397 5.55556 21.1111     0.9    2.44   865.3    3.65Virginia City NCDC/Reno Airport
-21091977 0000       0 3.88889 13.3333       0   -1.56     868    2.31Virginia City NCDC/Reno Airport
-22091977 0000       0 3.88889 13.8889       0   -4.89   863.5     3.7Virginia City NCDC/Reno Airport
-23091977 0000       0 4.44444 19.4444       0    -6.5   863.2    3.24Virginia City NCDC/Reno Airport
-24091977 0000       0 2.77778 17.2222       0    0.28     860    6.22Virginia City NCDC/Reno Airport
-25091977 0000       0 4.44444 18.8889       0    0.06   861.7    2.83Virginia City NCDC/Reno Airport
-26091977 0000       0      10      20       0    3.89   862.1    3.91Virginia City NCDC/Reno Airport
-27091977 0000       0 10.5556 22.7778       0    4.28   863.7    3.04Virginia City NCDC/Reno Airport
-28091977 0000       0 9.44444 22.2222       0    3.33   863.8    3.96Virginia City NCDC/Reno Airport
-29091977 0000       0 7.22222      20       0       4   861.8     7.1Virginia City NCDC/Reno Airport
-30091977 0000       0 5.27778 19.4444       0    1.17   866.5    4.01Virginia City NCDC/Reno Airport
-01101977 0000       0 2.77778 16.6667       0    -3.5   868.1    2.11Virginia City NCDC/Reno Airport
-02101977 0000       0 1.11111 13.3333       0   -3.83     866    1.75Virginia City NCDC/Reno Airport
-03101977 0000       0 1.66667      15       0   -3.89   866.2    1.75Virginia City NCDC/Reno Airport
-04101977 0000       0 6.66667 21.1111       0   -4.28   865.1    1.44Virginia City NCDC/Reno Airport
-05101977 0000       0 6.66667      20       0   -4.61   863.7     3.5Virginia City NCDC/Reno Airport
-06101977 0000       0 6.66667 21.6667       0   -4.78   864.7     5.2Virginia City NCDC/Reno Airport
-07101977 0000       0 4.88889      20       0   -6.06   869.4    2.57Virginia City NCDC/Reno Airport
-08101977 0000       0 2.22222 15.5556       0      -4   868.5    1.34Virginia City NCDC/Reno Airport
-09101977 0000       0 2.77778 15.5556       0   -2.83   866.4    1.75Virginia City NCDC/Reno Airport
-10101977 0000       0 6.11111 18.3333       0   -5.17     869    2.11Virginia City NCDC/Reno Airport
-11101977 0000       0 7.22222      20       0   -4.28   872.4    1.54Virginia City NCDC/Reno Airport
-12101977 0000       0       5 16.1111       0   -3.33   872.2    1.23Virginia City NCDC/Reno Airport
-13101977 0000       0 6.11111 17.7778       0   -3.06   870.6    1.03Virginia City NCDC/Reno Airport
-14101977 0000       0 7.77778 22.2222       0   -3.44     871    1.54Virginia City NCDC/Reno Airport
-15101977 0000       0      10 22.7778       0   -3.17   872.6    1.18Virginia City NCDC/Reno Airport
-16101977 0000       0      10 21.6667       0      -3     870    1.54Virginia City NCDC/Reno Airport
-17101977 0000       0 11.1111 22.2222       0   -4.11   869.7    1.95Virginia City NCDC/Reno Airport
-18101977 0000       0 10.5556 22.7778       0    -4.5   867.9    1.75Virginia City NCDC/Reno Airport
-19101977 0000       0 10.5556 21.1111       0   -1.39   865.5    2.11Virginia City NCDC/Reno Airport
-20101977 0000       0 11.6667 21.6667       0   -2.33   864.5    2.78Virginia City NCDC/Reno Airport
-21101977 0000       0 6.55556 21.6667       0      -5   867.4    2.31Virginia City NCDC/Reno Airport
-22101977 0000       0 3.88889 20.5556       0   -2.89   870.3    1.08Virginia City NCDC/Reno Airport
-23101977 0000       0       5 16.6667       0   -2.17   868.3    1.49Virginia City NCDC/Reno Airport
-24101977 0000       0 4.05556 20.5556       0   -1.33   868.4    2.42Virginia City NCDC/Reno Airport
-25101977 0000       0 1.11111 17.7778       0    1.56   870.1    2.78Virginia City NCDC/Reno Airport
-26101977 0000       0 8.88889 20.5556       0    2.94   865.5    2.78Virginia City NCDC/Reno Airport
-27101977 0000       0 1.55556      20     0.3    3.17   858.8    2.93Virginia City NCDC/Reno Airport
-28101977 0000       0-1.66667 17.2222     0.8   -2.83   862.4    2.57Virginia City NCDC/Reno Airport
-29101977 0000  0.15240.277778 11.1111       0   -4.17   863.3     5.3Virginia City NCDC/Reno Airport
-30101977 0000       0-1.66667      10       0   -3.72   866.2    3.86Virginia City NCDC/Reno Airport
-31101977 0000       0 2.22222 8.33333       0      -5   867.6    3.04Virginia City NCDC/Reno Airport
-01111977 0000       0 3.22222 12.2222       0   -4.11   869.3     1.8Virginia City NCDC/Reno Airport
-02111977 0000       0 1.66667 11.6667       0   -2.33   867.3    2.42Virginia City NCDC/Reno Airport
-03111977 0000       0 4.44444 18.3333       0   -1.28   862.5    2.88Virginia City NCDC/Reno Airport
-04111977 0000       0 3.33333 18.8889       0   -3.61   860.8    8.28Virginia City NCDC/Reno Airport
-05111977 0000       0 3.05556 17.2222       0   -2.22   859.3    7.51Virginia City NCDC/Reno Airport
-06111977 0000       00.555556 18.3333     0.3   -4.28   866.7    5.04Virginia City NCDC/Reno Airport
-07111977 0000       0-2.22222       5       0   -8.72   869.6     1.9Virginia City NCDC/Reno Airport
-08111977 0000       0-3.16667 7.22222       0   -8.28   870.2    1.23Virginia City NCDC/Reno Airport
-09111977 0000       0      -5 12.2222       0  -10.17   872.2    1.65Virginia City NCDC/Reno Airport
-10111977 0000       0-4.44444 5.55556       0   -8.72   873.3    0.72Virginia City NCDC/Reno Airport
-11111977 0000       0-3.33333 13.3333       0    -7.5   869.7    1.95Virginia City NCDC/Reno Airport
-12111977 0000       0 1.66667 13.8889       0  -10.11   869.7    2.37Virginia City NCDC/Reno Airport
-13111977 0000       0 4.44444 15.5556       0  -10.72   868.9    2.98Virginia City NCDC/Reno Airport
-14111977 0000       0 2.88889 16.1111       0   -9.72   872.2    1.54Virginia City NCDC/Reno Airport
-15111977 0000       00.555556 13.8889       0   -4.44     872     1.7Virginia City NCDC/Reno Airport
-16111977 0000       0 1.66667 12.7778       0   -4.39   871.9    1.75Virginia City NCDC/Reno Airport
-17111977 0000       0 2.77778 17.2222       0      -5   869.1    1.13Virginia City NCDC/Reno Airport
-18111977 0000       0 4.44444 17.2222       0  -10.94   860.7    5.45Virginia City NCDC/Reno Airport
-19111977 0000       0-6.72222      15       0  -15.67   856.2    6.53Virginia City NCDC/Reno Airport
-20111977 0000       0-10.5556 8.33333       0     -16   863.3    2.47Virginia City NCDC/Reno Airport
-21111977 0000       0-12.7778-2.77778     0.9   -5.72     860    3.76Virginia City NCDC/Reno Airport
-22111977 0000  5.3848-12.2222 2.44444       1   -2.06   862.1    6.12Virginia City NCDC/Reno Airport
-23111977 0000       0-2.22E-1       5       0   -5.44     869    3.19Virginia City NCDC/Reno Airport
-24111977 0000       0-1.11111 6.11111     0.6    1.22   872.6     3.6Virginia City NCDC/Reno Airport
-25111977 0000       00.555556 9.44444       0    0.39   874.4    2.01Virginia City NCDC/Reno Airport
-26111977 0000       0       5 15.5556       0   -0.22   870.8    2.83Virginia City NCDC/Reno Airport
-27111977 0000       0 7.22222 15.5556       0    1.78   867.1    3.04Virginia City NCDC/Reno Airport
-28111977 0000       0 5.16667 15.5556       0   -4.56   870.6    2.42Virginia City NCDC/Reno Airport
-29111977 0000       0 3.33333 11.1111       0    -3.5   876.6    1.49Virginia City NCDC/Reno Airport
-30111977 0000       0 3.33333 12.7778       0   -0.94   875.5    1.65Virginia City NCDC/Reno Airport
-01121977 0000       0 1.66667 16.6667       0   -6.33   871.5    1.13Virginia City NCDC/Reno Airport
-02121977 0000       00.555556 11.1111       0   -4.39   870.3    2.37Virginia City NCDC/Reno Airport
-03121977 0000       0 5.55556 13.3333       0   -5.67   869.1    3.34Virginia City NCDC/Reno Airport
-04121977 0000       0 5.55556 17.7778       0    0.67   869.5    3.91Virginia City NCDC/Reno Airport
-05121977 0000       0 4.44444 15.5556       0    1.33   869.8     3.4Virginia City NCDC/Reno Airport
-06121977 0000       0 3.88889 14.4444       0   -4.61   866.6    2.93Virginia City NCDC/Reno Airport
-07121977 0000       0       5 16.1111       0   -4.78   863.7    4.58Virginia City NCDC/Reno Airport
-08121977 0000       00.555556 13.3333       0  -12.67   865.9    2.31Virginia City NCDC/Reno Airport
-09121977 0000       0-1.66667 13.3333       0  -11.83   867.3    0.67Virginia City NCDC/Reno Airport
-10121977 0000       0-1.66667      10       0   -8.28   867.4    0.77Virginia City NCDC/Reno Airport
-11121977 0000       0 4.44444 14.4444       0   -7.33   865.8    4.06Virginia City NCDC/Reno Airport
-12121977 0000 0.972820.555556 13.3333     0.9   -1.17   868.1    2.57Virginia City NCDC/Reno Airport
-13121977 0000 0.19558-1.66667 12.7778     0.6    0.33     870     1.7Virginia City NCDC/Reno Airport
-14121977 0000       0-1.11111 7.22222     0.3    2.28     866    6.22Virginia City NCDC/Reno Airport
-15121977 0000 0.42164 2.77778      10     0.9    0.28   858.2    8.69Virginia City NCDC/Reno Airport
-16121977 0000 1.20396-2.22222 13.3333     0.8    -6.5   865.1    2.93Virginia City NCDC/Reno Airport
-17121977 0000       0      -5 3.88889     0.8    0.56   855.4    4.17Virginia City NCDC/Reno Airport
-18121977 0000  1.6002-4.94444 1.66667       1   -3.83   858.3    2.47Virginia City NCDC/Reno Airport
-19121977 0000 2.86766      -8 3.33333     0.8      -6   870.2    1.18Virginia City NCDC/Reno Airport
-20121977 0000 0.02794     -10-5.55E-1     0.6    -6.5     876    3.04Virginia City NCDC/Reno Airport
-21121977 0000       0-7.77778       0     0.6   -6.56   867.7     1.9Virginia City NCDC/Reno Airport
-22121977 0000   0.762-7.77778-2.77778     0.8   -1.67   857.9    2.37Virginia City NCDC/Reno Airport
-23121977 0000   0.508-5.55556 4.44444     0.9   -0.78   859.5    3.86Virginia City NCDC/Reno Airport
-24121977 0000   1.016-2.16667 4.44444     0.3   -4.22   869.2     1.8Virginia City NCDC/Reno Airport
-25121977 0000       0-3.33333 3.88889     0.3    -3.5   872.4    0.57Virginia City NCDC/Reno Airport
-26121977 0000       0-3.88889 7.22222     0.6   -3.11   869.7    0.82Virginia City NCDC/Reno Airport
-27121977 0000 0.64008-4.44444 3.88889     0.9   -0.78   865.2    1.75Virginia City NCDC/Reno Airport
-28121977 0000 0.42672-3.88889 1.11111     0.8   -0.17   865.1    0.26Virginia City NCDC/Reno Airport
-29121977 0000  0.4572-1.11111 7.77778     0.8       1   863.6    0.36Virginia City NCDC/Reno Airport
-30121977 0000       0-1.11111 1.66667     0.3   -1.78   860.9    5.71Virginia City NCDC/Reno Airport
-31121977 0000       0    -2.5 8.33333     0.3   -4.83   867.7    1.75Virginia City NCDC/Reno Airport
-01011985 0000       0   -6.67    1.67       0   -6.93   879.1    1.03NCDC (268761)
-02011985 0000       0   -6.11    2.22    0.11   -5.87   879.8    1.43NCDC (268761)
-03011985 0000       0   -6.67    2.22       0   -5.96   880.1    1.52NCDC (268761)
-04011985 0000       0      -5    2.22    0.14    -6.4   878.9    1.16NCDC (268761)
-05011985 0000       0   -2.22    5.56    0.96   -4.42   874.4     1.3NCDC (268761)
-06011985 0000    0.13   -3.33    1.67       1    -2.1   868.6     1.3NCDC (268761)
-07011985 0000    0.23   -3.33    0.56       1   -1.07   862.5    1.52NCDC (268761)
-08011985 0000       0   -3.33       5    0.46   -0.06   863.5    2.01NCDC (268761)
-09011985 0000    0.05   -4.44       5    0.73   -1.74   866.6    1.92NCDC (268761)
-10011985 0000       0   -6.67    2.22    0.16   -3.27   872.7    2.86NCDC (268761)
-11011985 0000       0   -7.78       0       0   -5.36   877.6    1.56NCDC (268761)
-12011985 0000       0     -10   -1.11    0.73   -6.48   877.4    2.86NCDC (268761)
-13011985 0000       0   -8.89    3.33    0.58   -8.91     875    2.15NCDC (268761)
-14011985 0000       0   -4.44    6.11    0.22   -6.92   874.2    1.83NCDC (268761)
-15011985 0000       0   -7.22    7.22    0.12   -5.14     874    1.61NCDC (268761)
-16011985 0000       0      -5    3.89       0   -5.77   877.8    1.43NCDC (268761)
-17011985 0000       0   -2.22    7.78       0   -4.39   877.1    1.48NCDC (268761)
-18011985 0000       0    1.11   14.44    0.29   -3.06   870.3    1.34NCDC (268761)
-19011985 0000       0   -1.11    9.44       0   -2.76   869.6    1.39NCDC (268761)
-20011985 0000       0   -3.89   13.33       0   -2.83   866.9    1.34NCDC (268761)
-21011985 0000       0   -6.67    2.22    0.06   -3.64   868.3     2.5NCDC (268761)
-22011985 0000       0   -6.11    2.22       0   -5.34   869.8    2.41NCDC (268761)
-23011985 0000       0   -9.44    1.11    0.55   -6.42   869.3    1.83NCDC (268761)
-24011985 0000       0   -8.33       0       1   -6.97   869.5    1.61NCDC (268761)
-25011985 0000     0.1   -7.78   -1.11       1   -5.86   870.3    1.12NCDC (268761)
-26011985 0000       0   -7.78    1.67    0.57   -2.37     869    1.83NCDC (268761)
-27011985 0000    0.18   -7.22   -0.56    0.21   -4.45   868.3    1.79NCDC (268761)
-28011985 0000       0   -8.33   -0.56    0.76   -4.07   863.5    2.32NCDC (268761)
-29011985 0000       0     -10   -2.22    0.76   -7.63   865.2    3.17NCDC (268761)
-30011985 0000       0  -7.015  -3.075    0.76  -11.57   868.4    3.26NCDC (268761)
-31011985 0000    0.05  -13.89   -2.22    0.76   -9.67   866.2    3.35NCDC (268761)
-01021985 0000    0.28  -11.67   -1.11       1  -10.73   860.8    2.59NCDC (268761)
-02021985 0000       0   -9.44   -3.33       1  -11.76   859.6    3.53NCDC (268761)
-03021985 0000     0.2  -13.33   -0.56    0.86   -9.05   859.8    2.64NCDC (268761)
-04021985 0000     0.1  -14.44   -7.78    0.29  -11.86   868.6    2.77NCDC (268761)
-05021985 0000       0   -6.11    4.44    0.56   -9.45   867.8    1.56NCDC (268761)
-06021985 0000       0   -4.44    5.56    0.27   -7.64   865.2    1.92NCDC (268761)
-07021985 0000    1.85   -4.44    5.56    0.96   -4.33   861.5    6.71NCDC (268761)
-08021985 0000    1.47   -8.33       0    0.97   -1.56   857.4    5.81NCDC (268761)
-09021985 0000       0  -10.56       0    0.21   -8.08   865.2    3.44NCDC (268761)
-10021985 0000       0     -10    1.67    0.08   -9.16   873.7    2.06NCDC (268761)
-11021985 0000       0   -6.11    7.22     0.9   -3.91   873.3    1.56NCDC (268761)
-12021985 0000       0   -1.11   11.11    0.13   -0.56   873.7    2.28NCDC (268761)
-13021985 0000       0   -2.78    7.78    0.03    0.09   876.7    0.98NCDC (268761)
-14021985 0000       0   -2.22      10    0.13    0.35   877.4    1.34NCDC (268761)
-15021985 0000       0    2.22   15.56    0.08    0.89     872    1.34NCDC (268761)
-16021985 0000       0   -0.56   13.33    0.12    -1.2   866.9    1.12NCDC (268761)
-17021985 0000       0   -2.78    5.56    0.54   -0.07   867.9    1.92NCDC (268761)
-18021985 0000       0    0.56    7.78       0   -0.86     871     1.7NCDC (268761)
-19021985 0000       0   -7.22   12.78     0.5   -0.94   864.2    2.82NCDC (268761)
-20021985 0000       0   -7.22    6.67    0.42   -6.18   864.9     5.1NCDC (268761)
-21021985 0000       0   -2.78    4.44    0.05   -5.73   870.6    1.52NCDC (268761)
-22021985 0000       0   -1.67   10.56    0.07    -2.3   871.7    2.37NCDC (268761)
-23021985 0000       0   -1.11   10.56       0   -3.52   874.7    1.25NCDC (268761)
-24021985 0000       0    1.11   13.89       0   -1.84   872.7    2.32NCDC (268761)
-25021985 0000       0   -2.22       5       0   -2.68     872    2.68NCDC (268761)
-26021985 0000       0   -2.22    9.44    0.18   -4.09   868.6    2.15NCDC (268761)
-27021985 0000       0   -2.22    6.11    0.18   -4.85     872    3.26NCDC (268761)
-28021985 0000       0    0.56   10.56       0   -4.41     872    0.76NCDC (268761)
-01031985 0000    2.06   -7.78   10.56     0.6   -2.68   861.3    4.78NCDC (268761)
-02031985 0000    1.19  -10.56   -5.56    0.98   -6.25   859.6    7.15NCDC (268761)
-03031985 0000       0  -10.56   -1.67    0.02  -10.44   865.6    3.35NCDC (268761)
-04031985 0000       0   -6.11       0    0.33   -8.34   860.1    4.34NCDC (268761)
-05031985 0000     0.2   -7.78    1.67    0.81   -5.95   858.5    3.93NCDC (268761)
-06031985 0000    0.28   -7.22   -0.56    0.48   -5.92   858.1    4.34NCDC (268761)
-07031985 0000    0.08   -8.33   -0.56    0.13   -6.02   863.5     3.8NCDC (268761)
-08031985 0000       0   -4.44    3.89    0.13   -7.88   869.8    2.32NCDC (268761)
-09031985 0000       0   -1.67   10.56       0   -2.22   867.4    1.21NCDC (268761)
-10031985 0000       0   -1.67    5.56    0.74    1.41   865.6    2.59NCDC (268761)
-11031985 0000     0.1   -1.67    2.22       1   -0.11   865.9    2.95NCDC (268761)
-12031985 0000       0   -2.22    8.89    0.03   -2.87   867.6    1.88NCDC (268761)
-13031985 0000       0   -1.67    6.67       0   -3.38   869.3    1.74NCDC (268761)
-14031985 0000       0    1.67    9.44       0   -4.28   866.6    1.83NCDC (268761)
-15031985 0000       0    0.56    9.44       0    -3.5   866.2    1.88NCDC (268761)
-16031985 0000       0    2.78   11.11    0.17   -2.61   867.2    1.56NCDC (268761)
-17031985 0000       0    1.11   11.67    0.59   -1.19   866.9    2.01NCDC (268761)
-18031985 0000    0.79    2.22    7.78    0.83     2.2   866.2    3.67NCDC (268761)
-19031985 0000       0    1.67   12.78       0    0.74   870.6    1.61NCDC (268761)
-20031985 0000       0   -2.22   11.67       0   -0.93   868.6    3.75NCDC (268761)
-21031985 0000       0   -3.89    6.67    0.07  -11.08   867.9    5.01NCDC (268761)
-22031985 0000       0   -2.78    9.44    0.03   -4.67   868.3    1.92NCDC (268761)
-23031985 0000       0    3.89   13.89       0   -2.81   866.4     5.9NCDC (268761)
-24031985 0000       0   -3.89      10    0.35   -4.56   860.1    9.48NCDC (268761)
-25031985 0000       0   -7.22    2.78    0.29   -10.7   860.8    5.86NCDC (268761)
-26031985 0000    3.96   -7.22    2.22    0.88   -5.35   854.7    6.03NCDC (268761)
-27031985 0000    2.24   -7.78   -2.22    0.98   -3.44   853.7    5.19NCDC (268761)
-28031985 0000    1.14   -7.22   -0.56    0.49   -6.08   860.5    4.96NCDC (268761)
-29031985 0000       0   -5.56    0.56    0.47   -6.38   870.3    4.38NCDC (268761)
-30031985 0000       0       0      10    0.12   -3.05     875    2.24NCDC (268761)
-31031985 0000       0    3.33   13.33    0.07    0.54   876.7    1.56NCDC (268761)
-01041985 0000       0    7.22   15.56       0    2.16   876.4    2.37NCDC (268761)
-02041985 0000       0    7.22   20.56       0    3.18     873    2.73NCDC (268761)
-03041985 0000       0    5.56   18.89       0    0.55   867.2    3.53NCDC (268761)
-04041985 0000       0    5.56   15.56    0.16    0.09   867.2    3.35NCDC (268761)
-05041985 0000       0    8.89   19.44       0    3.06   866.6    1.92NCDC (268761)
-06041985 0000       0   11.11   22.78       0    1.78   867.1    2.55NCDC (268761)
-07041985 0000       0    8.89   21.67       0    3.14   869.6       3NCDC (268761)
-08041985 0000       0      10   22.22    0.04    2.58   869.3    2.55NCDC (268761)
-09041985 0000       0      10   21.67       0    2.12   866.6       3NCDC (268761)
-10041985 0000       0    3.89   18.33    0.55    1.49   865.2       3NCDC (268761)
-11041985 0000       0    5.56   17.78    0.05   -1.06   869.5    4.02NCDC (268761)
-12041985 0000       0    8.89   17.78       0    1.51   874.4    1.79NCDC (268761)
-13041985 0000       0   10.56   21.67       0    2.12   873.3    1.39NCDC (268761)
-14041985 0000       0   11.11   23.89       0    4.12   866.9    2.77NCDC (268761)
-15041985 0000       0    7.22   19.44    0.54    2.45   860.1    3.98NCDC (268761)
-16041985 0000       0    1.67   19.44    0.88   -0.29   857.4    5.01NCDC (268761)
-17041985 0000  0.3816    0.56    8.33     0.7    0.48   861.2    4.56NCDC (268761)
-18041985 0000       0    2.22   14.44    0.16     3.1   861.5    5.14NCDC (268761)
-19041985 0000       0   -2.78    7.22    0.57   -6.32   862.2    8.05NCDC (268761)
-20041985 0000       0   -1.11    6.11     0.7   -5.05   858.5    3.49NCDC (268761)
-21041985 0000       0   -0.56    8.33    0.72    0.19   857.8    5.32NCDC (268761)
-22041985 0000       0    4.44      15    0.02    0.25   864.4    4.16NCDC (268761)
-23041985 0000       0    4.44   15.56       0    2.01   869.3    4.92NCDC (268761)
-24041985 0000       0   -3.89   14.44    0.24   -0.57   868.3    3.84NCDC (268761)
-25041985 0000       0   -3.89       5    0.34   -5.83   865.9    5.27NCDC (268761)
-26041985 0000       0   -0.56    9.44       0   -5.05   866.9    2.37NCDC (268761)
-27041985 0000       0    7.22   17.22       0   -0.21   865.2    2.46NCDC (268761)
-28041985 0000       0    9.44   18.89    0.31    4.75   866.6     3.4NCDC (268761)
-29041985 0000       0    8.33   18.89     0.6    4.09   869.5    2.59NCDC (268761)
-30041985 0000       0    8.89   22.22       0    5.63   867.6     2.5NCDC (268761)
-01051985 0000       0   11.11      25    0.03    5.57     865    3.08NCDC (268761)
-02051985 0000       0    5.56   20.56    0.65    2.55   864.5    4.16NCDC (268761)
-03051985 0000       0    1.11   16.67       0       1   864.9    5.59NCDC (268761)
-04051985 0000       0       5   14.44       0    2.39   866.2    2.32NCDC (268761)
-05051985 0000       0    7.22   21.11       0    3.32   861.8    3.17NCDC (268761)
-06051985 0000       0    6.11   21.11    0.03    3.82   860.5    4.25NCDC (268761)
-07051985 0000       0    4.44   16.67    0.29    1.71   862.5    5.19NCDC (268761)
-08051985 0000       0    3.89      15    0.27    2.28   863.9    5.19NCDC (268761)
-09051985 0000       0    1.67   13.89    0.81    3.29   860.8    5.19NCDC (268761)
-10051985 0000       0    0.56      10    0.13    1.87   861.8    6.71NCDC (268761)
-11051985 0000       0    2.78   15.56    0.39     2.1   864.5     3.4NCDC (268761)
-12051985 0000       0    2.78   16.67       0   -0.05   867.2    3.13NCDC (268761)
-13051985 0000       0    7.78   18.89       0   -0.29   867.9    2.41NCDC (268761)
-14051985 0000       0    1.67      20    0.03    0.07     865    5.27NCDC (268761)
-15051985 0000       0    2.78   12.22    0.08   -5.23   865.6    3.58NCDC (268761)
-16051985 0000       0    5.56   16.67    0.23   -0.36   864.2     2.5NCDC (268761)
-17051985 0000       0    8.89   22.22       0    3.79   865.2    3.62NCDC (268761)
-18051985 0000       0      10   23.89    0.21    3.84   862.8    3.04NCDC (268761)
-19051985 0000       0    7.78   21.11    0.12    5.04   861.8    4.16NCDC (268761)
-20051985 0000       0    7.22   17.78    0.04    0.54   864.9    4.92NCDC (268761)
-21051985 0000       0   11.67   19.44       0    3.18   868.6    2.32NCDC (268761)
-22051985 0000       0   11.67   22.78    0.17    5.21   867.9    2.46NCDC (268761)
-23051985 0000       0   11.67   25.56    0.03    7.21   866.8    4.25NCDC (268761)
-24051985 0000       0    8.89   24.44    0.03    6.29     865    4.47NCDC (268761)
-25051985 0000       0    8.89   22.22       0    2.11   861.8    4.34NCDC (268761)
-26051985 0000       0    7.22   21.67       0    2.79   860.5    3.93NCDC (268761)
-27051985 0000       0       5   17.22    0.05    2.67   861.5    5.27NCDC (268761)
-28051985 0000       0    2.22      15    0.22   -0.89   863.2    7.06NCDC (268761)
-29051985 0000       0    1.11   11.11    0.15   -4.39   865.4    6.08NCDC (268761)
-30051985 0000       0    5.56   18.33    0.01   -0.89   862.8    3.98NCDC (268761)
-31051985 0000       0    2.78   11.67    0.59   -0.46   860.5    4.38NCDC (268761)
-01061985 0000       0    0.56   13.33    0.12   -0.89   863.5    5.32NCDC (268761)
-02061985 0000  0.6258    0.56   10.56    0.73    2.88   863.9    3.62NCDC (268761)
-03061985 0000       0    7.22   17.78    0.17    6.69   864.9    2.95NCDC (268761)
-04061985 0000       0   12.22   22.78    0.54    8.06   866.6    3.75NCDC (268761)
-05061985 0000       0   12.78   22.22    0.11    8.31   866.6    5.23NCDC (268761)
-06061985 0000       0   16.67   27.22       0    7.55   868.1    3.75NCDC (268761)
-07061985 0000       0   13.33   25.56    0.16    6.79   868.3    4.69NCDC (268761)
-08061985 0000       0   14.44   27.78    0.04    7.31   868.6    3.71NCDC (268761)
-09061985 0000       0   12.78   28.89       0    8.21   866.6    4.07NCDC (268761)
-10061985 0000       0   12.78   24.44    0.02    4.44   868.3    3.26NCDC (268761)
-11061985 0000       0   16.67   26.67       0     2.4     870    2.73NCDC (268761)
-12061985 0000       0   17.22   31.11    0.15    6.74   867.4    3.49NCDC (268761)
-13061985 0000       0      15   28.89       0    9.38   865.9     4.2NCDC (268761)
-14061985 0000       0   18.33   29.44       0    4.68   866.2    3.17NCDC (268761)
-15061985 0000       0   18.89   32.78       0    9.85   865.2    3.13NCDC (268761)
-16061985 0000       0   17.78      30    0.08   10.09   865.6    3.17NCDC (268761)
-17061985 0000       0   21.67   32.22    0.12    9.39   867.9    2.95NCDC (268761)
-18061985 0000       0      20   33.33    0.21    9.22   867.2    2.73NCDC (268761)
-19061985 0000     0.3      15   31.67    0.52    9.35   863.9    3.89NCDC (268761)
-20061985 0000       0   16.67   30.56       0    10.2   861.8    3.98NCDC (268761)
-21061985 0000       0   17.22   29.44       0    3.59   864.5    2.91NCDC (268761)
-22061985 0000       0   17.22   31.67    0.11    5.95   865.2    4.02NCDC (268761)
-23061985 0000       0   12.78   26.67       0    7.56   864.9    5.45NCDC (268761)
-24061985 0000       0    5.56   22.78    0.13   -1.27   863.5    5.14NCDC (268761)
-25061985 0000       0    8.33   21.11       0   -1.12   867.6    3.35NCDC (268761)
-26061985 0000       0   13.33   26.11    0.03    2.42     869    3.49NCDC (268761)
-27061985 0000       0   14.44   26.67    0.05    4.77   869.5    4.11NCDC (268761)
-28061985 0000       0   13.89   26.67    0.25    5.31   867.6    3.26NCDC (268761)
-29061985 0000       0   11.11   23.89     0.2   -0.88   867.4    4.38NCDC (268761)
-30061985 0000       0   16.11   25.56    0.15    1.31     870    3.17NCDC (268761)
-01071985 0000       0      15   28.33    0.06    3.11   872.8    3.17NCDC (268761)
-02071985 0000       0      15      30    0.02    7.34     873    3.53NCDC (268761)
-03071985 0000       0   17.78   30.56    0.04    6.87   870.6    3.35NCDC (268761)
-04071985 0000       0   17.22   30.56    0.55    7.47     870    3.71NCDC (268761)
-05071985 0000       0   18.89   32.22    0.53    7.72   869.6    3.44NCDC (268761)
-06071985 0000       0   17.22   29.44    0.63    8.41   868.3    4.65NCDC (268761)
-07071985 0000       0   18.33   28.89    0.39     8.1   868.6    3.67NCDC (268761)
-08071985 0000       0   18.33   31.11    0.05   11.02     870    3.04NCDC (268761)
-09071985 0000       0   18.89   32.78       0    9.18   870.8    4.43NCDC (268761)
-10071985 0000       0   18.33   30.56    0.33    8.27   871.3    3.13NCDC (268761)
-11071985 0000       0   18.33   27.22    0.31    9.73     870    2.77NCDC (268761)
-12071985 0000       0   18.89   29.44    0.23    9.28   867.6    2.95NCDC (268761)
-13071985 0000       0   21.11   31.67     0.2    8.57   865.9    2.68NCDC (268761)
-14071985 0000       0   19.44   33.33    0.19    6.91   865.7    3.98NCDC (268761)
-15071985 0000       0   17.22   32.22     0.3    6.22   865.9    3.93NCDC (268761)
-16071985 0000       0   16.11   29.44    0.06    5.75   865.2    4.11NCDC (268761)
-17071985 0000       0   16.11   28.89     0.2    8.73   865.6    3.89NCDC (268761)
-18071985 0000    0.66   16.67   31.67    0.15    7.92   867.4    3.71NCDC (268761)
-19071985 0000    0.51   16.67      30    0.06   11.32   868.3    3.71NCDC (268761)
-20071985 0000       0   15.56   26.11    0.02    9.23   867.2       3NCDC (268761)
-21071985 0000       0   12.78   22.22    0.04   12.14   867.1    3.84NCDC (268761)
-22071985 0000       0   14.44      25    0.55   11.36   867.2    4.07NCDC (268761)
-23071985 0000       0   17.78   27.78    0.53   10.03   867.2    2.86NCDC (268761)
-24071985 0000       0   18.89   29.44    0.63    8.66   866.2    2.64NCDC (268761)
-25071985 0000       0   17.78   31.11    0.39    8.24   867.1     3.8NCDC (268761)
-26071985 0000       0      15   29.44    0.05    9.11   868.6    4.25NCDC (268761)
-27071985 0000     0.1   17.22   31.11       0   10.31   867.4    3.17NCDC (268761)
-28071985 0000       0   12.78   29.44    0.33     9.4   864.9    3.67NCDC (268761)
-29071985 0000       0    9.44   24.44    0.31     2.8   862.2    4.78NCDC (268761)
-30071985 0000       0   10.56   21.11    0.23    4.38   863.5    5.27NCDC (268761)
-31071985 0000       0    9.44   21.67     0.2    3.79   863.2     5.1NCDC (268761)
-01081985 0000       0    7.78   21.67    0.19    5.44   866.6    5.01NCDC (268761)
-02081985 0000       0   11.11   22.78     0.3    5.05   870.3    2.77NCDC (268761)
-03081985 0000       0   16.67   26.67    0.06     6.8   868.3    2.32NCDC (268761)
-04081985 0000       0      15   27.78       0    7.18   866.6    4.11NCDC (268761)
-05081985 0000       0   16.67   28.33       0    5.81   867.9    3.62NCDC (268761)
-06081985 0000       0   15.56   30.56       0    7.24   867.1    3.67NCDC (268761)
-07081985 0000       0   13.33   27.78       0    3.77   866.1    4.29NCDC (268761)
-08081985 0000       0    8.89   26.11       0     4.2   866.2    3.71NCDC (268761)
-09081985 0000       0   12.22   22.78    0.09    2.72   868.6    2.91NCDC (268761)
-10081985 0000       0    7.78   26.67       0    4.46   865.2    4.78NCDC (268761)
-11081985 0000       0   11.67      20       0    1.35   868.3    3.08NCDC (268761)
-12081985 0000       0   13.33   27.78       0    4.15   866.2    3.71NCDC (268761)
-13081985 0000       0   16.67   28.33    0.04    4.93   866.6    2.91NCDC (268761)
-14081985 0000       0   17.22   27.22       0       6   866.6    2.73NCDC (268761)
-15081985 0000       0   14.44   31.11    0.01    7.98   862.7    3.89NCDC (268761)
-16081985 0000       0   17.22      30    0.04    5.41   861.8    3.22NCDC (268761)
-17081985 0000       0   12.22   26.67    0.43    7.43   863.9    4.16NCDC (268761)
-18081985 0000       0    9.44   22.22       0    7.12   867.2    3.93NCDC (268761)
-19081985 0000       0   10.56   26.67       0    4.94   867.2    4.11NCDC (268761)
-20081985 0000       0    8.89      25       0    4.96   866.2    4.43NCDC (268761)
-21081985 0000       0   12.22   25.56       0    4.69   868.3    3.58NCDC (268761)
-22081985 0000       0   15.56   26.67       0    4.58   869.6    2.59NCDC (268761)
-23081985 0000       0   17.78   28.33       0    4.82   869.3    2.68NCDC (268761)
-24081985 0000       0   17.78   32.22    0.06    5.27   867.9    3.44NCDC (268761)
-25081985 0000       0   19.44   30.56       0    7.43   867.8    3.49NCDC (268761)
-26081985 0000       0   14.44   28.33       0    5.63   869.6     4.2NCDC (268761)
-27081985 0000       0   16.11   26.67       0    6.16     870    4.34NCDC (268761)
-28081985 0000       0   13.89   27.22    0.63    7.13   868.8    3.84NCDC (268761)
-29081985 0000       0   12.22   27.22    0.51    8.81   867.9    4.65NCDC (268761)
-30081985 0000       0      15   26.11    0.22   11.01   867.9    4.34NCDC (268761)
-31081985 0000       0   16.11   26.11     0.4    9.55   867.2    3.31NCDC (268761)
-01091985 0000       0   10.56   23.33    0.45    1.64   864.7    5.59NCDC (268761)
-02091985 0000       0    7.78   19.14    0.28     7.6   864.2    4.74NCDC (268761)
-03091985 0000    0.64    8.89      20    0.46    8.37   863.5    4.38NCDC (268761)
-04091985 0000  0.3816    9.44   20.56     0.1    9.67   862.8    3.44NCDC (268761)
-05091985 0000    0.18   11.11   19.44    0.65    9.66   862.8    2.64NCDC (268761)
-06091985 0000       0   10.56   18.33    0.56   11.15   862.5     4.2NCDC (268761)
-07091985 0000       0    7.22      15    0.57     7.9   864.9    4.51NCDC (268761)
-08091985 0000    0.89    3.33   15.56    0.36    6.17   863.7    5.59NCDC (268761)
-09091985 0000       0    1.11    8.89    0.61     3.1   862.8    3.71NCDC (268761)
-10091985 0000    0.28    1.11    9.44    0.54     2.5   862.5    3.89NCDC (268761)
-11091985 0000       0    0.56   11.11    0.32    1.73   864.2    5.14NCDC (268761)
-12091985 0000       0    2.22   18.33       0    2.03   869.6    2.28NCDC (268761)
-13091985 0000       0    8.89      20    0.93    1.12     869    2.91NCDC (268761)
-14091985 0000       0    6.11   19.44    0.17     0.2   867.9    4.69NCDC (268761)
-15091985 0000       0    5.56      20       0   -0.73   866.2     3.4NCDC (268761)
-16091985 0000       0    8.33   19.44    0.02    1.91   863.7    2.73NCDC (268761)
-17091985 0000       0    1.67   16.67    0.35    3.71   859.1    4.78NCDC (268761)
-18091985 0000       0    1.11   11.11     0.7    4.66   862.5    3.04NCDC (268761)
-19091985 0000       0    2.78   13.33    0.12    1.64   869.1    1.97NCDC (268761)
-20091985 0000       0    7.78   16.67       0    3.33   870.6    1.83NCDC (268761)
-21091985 0000       0    8.89   22.78    0.06    4.93   867.2    2.24NCDC (268761)
-22091985 0000       0    8.33   17.78       0    4.84   867.9    2.86NCDC (268761)
-23091985 0000       0      10   19.44       0    2.78   870.6    1.79NCDC (268761)
-24091985 0000       0   10.56   26.11       0    4.21   870.6    1.65NCDC (268761)
-25091985 0000       0      10   20.56       0    5.15   868.6    2.46NCDC (268761)
-26091985 0000       0   13.33   24.44    0.02    7.15   865.2    2.24NCDC (268761)
-27091985 0000       0    6.67   23.89       0    6.28   862.5    3.75NCDC (268761)
-28091985 0000       0    3.89   15.56       0    2.71   865.9    2.55NCDC (268761)
-29091985 0000       0    6.11   16.67    0.11    0.96   866.9    1.88NCDC (268761)
-30091985 0000       0    8.33   16.67    0.07     0.7   866.6    2.24NCDC (268761)
-01101985 0000       0      10   18.89    0.13   -0.29   868.4    1.74NCDC (268761)
-02101985 0000       0   11.11   18.89       0    1.71     871    1.83NCDC (268761)
-03101985 0000       0      10   22.78       0    5.73     874    2.32NCDC (268761)
-04101985 0000       0      10      20       0    3.94     875    2.06NCDC (268761)
-05101985 0000       0   10.56   25.56       0    4.71   870.3    2.28NCDC (268761)
-06101985 0000    0.56    6.67      15    0.97    5.81   861.8    3.71NCDC (268761)
-07101985 0000       0    1.11   14.44    0.29    3.72   858.8    5.77NCDC (268761)
-08101985 0000     1.3   -6.11    2.22    0.99    -1.3   858.8    3.08NCDC (268761)
-09101985 0000       0   -6.11       0    0.15   -3.72   867.2    2.59NCDC (268761)
-10101985 0000       0   -3.89    7.22       0   -0.18   867.9    2.06NCDC (268761)
-11101985 0000       0    2.78   14.44    0.42    1.82   866.2    2.28NCDC (268761)
-12101985 0000       0   -2.22    8.33       0    0.93   868.6    2.46NCDC (268761)
-13101985 0000       0   -1.11    6.67    0.36   -4.15   872.3    2.32NCDC (268761)
-14101985 0000       0   -1.11   11.11       0   -3.38   874.4    1.43NCDC (268761)
-15101985 0000       0    4.44   13.89       0   -2.19     872     1.7NCDC (268761)
-16101985 0000       0       5      20     0.4   -0.27   865.9    1.52NCDC (268761)
-17101985 0000       0    6.11      15    0.39    1.13   867.1    0.94NCDC (268761)
-18101985 0000       0    7.22   16.67     0.6    2.55   869.3     1.3v
-19101985 0000       0    6.67   19.44    0.82    2.02   867.8    2.15NCDC (268761)
-20101985 0000       0   -0.56   16.11    0.17   -3.66   859.5    8.09NCDC (268761)
-21101985 0000  0.7327   -2.22    3.89       0   -1.14   857.8    7.78NCDC (268761)
-22101985 0000       0    1.67    7.78    0.07   -1.45   864.5    3.49NCDC (268761)
-23101985 0000       0    5.56   15.56       0    4.47   868.6    2.68NCDC (268761)
-24101985 0000       0    6.67   18.33       0    3.55   869.6     1.3NCDC (268761)
-25101985 0000       0    6.11   17.78       0    1.38   868.6    1.39NCDC
-26101985 0000       0    6.11   15.56    0.05    0.74   867.8    1.03NCDC
-27101985 0000       0    6.67   19.44    0.35    1.61   865.9     1.7NCDC
-28101985 0000       0       5   18.33     0.1    -0.1   866.2    1.83NCDC
-29101985 0000       0    8.89   17.78    0.05    0.74   867.2    1.21NCDC
-30101985 0000       0    0.56   14.44    0.05   -1.27     865    2.95NCDC
-31101985 0000       0  -2.015   10.81    0.05   -3.12   867.6    2.19NCDC
-01111985 0000       0    2.22   11.11       0    -1.7   870.5     1.7NCDC
-02111985 0000       0    3.89   12.22       0    0.49     870    0.94NCDC
-03111985 0000       0    6.11   16.11    0.07    1.52   868.6    1.25NCDC
-04111985 0000       0    8.89   17.22    0.79    0.78   867.2    3.26NCDC
-05111985 0000       0    2.22   16.11    0.39   -3.02   871.7     3.4NCDC
-06111985 0000       0    1.67    8.89       0   -1.34     873    1.48NCDC
-07111985 0000       0    2.22   16.67     0.1    0.49   867.1    2.68NCDC
-08111985 0000       0    6.11   16.11    0.53    0.08   860.1     6.3NCDC
-09111985 0000       0   -6.11   10.56    0.08   -5.34   858.1    6.75NCDC
-10111985 0000    1.75      -5    2.22    0.46   -6.51   851.5    3.13NCDC
-11111985 0000    1.55   -9.44   -3.33    0.42   -9.72   855.4    1.97NCDC
-12111985 0000    0.81  -10.56   -4.44    0.63  -10.77   862.5    2.86NCDC
-13111985 0000       0  -12.78   -4.44    0.14    -9.8     872    1.88NCDC
-14111985 0000       0   -8.89       0    0.17  -11.66   876.1    1.48NCDC
-15111985 0000       0   -8.33    0.56    0.98    -9.5     874    1.25NCDC
-16111985 0000     0.1   -1.11    7.22    0.99   -1.33   867.2    1.61NCDC (268761)
-17111985 0000       0   -3.33    5.56    0.39   -3.72   861.7    4.92NCDC (268761)
-18111985 0000       0   -9.44    1.67       0   -10.5     870    4.11NCDC (268761)
-19111985 0000       0  -10.56   -3.33    0.55   -9.89   872.7    1.48NCDC (268761)
-20111985 0000       0     -10    1.67    0.43    -7.2   866.1    3.58NCDC (268761)
-21111985 0000       0   -8.89    3.33    0.09    -9.5   864.5    2.91NCDC (268761)
-22111985 0000       0   -2.78       5    0.28   -8.94   863.2    3.84NCDC (268761)
-23111985 0000       0   -2.22    4.44    0.88   -1.65   862.2    1.25NCDC (268761)
-24111985 0000    0.13       0    3.89       1    0.91   855.4    1.74NCDC (268761)
-25111985 0000    0.15   -0.56    2.22    0.07    1.13   857.4     2.1NCDC (268761)
-26111985 0000       0   -2.22    8.89    0.54   -1.84   865.6    1.61NCDC (268761)
-27111985 0000       0    1.67    8.33    0.96   -0.28   865.6    3.62NCDC (268761)
-28111985 0000   1.435    1.11    5.56    0.62    2.54   856.4    3.58NCDC (268761)
-29111985 0000    2.54       0    5.56    0.98    -1.3   848.3    6.53NCDC (268761)
-30111985 0000    0.53      -5    1.67       0   -3.82   861.7    1.92NCDC (268761)
-01121985 0000       0   -3.33    4.44    0.86   -2.24   861.5    2.01NCDC (268761)
-02121985 0000    0.89       0    5.56    0.64    1.88   856.1    6.21NCDC (268761)
-03121985 0000    1.02    1.11    5.56    0.26    0.67   867.9    3.31NCDC (268761)
-04121985 0000       0   -1.67    6.67    0.22   -1.63   870.6    1.34NCDC (268761)
-05121985 0000       0    0.56    6.67    0.48   -0.13   870.6    2.19NCDC (268761)
-06121985 0000       0   -1.67    7.78    0.58   -1.41   871.7    1.65NCDC (268761)
-07121985 0000       0   -1.67    8.89    0.52   -0.93   867.6    4.25NCDC (268761)
-08121985 0000    0.05   -5.56    7.22    0.41   -5.45   867.6    2.91NCDC (268761)
-09121985 0000       0   -6.11    0.56       1   -5.95   868.6    3.13NCDC (268761)
-10121985 0000    0.08  -11.67   -3.33    0.98   -8.37   865.9    3.53NCDC (268761)
-11121985 0000    0.08  -13.33   -6.11    0.07  -12.08   870.6    2.55NCDC (268761)
-12121985 0000       0  -14.44   -7.22       0   -11.9     874    2.06NCDC (268761)
-13121985 0000       0  -13.33   -1.11    0.22   -8.42   877.1    1.39NCDC (268761)
-14121985 0000       0   -7.78       0    0.38   -7.91   876.7    0.85NCDC (268761)
-15121985 0000       0      -5    3.89    0.48   -7.47   877.4    0.49NCDC (268761)
-16121985 0000       0   -3.89    3.89       0   -5.79   880.1    1.03NCDC (268761)
-17121985 0000       0   -3.89    5.56       0   -5.52   881.5    1.12NCDC (268761)
-18121985 0000       0   -3.33    3.89    0.01   -4.82   880.5    0.67NCDC (268761)
-19121985 0000       0   -3.33    6.11       0   -4.82   878.6    1.03NCDC (268761)
-20121985 0000       0   -2.22    7.78       0   -5.45   878.1    0.54NCDC (268761)
-21121985 0000       0   -3.89    6.67    0.21   -5.94   878.1    1.21NCDC (268761)
-22121985 0000       0   -3.33       5       1   -4.15   880.1    1.79NCDC (268761)
-23121985 0000       0   -2.78    8.89       1   -5.54   879.8    1.88NCDC (268761)
-24121985 0000       0   -2.78    8.33    0.58   -4.31   879.4     1.7NCDC (268761)
-25121985 0000       0   -3.33    6.11       1   -4.99   877.4    1.74NCDC (268761)
-26121985 0000       0   -1.67    7.78       1   -4.99   874.4    1.74NCDC (268761)
-27121985 0000       0   -1.67      10    0.57   -5.15     874    1.92NCDC (268761)
-28121985 0000       0    1.67   10.56    0.27    -4.8   872.7    1.88NCDC (268761)
-29121985 0000    0.69    0.56    6.67    0.84   -2.32     869    1.48NCDC (268761)
-30121985 0000    1.16       0    5.56    0.77     2.4   869.3     1.7NCDC (268761)
-31121985 0000       0    1.11    6.67       1    1.71   870.5    1.61NCDC (268761)
+01101976 0000  0.0381     9.4    18.3       0    2.94   860.9    3.34Virginia City NCDC/Reno Airport
+02101976 0000 0.62992     9.2    20.6     0.8    7.06   862.4    4.73Virginia City NCDC/Reno Airport
+03101976 0000 0.33528     6.1    18.9     0.8    4.67   868.2    3.24Virginia City NCDC/Reno Airport
+04101976 0000       0     3.9    13.3       0    2.78   868.5    1.34Virginia City NCDC/Reno Airport
+05101976 0000       0     4.4    15.6       0    3.17     870    1.44Virginia City NCDC/Reno Airport
+06101976 0000       0     5.6    15.6       0    3.61   871.1     1.8Virginia City NCDC/Reno Airport
+07101976 0000       0     5.6    21.1       0    3.83   871.5    1.59Virginia City NCDC/Reno Airport
+08101976 0000       0     8.3    19.4       0    4.39   871.5    1.44Virginia City NCDC/Reno Airport
+09101976 0000       0    10.0    19.4       0     4.5   869.6    1.03Virginia City NCDC/Reno Airport
+10101976 0000       0    10.6    23.3       0    2.67   866.4    1.95Virginia City NCDC/Reno Airport
+11101976 0000       0    11.9    26.1       0    1.67   867.9    2.26Virginia City NCDC/Reno Airport
+12101976 0000       0     8.4    21.7       0      -1   873.2    2.01Virginia City NCDC/Reno Airport
+13101976 0000       0     6.1    18.3       0   -2.61   874.2    1.29Virginia City NCDC/Reno Airport
+14101976 0000       0     6.7    17.2       0   -0.89   868.5    1.34Virginia City NCDC/Reno Airport
+15101976 0000       0    10.0    20.0       0   -1.67   865.3    1.44Virginia City NCDC/Reno Airport
+16101976 0000       0     8.3    23.3       0   -2.44     868    1.34Virginia City NCDC/Reno Airport
+17101976 0000       0     8.4    21.7       0      -2   868.1    1.54Virginia City NCDC/Reno Airport
+18101976 0000       0     5.1    18.3       0   -4.17   867.3     1.8Virginia City NCDC/Reno Airport
+19101976 0000       0     2.8    17.2       0   -6.67   869.9    1.34Virginia City NCDC/Reno Airport
+20101976 0000       0     2.2    13.3       0   -5.06     870    1.39Virginia City NCDC/Reno Airport
+21101976 0000       0     3.9    15.0       0   -5.11   867.4    1.23Virginia City NCDC/Reno Airport
+22101976 0000       0     4.4    15.6       0   -1.33   863.9     1.7Virginia City NCDC/Reno Airport
+23101976 0000       0     5.0    17.2       0    0.89   864.7     1.8Virginia City NCDC/Reno Airport
+24101976 0000       0     4.4    15.0       0   -2.11     868    1.95Virginia City NCDC/Reno Airport
+25101976 0000       0     4.4    15.6       0   -3.06   870.5    4.37Virginia City NCDC/Reno Airport
+26101976 0000       0     1.8    15.6       0   -4.72     873    3.24Virginia City NCDC/Reno Airport
+27101976 0000       0    -0.6    10.0       0   -4.67   874.6    1.54Virginia City NCDC/Reno Airport
+28101976 0000       0    -1.7     7.2       0   -6.56   872.4    0.57Virginia City NCDC/Reno Airport
+29101976 0000       0    -1.7    16.1       0    -6.5   868.9    0.51Virginia City NCDC/Reno Airport
+30101976 0000       0     1.7    14.4       0   -7.22   869.2    1.54Virginia City NCDC/Reno Airport
+31101976 0000       0     4.4    16.1       0   -6.78   871.7    1.13Virginia City NCDC/Reno Airport
+01111976 0000       0     4.4    16.1       0   -7.61   872.9    1.08Virginia City NCDC/Reno Airport
+02111976 0000       0     5.0    15.6       0   -7.17   874.1    0.82Virginia City NCDC/Reno Airport
+03111976 0000       0     5.6    17.8       0   -6.11   876.6    0.98Virginia City NCDC/Reno Airport
+04111976 0000       0     5.6    17.2       0   -5.56   874.2    0.67Virginia City NCDC/Reno Airport
+05111976 0000       0     6.7    19.4       0   -4.94   871.2    0.82Virginia City NCDC/Reno Airport
+06111976 0000       0     7.8    20.6       0   -5.06   870.2    0.51Virginia City NCDC/Reno Airport
+07111976 0000       0     8.3    22.2       0   -4.78   872.8    0.36Virginia City NCDC/Reno Airport
+08111976 0000       0     8.3    18.3       0      -5   873.5    0.57Virginia City NCDC/Reno Airport
+09111976 0000       0     6.7    18.9       0   -4.61   869.5    0.72Virginia City NCDC/Reno Airport
+10111976 0000       0     6.2    16.1       0   -3.61     868    1.39Virginia City NCDC/Reno Airport
+11111976 0000       0     4.4    16.7       0   -2.89   865.2    0.87Virginia City NCDC/Reno Airport
+12111976 0000       0     2.8    12.8       0      -4   860.6    1.34Virginia City NCDC/Reno Airport
+13111976 0000       0     1.7    10.0       0   -5.33   862.2    1.65Virginia City NCDC/Reno Airport
+14111976 0000  0.1651     2.8    10.6     0.8    1.39   863.8    4.42Virginia City NCDC/Reno Airport
+15111976 0000  0.4699     1.7    11.7     0.8    3.28   872.9    1.49Virginia City NCDC/Reno Airport
+16111976 0000       0     2.2     5.6       0    1.94   875.8    0.93Virginia City NCDC/Reno Airport
+17111976 0000       0     4.4    14.4       0    0.11   875.5    0.62Virginia City NCDC/Reno Airport
+18111976 0000       0     3.9    15.6       0   -0.67   871.4    0.62Virginia City NCDC/Reno Airport
+19111976 0000       0     5.0    18.3       0   -0.67   869.5    0.87Virginia City NCDC/Reno Airport
+20111976 0000       0     3.9    17.2       0   -1.39   870.1    0.72Virginia City NCDC/Reno Airport
+21111976 0000       0     2.8    16.7       0   -1.89   869.7    0.67Virginia City NCDC/Reno Airport
+22111976 0000       0     3.9    15.0       0   -2.67   870.7    0.31Virginia City NCDC/Reno Airport
+23111976 0000       0     2.9    12.8       0   -4.22   872.5    0.93Virginia City NCDC/Reno Airport
+24111976 0000       0     1.1    12.2       0   -4.28     872    0.51Virginia City NCDC/Reno Airport
+25111976 0000       0     2.2    12.2       0   -5.44   868.7    1.54Virginia City NCDC/Reno Airport
+26111976 0000       0     0.8    17.8       0   -8.83     866    3.76Virginia City NCDC/Reno Airport
+27111976 0000       0    -8.4    12.8       0  -14.22   870.9    3.76Virginia City NCDC/Reno Airport
+28111976 0000       0   -12.2     1.7       0  -15.06   874.4    1.13Virginia City NCDC/Reno Airport
+29111976 0000       0   -11.7    -4.4       0  -14.33   877.4    0.77Virginia City NCDC/Reno Airport
+30111976 0000       0   -10.0     1.1       0  -13.28   877.9    1.65Virginia City NCDC/Reno Airport
+01121976 0000       0    -6.7     6.1       0  -12.39   878.7    1.08Virginia City NCDC/Reno Airport
+02121976 0000       0    -3.9     7.2       0  -10.94   878.5    0.41Virginia City NCDC/Reno Airport
+03121976 0000       0    -2.2    10.0       0  -10.67   874.2    0.93Virginia City NCDC/Reno Airport
+04121976 0000       0    -1.1    11.1       0   -9.83   866.9    1.34Virginia City NCDC/Reno Airport
+05121976 0000       0    -1.4    12.2       0   -8.72   869.4    1.49Virginia City NCDC/Reno Airport
+06121976 0000       0    -3.9     9.4       0   -8.89   873.1    1.18Virginia City NCDC/Reno Airport
+07121976 0000       0    -4.4     5.6       0  -10.39   873.1    1.18Virginia City NCDC/Reno Airport
+08121976 0000       0    -3.9     7.2       0  -10.56   867.4    0.93Virginia City NCDC/Reno Airport
+09121976 0000  0.1016    -2.8    12.8     0.8   -5.06   864.8    4.01Virginia City NCDC/Reno Airport
+10121976 0000       0    -4.4    11.1       0   -9.06   875.9    1.75Virginia City NCDC/Reno Airport
+11121976 0000       0    -7.2     1.1       0   -9.11     876    1.54Virginia City NCDC/Reno Airport
+12121976 0000       0    -7.2     3.9       0   -8.94     872    0.98Virginia City NCDC/Reno Airport
+13121976 0000       0    -7.2     5.6       0      -8   869.9    0.36Virginia City NCDC/Reno Airport
+14121976 0000       0    -4.4     8.3       0   -9.78   871.3    0.67Virginia City NCDC/Reno Airport
+15121976 0000       0    -3.4    11.7       0  -10.17   874.3    0.93Virginia City NCDC/Reno Airport
+16121976 0000       0    -6.1    11.1       0  -10.11   872.3    0.87Virginia City NCDC/Reno Airport
+17121976 0000       0    -3.3     8.3       0  -10.78   865.4    0.72Virginia City NCDC/Reno Airport
+18121976 0000       0    -3.9     9.4       0  -10.78   866.1    0.87Virginia City NCDC/Reno Airport
+19121976 0000       0    -2.8     8.9       0   -11.5   870.9    0.62Virginia City NCDC/Reno Airport
+20121976 0000       0    -2.2    10.0       0  -11.67   873.5    0.72Virginia City NCDC/Reno Airport
+21121976 0000       0    -3.9     7.2       0   -12.5     872    1.34Virginia City NCDC/Reno Airport
+22121976 0000       0    -4.4     7.2       0  -11.61     870    0.72Virginia City NCDC/Reno Airport
+23121976 0000       0    -3.9     6.1       0  -10.44   867.7    0.41Virginia City NCDC/Reno Airport
+24121976 0000       0    -4.4     3.9       0  -10.83   868.2    0.82Virginia City NCDC/Reno Airport
+25121976 0000       0    -5.0     5.6       0  -12.67   872.2    0.62Virginia City NCDC/Reno Airport
+26121976 0000       0    -2.2     5.6       0  -11.39   872.5    0.72Virginia City NCDC/Reno Airport
+27121976 0000       0    -4.2    10.0       0  -12.39     869    1.34Virginia City NCDC/Reno Airport
+28121976 0000       0    -6.7     8.3       0     -13   869.4    0.67Virginia City NCDC/Reno Airport
+29121976 0000       0    -5.6     7.2       0  -10.89   863.6    0.72Virginia City NCDC/Reno Airport
+30121976 0000       0    -5.6     7.8       0   -6.06   857.3    2.42Virginia City NCDC/Reno Airport
+31121976 0000       0    -2.8     9.4     0.6   -5.56   859.6    0.93Virginia City NCDC/Reno Airport
+01011977 0000       0    -5.0     1.7       0   -7.72   859.2    1.29Virginia City NCDC/Reno Airport
+02011977 0000       0    -4.4     5.0     0.6   -0.67   857.1    1.85Virginia City NCDC/Reno Airport
+03011977 0000 1.10236    -4.0     1.7     0.9   -1.94   852.4    5.04Virginia City NCDC/Reno Airport
+04011977 0000 0.82804    -5.6     3.3     0.6   -5.11   863.5    3.09Virginia City NCDC/Reno Airport
+05011977 0000       0    -7.2    -1.1     0.8   -5.67   859.3    2.83Virginia City NCDC/Reno Airport
+06011977 0000   0.254    -8.3    -1.7     0.8   -8.67     867    2.68Virginia City NCDC/Reno Airport
+07011977 0000       0   -11.9    -6.7     0.6     -10   869.4    1.59Virginia City NCDC/Reno Airport
+08011977 0000       0   -12.8    -2.8     0.3    -9.5   864.2    0.93Virginia City NCDC/Reno Airport
+09011977 0000       0   -12.2     2.8       0  -10.72   870.5    0.93Virginia City NCDC/Reno Airport
+10011977 0000       0   -10.0     0.6     0.3   -6.89   869.1    1.39Virginia City NCDC/Reno Airport
+11011977 0000       0    -9.4     5.0     0.3   -6.44   868.9    0.77Virginia City NCDC/Reno Airport
+12011977 0000       0    -7.2     3.9     0.6    -3.5   864.5    1.65Virginia City NCDC/Reno Airport
+13011977 0000       0    -6.7     1.1     0.6   -4.83   866.8    1.03Virginia City NCDC/Reno Airport
+14011977 0000       0    -7.2     5.0     0.3   -4.11   870.2    1.08Virginia City NCDC/Reno Airport
+15011977 0000       0    -5.0     6.7       0   -5.39   871.8    0.51Virginia City NCDC/Reno Airport
+16011977 0000       0    -5.1     6.7       0   -5.72   875.7    1.03Virginia City NCDC/Reno Airport
+17011977 0000       0    -7.2     9.4       0    -6.5   880.8    0.98Virginia City NCDC/Reno Airport
+18011977 0000       0    -5.0     7.2       0   -5.61     879    0.67Virginia City NCDC/Reno Airport
+19011977 0000       0    -2.2     8.3       0      -5   873.3    0.93Virginia City NCDC/Reno Airport
+20011977 0000       0    -1.1     8.9       0   -3.72   868.8    0.15Virginia City NCDC/Reno Airport
+21011977 0000       0    -1.7     7.8     0.3   -0.83   866.9    0.72Virginia City NCDC/Reno Airport
+22011977 0000  0.3048    -0.3     7.8     0.8    0.67   867.7    0.51Virginia City NCDC/Reno Airport
+23011977 0000  0.3048    -1.7     3.9     0.6    1.89   872.2    0.87Virginia City NCDC/Reno Airport
+24011977 0000       0    -1.9     2.8     0.6   -1.61   874.9    2.37Virginia City NCDC/Reno Airport
+25011977 0000       0    -3.3     2.8     0.6   -3.78     870    1.34Virginia City NCDC/Reno Airport
+26011977 0000       0    -4.4     0.0     0.6   -2.78   869.1    1.75Virginia City NCDC/Reno Airport
+27011977 0000       0    -4.4    -2.8     0.3      -4   868.5    0.82Virginia City NCDC/Reno Airport
+28011977 0000       0    -3.9     4.4     0.3   -4.61   869.9    0.93Virginia City NCDC/Reno Airport
+29011977 0000       0    -3.9     6.1       0   -5.33   870.2    0.82Virginia City NCDC/Reno Airport
+30011977 0000       0    -3.3     7.2       0   -6.89   871.4    0.82Virginia City NCDC/Reno Airport
+31011977 0000       0    -3.9     7.2       0   -4.39   870.1    1.49Virginia City NCDC/Reno Airport
+01021977 0000       0    -3.9     8.9       0   -4.17     869    3.34Virginia City NCDC/Reno Airport
+02021977 0000       0    -3.6    10.6     0.3   -5.89   868.5    1.65Virginia City NCDC/Reno Airport
+03021977 0000       0    -6.1     3.9     0.3   -6.72   870.2     1.7Virginia City NCDC/Reno Airport
+04021977 0000       0    -6.1     3.3       0   -6.28   874.1    0.98Virginia City NCDC/Reno Airport
+05021977 0000       0    -5.6     6.7     0.3   -5.94   872.3    0.77Virginia City NCDC/Reno Airport
+06021977 0000       0    -7.8     6.7       0   -3.67   871.3    1.29Virginia City NCDC/Reno Airport
+07021977 0000       0     0.0    10.0       0   -3.17   870.9    1.59Virginia City NCDC/Reno Airport
+08021977 0000       0    -1.1     7.8     0.3   -1.83     866     3.5Virginia City NCDC/Reno Airport
+09021977 0000       0    -1.5     8.9     0.3    -2.5   869.3    2.01Virginia City NCDC/Reno Airport
+10021977 0000       0    -3.3     9.4     0.3   -3.56   873.4    1.44Virginia City NCDC/Reno Airport
+11021977 0000       0    -3.9     7.2       0   -3.83   876.1    1.23Virginia City NCDC/Reno Airport
+12021977 0000       0     0.6    11.7       0   -3.56   877.5    0.93Virginia City NCDC/Reno Airport
+13021977 0000       0     1.1    11.7       0   -3.78   877.3    1.08Virginia City NCDC/Reno Airport
+14021977 0000       0     1.7    14.4       0   -4.17   874.9    1.49Virginia City NCDC/Reno Airport
+15021977 0000       0     3.2    15.0       0   -4.39   874.1    1.59Virginia City NCDC/Reno Airport
+16021977 0000       0     1.1    12.2       0   -3.67   873.4    1.54Virginia City NCDC/Reno Airport
+17021977 0000       0     1.7    16.7       0   -5.44   873.2     1.9Virginia City NCDC/Reno Airport
+18021977 0000       0     4.6    18.3       0   -7.06     874    0.93Virginia City NCDC/Reno Airport
+19021977 0000       0     2.2    15.0       0   -6.83   873.7    1.03Virginia City NCDC/Reno Airport
+20021977 0000       0     2.8    13.9       0   -7.56   870.3    3.65Virginia City NCDC/Reno Airport
+21021977 0000       0     2.4    16.1     0.8    0.39   863.3     5.3Virginia City NCDC/Reno Airport
+22021977 0000 3.23088    -3.9    15.0       1   -4.06   863.5    4.53Virginia City NCDC/Reno Airport
+23021977 0000 0.14732    -7.2     3.3     0.8   -2.89   862.5    2.98Virginia City NCDC/Reno Airport
+24021977 0000  0.0762    -6.4     4.4     0.8   -6.78   865.9    2.78Virginia City NCDC/Reno Airport
+25021977 0000  0.3556    -8.3     2.2     0.3   -7.33   869.9    2.83Virginia City NCDC/Reno Airport
+26021977 0000       0    -7.8     2.8     0.3   -6.28   873.9    2.01Virginia City NCDC/Reno Airport
+27021977 0000       0    -5.6     4.4       0   -4.89   874.5    1.08Virginia City NCDC/Reno Airport
+28021977 0000       0    -3.3     7.8       0   -4.44   868.1     3.7Virginia City NCDC/Reno Airport
+01031977 0000  0.1016    -5.1    10.0     0.8   -6.44   864.8    4.73Virginia City NCDC/Reno Airport
+02031977 0000       0    -7.8     7.2     0.3    -8.5   865.3    3.86Virginia City NCDC/Reno Airport
+03031977 0000       0    -7.8    -1.1     0.6   -6.44   865.3    5.09Virginia City NCDC/Reno Airport
+04031977 0000       0    -6.7     1.1     0.3   -6.78   871.3    4.17Virginia City NCDC/Reno Airport
+05031977 0000       0    -6.7     2.2     0.3   -7.28   873.4    1.44Virginia City NCDC/Reno Airport
+06031977 0000       0    -5.6     2.2       0   -6.89   870.8     1.9Virginia City NCDC/Reno Airport
+07031977 0000       0    -2.8     8.9       0  -11.78   868.3    5.09Virginia City NCDC/Reno Airport
+08031977 0000       0    -0.6    11.7       0   -9.61   867.4    3.09Virginia City NCDC/Reno Airport
+09031977 0000       0     0.6    12.8       0    -2.5   861.8    7.25Virginia City NCDC/Reno Airport
+10031977 0000       0    -6.1    13.3     0.8   -7.06   871.5     3.4Virginia City NCDC/Reno Airport
+11031977 0000   0.889    -9.4    12.2     0.3   -8.72   875.6    2.37Virginia City NCDC/Reno Airport
+12031977 0000       0    -8.3     1.7       0   -6.33   863.9    6.17Virginia City NCDC/Reno Airport
+13031977 0000       0    -6.7     7.2       0   -7.17   859.7    5.25Virginia City NCDC/Reno Airport
+14031977 0000 0.00508    -7.8     7.8     0.8   -8.94   862.6    2.83Virginia City NCDC/Reno Airport
+15031977 0000 0.02032    -9.4    -1.7       0  -10.44   862.1    3.81Virginia City NCDC/Reno Airport
+16031977 0000       0    -6.7     0.6       0   -7.22     858    2.01Virginia City NCDC/Reno Airport
+17031977 0000  0.0762    -4.4     3.3     0.8   -3.22   860.8    5.04Virginia City NCDC/Reno Airport
+18031977 0000  0.1524    -4.5     4.4     0.3   -8.17   867.1    2.37Virginia City NCDC/Reno Airport
+19031977 0000       0    -6.1     1.7       0   -4.78   864.9    3.09Virginia City NCDC/Reno Airport
+20031977 0000       0    -2.8     8.3       0   -4.33   865.8    2.88Virginia City NCDC/Reno Airport
+21031977 0000       0    -1.1     9.4       0   -8.56   870.2    2.21Virginia City NCDC/Reno Airport
+22031977 0000       0     0.0    10.6       0   -5.56   865.8    1.49Virginia City NCDC/Reno Airport
+23031977 0000       0     4.4    13.9       0   -3.33   857.1    6.28Virginia City NCDC/Reno Airport
+24031977 0000       0    -1.5    18.3       0   -7.17   858.1    4.22Virginia City NCDC/Reno Airport
+25031977 0000  0.1524    -5.0     8.3     0.8   -3.17   857.7    2.42Virginia City NCDC/Reno Airport
+26031977 0000       0    -5.6     3.3       0   -8.94   863.5    2.06Virginia City NCDC/Reno Airport
+27031977 0000       0    -2.8     5.6       0   -6.78   863.4    4.48Virginia City NCDC/Reno Airport
+28031977 0000       0    -4.8    12.2       0  -12.33   863.9    5.14Virginia City NCDC/Reno Airport
+29031977 0000       0    -7.8    13.9       0   -10.5   863.4    3.09Virginia City NCDC/Reno Airport
+30031977 0000       0    -7.8     1.7       0   -8.56   861.9    3.45Virginia City NCDC/Reno Airport
+31031977 0000       0    -6.7     1.7       0   -8.61   864.9    2.73Virginia City NCDC/Reno Airport
+01041977 0000       0    -5.6     1.7       0   -6.44   861.6    7.25Virginia City NCDC/Reno Airport
+02041977 0000       0    -3.1     7.8       0   -8.56     863    5.66Virginia City NCDC/Reno Airport
+03041977 0000       0    -5.0     7.2       0   -7.11   868.9    2.16Virginia City NCDC/Reno Airport
+04041977 0000       0    -2.2     5.0       0      -2   872.3     1.8Virginia City NCDC/Reno Airport
+05041977 0000       0     1.1    11.1       0   -0.11   870.2     1.9Virginia City NCDC/Reno Airport
+06041977 0000       0     7.2    17.8       0     2.5   870.2    2.83Virginia City NCDC/Reno Airport
+07041977 0000       0     7.8    20.6       0    0.67   869.7     3.7Virginia City NCDC/Reno Airport
+08041977 0000       0     8.3    22.2       0    0.83   864.4       9Virginia City NCDC/Reno Airport
+09041977 0000  0.0508     2.8    21.7     0.8    0.72   864.2    4.89Virginia City NCDC/Reno Airport
+10041977 0000       0    -0.6    16.1     0.3   -1.22   867.5    3.09Virginia City NCDC/Reno Airport
+11041977 0000       0    -1.7    10.0       0   -3.78   867.5    2.06Virginia City NCDC/Reno Airport
+12041977 0000       0     2.2    10.6       0   -3.17   870.5    2.47Virginia City NCDC/Reno Airport
+13041977 0000       0     3.3    13.3       0    0.39   864.7    2.62Virginia City NCDC/Reno Airport
+14041977 0000       0     1.7    17.2       0   -0.11   863.8     3.7Virginia City NCDC/Reno Airport
+15041977 0000       0    -1.1    15.6       0   -3.56   866.7     1.9Virginia City NCDC/Reno Airport
+16041977 0000       0     2.8    11.7       0     1.5   864.7    2.47Virginia City NCDC/Reno Airport
+17041977 0000       0     5.1    18.3       0   -1.44   867.4    4.42Virginia City NCDC/Reno Airport
+18041977 0000       0     2.8    19.4       0   -7.78   867.1    2.93Virginia City NCDC/Reno Airport
+19041977 0000       0     1.7    14.4       0   -9.61   867.8    2.93Virginia City NCDC/Reno Airport
+20041977 0000       0     0.6    11.7       0  -10.22   865.2    2.31Virginia City NCDC/Reno Airport
+21041977 0000       0     2.2    12.8       0   -7.72   865.3    3.14Virginia City NCDC/Reno Airport
+22041977 0000       0     5.0    17.8       0   -5.17   867.3    3.14Virginia City NCDC/Reno Airport
+23041977 0000       0     6.7    18.9       0   -6.83   868.3    2.31Virginia City NCDC/Reno Airport
+24041977 0000       0     8.3    21.1       0   -6.56   868.1    2.26Virginia City NCDC/Reno Airport
+25041977 0000       0    10.0    20.6       0   -3.11   866.2    5.14Virginia City NCDC/Reno Airport
+26041977 0000       0     4.7    22.2       0    0.78   867.3    3.81Virginia City NCDC/Reno Airport
+27041977 0000       0     1.7    18.9       0   -1.39   862.8    2.42Virginia City NCDC/Reno Airport
+28041977 0000       0     2.8    17.2       0   -0.06   863.9    4.63Virginia City NCDC/Reno Airport
+29041977 0000       0     5.0    20.0       0    -1.5   866.3    3.86Virginia City NCDC/Reno Airport
+30041977 0000       0     5.0    18.9       0    2.78   863.8    3.96Virginia City NCDC/Reno Airport
+01051977 0000       0     4.6    17.8     0.6    4.33     862    3.91Virginia City NCDC/Reno Airport
+02051977 0000   0.254     1.7    14.4     0.8       0   866.3    4.32Virginia City NCDC/Reno Airport
+03051977 0000   0.254    -0.6     9.4       0   -2.56     862    5.25Virginia City NCDC/Reno Airport
+04051977 0000       0     2.0    13.3       0   -4.33   862.7    4.48Virginia City NCDC/Reno Airport
+05051977 0000       0     0.0     9.4       0   -6.61   858.2    6.69Virginia City NCDC/Reno Airport
+06051977 0000       0    -2.1    14.4       0   -5.22   854.9    3.96Virginia City NCDC/Reno Airport
+07051977 0000       0    -5.0     6.7     0.6   -3.83   858.9    3.96Virginia City NCDC/Reno Airport
+08051977 0000       0    -6.1     6.1     0.8    0.72   861.7    2.16Virginia City NCDC/Reno Airport
+09051977 0000  0.3556    -5.0     5.0     0.9    3.17   857.5    3.45Virginia City NCDC/Reno Airport
+10051977 0000   1.524    -0.6     6.1     0.8   -0.33   860.4    4.42Virginia City NCDC/Reno Airport
+11051977 0000       0    -1.4     3.3     0.6    0.06   860.4    4.73Virginia City NCDC/Reno Airport
+12051977 0000 0.12192    -2.2     6.1     0.8    2.33   860.3    2.73Virginia City NCDC/Reno Airport
+13051977 0000 1.19888    -0.6     6.1     0.8    3.33   863.6    2.06Virginia City NCDC/Reno Airport
+14051977 0000       0     0.0     7.2     0.3    2.28   863.5    4.42Virginia City NCDC/Reno Airport
+15051977 0000       0     2.2    13.3       0     0.5   863.1    4.89Virginia City NCDC/Reno Airport
+16051977 0000  0.1524    -1.1    14.4     0.8   -0.72     861    5.76Virginia City NCDC/Reno Airport
+17051977 0000 0.33782    -3.9    11.7     0.8   -0.22   865.5    3.19Virginia City NCDC/Reno Airport
+18051977 0000 0.39878    -2.8     3.9     0.6   -1.28   865.5    4.01Virginia City NCDC/Reno Airport
+19051977 0000  0.5334    -1.7     6.7     0.8    2.61   868.4    4.01Virginia City NCDC/Reno Airport
+20051977 0000       0     0.0    11.1       0       1   868.4    2.16Virginia City NCDC/Reno Airport
+21051977 0000       0     1.1    14.4       0    2.78   866.3    3.34Virginia City NCDC/Reno Airport
+22051977 0000       0     7.2    20.0       0    3.83   860.3    3.76Virginia City NCDC/Reno Airport
+23051977 0000       0     4.4    20.0       0    1.61   857.1    4.32Virginia City NCDC/Reno Airport
+24051977 0000       0     1.7    14.4     0.3    1.11     859    3.96Virginia City NCDC/Reno Airport
+25051977 0000       0     1.1    11.1       0    0.17   861.4     3.4Virginia City NCDC/Reno Airport
+26051977 0000       0     2.2    12.2       0   -0.06   861.5    4.01Virginia City NCDC/Reno Airport
+27051977 0000       0     4.3    13.3       0   -0.06   862.3    4.53Virginia City NCDC/Reno Airport
+28051977 0000       0     2.8    13.3       0   -5.33   863.6    4.22Virginia City NCDC/Reno Airport
+29051977 0000       0     1.7    16.1       0    -2.5   862.2    3.76Virginia City NCDC/Reno Airport
+30051977 0000       0     5.6    19.4       0    0.22   865.1    2.83Virginia City NCDC/Reno Airport
+31051977 0000       0     8.9    20.0       0    1.56   867.8    2.88Virginia City NCDC/Reno Airport
+01061977 0000       0    13.3    26.1       0    1.28   866.1    4.58Virginia City NCDC/Reno Airport
+02061977 0000       0    12.8    28.3       0    3.83   865.6    3.34Virginia City NCDC/Reno Airport
+03061977 0000       0    10.0    23.9       0   -1.28   864.2    3.91Virginia City NCDC/Reno Airport
+04061977 0000       0    12.8    25.0       0    7.33   867.2    3.09Virginia City NCDC/Reno Airport
+05061977 0000       0    12.8    25.0       0    7.94   867.7    2.68Virginia City NCDC/Reno Airport
+06061977 0000       0    18.3    28.9       0    9.44   866.2    3.34Virginia City NCDC/Reno Airport
+07061977 0000       0    18.8    31.1       0    8.83   866.6    4.22Virginia City NCDC/Reno Airport
+08061977 0000 0.03556    14.7    28.9     0.8   11.22   863.5    2.93Virginia City NCDC/Reno Airport
+09061977 0000 0.21844    12.2    27.2     0.8   10.89   859.9    2.62Virginia City NCDC/Reno Airport
+10061977 0000  0.2032     8.5    25.0     0.9    7.61   863.7    2.21Virginia City NCDC/Reno Airport
+11061977 0000  1.3462     5.6    11.7     0.8    6.72   866.2    2.57Virginia City NCDC/Reno Airport
+12061977 0000  0.2032     6.1    18.3       0    2.56     865    3.45Virginia City NCDC/Reno Airport
+13061977 0000       0     8.9    21.7       0    4.17   863.4    3.09Virginia City NCDC/Reno Airport
+14061977 0000       0    10.0    22.8       0    3.22   864.4    3.86Virginia City NCDC/Reno Airport
+15061977 0000       0    10.0    23.9       0    3.94   866.2     3.4Virginia City NCDC/Reno Airport
+16061977 0000       0    11.1    23.3       0    4.89   865.3    3.09Virginia City NCDC/Reno Airport
+17061977 0000       0    13.3    23.9       0    5.78   864.8    5.92Virginia City NCDC/Reno Airport
+18061977 0000       0    11.7    26.7       0    4.56   866.4    2.93Virginia City NCDC/Reno Airport
+19061977 0000       0     9.3    17.8       1    8.72   864.8    3.55Virginia City NCDC/Reno Airport
+20061977 0000   2.794     7.8    24.4       0    7.56   864.6    3.55Virginia City NCDC/Reno Airport
+21061977 0000       0    10.6    21.1       0    7.83   866.4     3.5Virginia City NCDC/Reno Airport
+22061977 0000       0    11.7    23.3       0    7.33   866.5    2.31Virginia City NCDC/Reno Airport
+23061977 0000       0    13.3    24.4       0    6.06   866.2     3.6Virginia City NCDC/Reno Airport
+24061977 0000       0    15.6    28.9       0    7.94   867.4    2.73Virginia City NCDC/Reno Airport
+25061977 0000       0    17.8    31.7       0    9.94   867.2    3.29Virginia City NCDC/Reno Airport
+26061977 0000       0    18.3    31.1       0    8.44   867.9    2.62Virginia City NCDC/Reno Airport
+27061977 0000       0    17.8    31.7     0.8    8.06   868.3    3.14Virginia City NCDC/Reno Airport
+28061977 0000  0.0254    16.7    31.7       0    4.83     870    3.04Virginia City NCDC/Reno Airport
+29061977 0000       0    18.9    32.2       0    6.83   868.3     1.7Virginia City NCDC/Reno Airport
+30061977 0000       0    18.3    29.4       0    8.83   865.5    3.14Virginia City NCDC/Reno Airport
+01071977 0000       0    19.3    31.1       0    9.78   866.1    3.96Virginia City NCDC/Reno Airport
+02071977 0000       0    16.2    29.4       0    8.83   865.6    4.17Virginia City NCDC/Reno Airport
+03071977 0000       0    13.9    27.8       0    7.72   863.1    4.22Virginia City NCDC/Reno Airport
+04071977 0000       0    12.8    22.2       0    2.89   861.3    5.66Virginia City NCDC/Reno Airport
+05071977 0000       0     9.7    23.9       0      -2   865.7    4.01Virginia City NCDC/Reno Airport
+06071977 0000       0     7.2    21.1       0   -3.28   868.5     3.4Virginia City NCDC/Reno Airport
+07071977 0000       0     8.9    22.2       0    0.06   867.5    2.37Virginia City NCDC/Reno Airport
+08071977 0000       0    12.2    26.7       0    0.11   866.6     3.4Virginia City NCDC/Reno Airport
+09071977 0000       0    11.1    27.8       0   -0.22   865.9    4.06Virginia City NCDC/Reno Airport
+10071977 0000       0    13.3    27.2       0   -0.33   866.9     3.6Virginia City NCDC/Reno Airport
+11071977 0000       0    12.8    26.7       0    2.22   866.1    2.52Virginia City NCDC/Reno Airport
+12071977 0000       0    15.6    26.7       0    3.11   864.3    4.53Virginia City NCDC/Reno Airport
+13071977 0000       0    16.6    31.7       0    0.61   865.3    4.53Virginia City NCDC/Reno Airport
+14071977 0000       0    13.9    29.4       0    1.89   866.4    3.29Virginia City NCDC/Reno Airport
+15071977 0000       0    16.1    28.9       0       1   866.7    3.29Virginia City NCDC/Reno Airport
+16071977 0000       0    16.7    31.1       0       3   868.3    3.09Virginia City NCDC/Reno Airport
+17071977 0000       0    17.2    32.2       0    3.33   868.2    4.17Virginia City NCDC/Reno Airport
+18071977 0000       0    17.2    32.2       0       3   865.2    4.06Virginia City NCDC/Reno Airport
+19071977 0000       0    17.8    29.4       0    0.78   864.2     3.4Virginia City NCDC/Reno Airport
+20071977 0000       0    15.3    29.4       0    2.56     866     3.7Virginia City NCDC/Reno Airport
+21071977 0000       0    12.8    27.8       0    3.72   867.4     3.6Virginia City NCDC/Reno Airport
+22071977 0000       0    15.6    29.4       0       2   868.9    4.06Virginia City NCDC/Reno Airport
+23071977 0000       0    15.6    28.9       0   -0.17   868.8    3.24Virginia City NCDC/Reno Airport
+24071977 0000       0    15.6    28.9       0    0.61   867.5     3.5Virginia City NCDC/Reno Airport
+25071977 0000       0    16.1    28.9       0    1.28   869.2    2.93Virginia City NCDC/Reno Airport
+26071977 0000       0    14.4    30.0       0   -1.67   870.7    4.22Virginia City NCDC/Reno Airport
+27071977 0000       0    12.2    26.7       0   -1.06   870.3    3.86Virginia City NCDC/Reno Airport
+28071977 0000       0    15.0    29.4       0    -0.5   868.6     3.5Virginia City NCDC/Reno Airport
+29071977 0000       0    14.4    31.1       0   -1.28   869.6    4.17Virginia City NCDC/Reno Airport
+30071977 0000       0    15.6    30.0       0    0.33     870    2.42Virginia City NCDC/Reno Airport
+31071977 0000       0    16.1    32.2       0    0.72   869.9    2.01Virginia City NCDC/Reno Airport
+01081977 0000       0    17.2    31.1       0    3.67   869.3     1.8Virginia City NCDC/Reno Airport
+02081977 0000       0    17.8    32.2       0    5.39   869.3    3.29Virginia City NCDC/Reno Airport
+03081977 0000       0    19.4    33.3       0    7.22   867.4    2.57Virginia City NCDC/Reno Airport
+04081977 0000       0    19.4    31.7       0    5.78   866.3    3.45Virginia City NCDC/Reno Airport
+05081977 0000       0    18.3    31.1       0    1.83   865.1    3.24Virginia City NCDC/Reno Airport
+06081977 0000       0    16.7    30.0       0    1.89   864.4    3.29Virginia City NCDC/Reno Airport
+07081977 0000       0    16.1    26.7       0     1.5   864.6    3.09Virginia City NCDC/Reno Airport
+08081977 0000       0    14.4    26.7       0   -1.44   866.7    2.83Virginia City NCDC/Reno Airport
+09081977 0000       0    12.8    25.0       0   -0.22   866.2     1.8Virginia City NCDC/Reno Airport
+10081977 0000       0    13.9    28.3       0    2.06   865.5    2.78Virginia City NCDC/Reno Airport
+11081977 0000       0    18.9    29.4       0    2.06   865.6    2.52Virginia City NCDC/Reno Airport
+12081977 0000       0    19.4    29.4       0    3.17   865.8    2.78Virginia City NCDC/Reno Airport
+13081977 0000       0    18.3    30.6       0    6.17   864.6    2.42Virginia City NCDC/Reno Airport
+14081977 0000       0    18.3    32.2       0    7.33   862.8    2.06Virginia City NCDC/Reno Airport
+15081977 0000       0    17.2    31.1       0    0.33   863.4     3.4Virginia City NCDC/Reno Airport
+16081977 0000       0    15.6    29.4       0   -0.61   866.1    2.88Virginia City NCDC/Reno Airport
+17081977 0000       0    17.2    30.6       0    5.44   866.6    2.88Virginia City NCDC/Reno Airport
+18081977 0000       0    17.5    31.7     0.8   11.56   868.3    2.06Virginia City NCDC/Reno Airport
+19081977 0000   0.127    15.0    28.6       0    7.56   867.7    2.68Virginia City NCDC/Reno Airport
+20081977 0000       0    16.1    26.7       0    7.67     867    3.04Virginia City NCDC/Reno Airport
+21081977 0000       0    18.3    30.0       0    7.33     867    3.34Virginia City NCDC/Reno Airport
+22081977 0000       0    16.7    31.1       0     4.5   865.8    3.65Virginia City NCDC/Reno Airport
+23081977 0000       0    17.4    31.1       0    1.94   865.3    4.06Virginia City NCDC/Reno Airport
+24081977 0000       0    15.0    31.1       0    1.89     864    4.73Virginia City NCDC/Reno Airport
+25081977 0000       0    14.4    28.9       0    6.11   864.5    4.37Virginia City NCDC/Reno Airport
+26081977 0000       0    11.2    21.1       0    6.44   862.6    4.12Virginia City NCDC/Reno Airport
+27081977 0000       0     8.8    20.6       0    0.61   864.7    2.26Virginia City NCDC/Reno Airport
+28081977 0000       0     6.7    18.9       0    2.44   868.8    3.81Virginia City NCDC/Reno Airport
+29081977 0000       0    10.6    23.9       0    6.72   869.3    2.68Virginia City NCDC/Reno Airport
+30081977 0000       0    12.8    26.7       0    1.61   866.2    3.24Virginia City NCDC/Reno Airport
+31081977 0000       0    12.1    27.2       0   -0.94   863.6    2.98Virginia City NCDC/Reno Airport
+01091977 0000       0     9.4    27.2       0    0.11   864.5     3.4Virginia City NCDC/Reno Airport
+02091977 0000       0    11.1    26.1       0    2.89   866.3    2.93Virginia City NCDC/Reno Airport
+03091977 0000       0    12.8    26.7       0    1.22   867.7    3.29Virginia City NCDC/Reno Airport
+04091977 0000       0    12.8    27.8       0    1.11   867.4    2.42Virginia City NCDC/Reno Airport
+05091977 0000       0    15.0    29.4       0   -0.28   867.7    2.57Virginia City NCDC/Reno Airport
+06091977 0000       0    15.6    30.0       0    1.11   868.8    2.78Virginia City NCDC/Reno Airport
+07091977 0000       0    17.2    31.1       0    2.22   869.5    3.19Virginia City NCDC/Reno Airport
+08091977 0000       0    17.2    31.1       0    1.94   869.8    3.86Virginia City NCDC/Reno Airport
+09091977 0000       0    14.8    29.4       0    1.39   867.1    1.59Virginia City NCDC/Reno Airport
+10091977 0000       0    12.2    25.6       0    2.17   865.1    2.21Virginia City NCDC/Reno Airport
+11091977 0000       0    12.8    27.8       0    2.39   865.7    2.68Virginia City NCDC/Reno Airport
+12091977 0000       0    14.4    28.3       0   -0.72   866.8    2.98Virginia City NCDC/Reno Airport
+13091977 0000       0    12.8    27.8       0       0   866.2    2.01Virginia City NCDC/Reno Airport
+14091977 0000       0    14.9    27.2       0    1.78   863.7    2.73Virginia City NCDC/Reno Airport
+15091977 0000       0    11.3    25.0       0    -1.5   860.7    3.91Virginia City NCDC/Reno Airport
+16091977 0000       0     8.9    21.7       0   -0.33   858.5    4.37Virginia City NCDC/Reno Airport
+17091977 0000       0     5.4    20.0       0   -0.56   863.3    2.78Virginia City NCDC/Reno Airport
+18091977 0000       0     2.8    11.7       0    0.17   864.6    2.21Virginia City NCDC/Reno Airport
+19091977 0000       0     4.4    15.0       0     1.5   860.5    4.32Virginia City NCDC/Reno Airport
+20091977 0000   1.397     5.6    21.1     0.9    2.44   865.3    3.65Virginia City NCDC/Reno Airport
+21091977 0000       0     3.9    13.3       0   -1.56     868    2.31Virginia City NCDC/Reno Airport
+22091977 0000       0     3.9    13.9       0   -4.89   863.5     3.7Virginia City NCDC/Reno Airport
+23091977 0000       0     4.4    19.4       0    -6.5   863.2    3.24Virginia City NCDC/Reno Airport
+24091977 0000       0     2.8    17.2       0    0.28     860    6.22Virginia City NCDC/Reno Airport
+25091977 0000       0     4.4    18.9       0    0.06   861.7    2.83Virginia City NCDC/Reno Airport
+26091977 0000       0    10.0    20.0       0    3.89   862.1    3.91Virginia City NCDC/Reno Airport
+27091977 0000       0    10.6    22.8       0    4.28   863.7    3.04Virginia City NCDC/Reno Airport
+28091977 0000       0     9.4    22.2       0    3.33   863.8    3.96Virginia City NCDC/Reno Airport
+29091977 0000       0     7.2    20.0       0       4   861.8     7.1Virginia City NCDC/Reno Airport
+30091977 0000       0     5.3    19.4       0    1.17   866.5    4.01Virginia City NCDC/Reno Airport
+01101977 0000       0     2.8    16.7       0    -3.5   868.1    2.11Virginia City NCDC/Reno Airport
+02101977 0000       0     1.1    13.3       0   -3.83     866    1.75Virginia City NCDC/Reno Airport
+03101977 0000       0     1.7    15.0       0   -3.89   866.2    1.75Virginia City NCDC/Reno Airport
+04101977 0000       0     6.7    21.1       0   -4.28   865.1    1.44Virginia City NCDC/Reno Airport
+05101977 0000       0     6.7    20.0       0   -4.61   863.7     3.5Virginia City NCDC/Reno Airport
+06101977 0000       0     6.7    21.7       0   -4.78   864.7     5.2Virginia City NCDC/Reno Airport
+07101977 0000       0     4.9    20.0       0   -6.06   869.4    2.57Virginia City NCDC/Reno Airport
+08101977 0000       0     2.2    15.6       0      -4   868.5    1.34Virginia City NCDC/Reno Airport
+09101977 0000       0     2.8    15.6       0   -2.83   866.4    1.75Virginia City NCDC/Reno Airport
+10101977 0000       0     6.1    18.3       0   -5.17     869    2.11Virginia City NCDC/Reno Airport
+11101977 0000       0     7.2    20.0       0   -4.28   872.4    1.54Virginia City NCDC/Reno Airport
+12101977 0000       0     5.0    16.1       0   -3.33   872.2    1.23Virginia City NCDC/Reno Airport
+13101977 0000       0     6.1    17.8       0   -3.06   870.6    1.03Virginia City NCDC/Reno Airport
+14101977 0000       0     7.8    22.2       0   -3.44     871    1.54Virginia City NCDC/Reno Airport
+15101977 0000       0    10.0    22.8       0   -3.17   872.6    1.18Virginia City NCDC/Reno Airport
+16101977 0000       0    10.0    21.7       0      -3     870    1.54Virginia City NCDC/Reno Airport
+17101977 0000       0    11.1    22.2       0   -4.11   869.7    1.95Virginia City NCDC/Reno Airport
+18101977 0000       0    10.6    22.8       0    -4.5   867.9    1.75Virginia City NCDC/Reno Airport
+19101977 0000       0    10.6    21.1       0   -1.39   865.5    2.11Virginia City NCDC/Reno Airport
+20101977 0000       0    11.7    21.7       0   -2.33   864.5    2.78Virginia City NCDC/Reno Airport
+21101977 0000       0     6.6    21.7       0      -5   867.4    2.31Virginia City NCDC/Reno Airport
+22101977 0000       0     3.9    20.6       0   -2.89   870.3    1.08Virginia City NCDC/Reno Airport
+23101977 0000       0     5.0    16.7       0   -2.17   868.3    1.49Virginia City NCDC/Reno Airport
+24101977 0000       0     4.1    20.6       0   -1.33   868.4    2.42Virginia City NCDC/Reno Airport
+25101977 0000       0     1.1    17.8       0    1.56   870.1    2.78Virginia City NCDC/Reno Airport
+26101977 0000       0     8.9    20.6       0    2.94   865.5    2.78Virginia City NCDC/Reno Airport
+27101977 0000       0     1.6    20.0     0.3    3.17   858.8    2.93Virginia City NCDC/Reno Airport
+28101977 0000       0    -1.7    17.2     0.8   -2.83   862.4    2.57Virginia City NCDC/Reno Airport
+29101977 0000  0.1524     0.3    11.1       0   -4.17   863.3     5.3Virginia City NCDC/Reno Airport
+30101977 0000       0    -1.7    10.0       0   -3.72   866.2    3.86Virginia City NCDC/Reno Airport
+31101977 0000       0     2.2     8.3       0      -5   867.6    3.04Virginia City NCDC/Reno Airport
+01111977 0000       0     3.2    12.2       0   -4.11   869.3     1.8Virginia City NCDC/Reno Airport
+02111977 0000       0     1.7    11.7       0   -2.33   867.3    2.42Virginia City NCDC/Reno Airport
+03111977 0000       0     4.4    18.3       0   -1.28   862.5    2.88Virginia City NCDC/Reno Airport
+04111977 0000       0     3.3    18.9       0   -3.61   860.8    8.28Virginia City NCDC/Reno Airport
+05111977 0000       0     3.1    17.2       0   -2.22   859.3    7.51Virginia City NCDC/Reno Airport
+06111977 0000       0     0.6    18.3     0.3   -4.28   866.7    5.04Virginia City NCDC/Reno Airport
+07111977 0000       0    -2.2     5.0       0   -8.72   869.6     1.9Virginia City NCDC/Reno Airport
+08111977 0000       0    -3.2     7.2       0   -8.28   870.2    1.23Virginia City NCDC/Reno Airport
+09111977 0000       0    -5.0    12.2       0  -10.17   872.2    1.65Virginia City NCDC/Reno Airport
+10111977 0000       0    -4.4     5.6       0   -8.72   873.3    0.72Virginia City NCDC/Reno Airport
+11111977 0000       0    -3.3    13.3       0    -7.5   869.7    1.95Virginia City NCDC/Reno Airport
+12111977 0000       0     1.7    13.9       0  -10.11   869.7    2.37Virginia City NCDC/Reno Airport
+13111977 0000       0     4.4    15.6       0  -10.72   868.9    2.98Virginia City NCDC/Reno Airport
+14111977 0000       0     2.9    16.1       0   -9.72   872.2    1.54Virginia City NCDC/Reno Airport
+15111977 0000       0     0.6    13.9       0   -4.44     872     1.7Virginia City NCDC/Reno Airport
+16111977 0000       0     1.7    12.8       0   -4.39   871.9    1.75Virginia City NCDC/Reno Airport
+17111977 0000       0     2.8    17.2       0      -5   869.1    1.13Virginia City NCDC/Reno Airport
+18111977 0000       0     4.4    17.2       0  -10.94   860.7    5.45Virginia City NCDC/Reno Airport
+19111977 0000       0    -6.7    15.0       0  -15.67   856.2    6.53Virginia City NCDC/Reno Airport
+20111977 0000       0   -10.6     8.3       0     -16   863.3    2.47Virginia City NCDC/Reno Airport
+21111977 0000       0   -12.8    -2.8     0.9   -5.72     860    3.76Virginia City NCDC/Reno Airport
+22111977 0000  5.3848   -12.2     2.4       1   -2.06   862.1    6.12Virginia City NCDC/Reno Airport
+23111977 0000       0    -0.2     5.0       0   -5.44     869    3.19Virginia City NCDC/Reno Airport
+24111977 0000       0    -1.1     6.1     0.6    1.22   872.6     3.6Virginia City NCDC/Reno Airport
+25111977 0000       0     0.6     9.4       0    0.39   874.4    2.01Virginia City NCDC/Reno Airport
+26111977 0000       0     5.0    15.6       0   -0.22   870.8    2.83Virginia City NCDC/Reno Airport
+27111977 0000       0     7.2    15.6       0    1.78   867.1    3.04Virginia City NCDC/Reno Airport
+28111977 0000       0     5.2    15.6       0   -4.56   870.6    2.42Virginia City NCDC/Reno Airport
+29111977 0000       0     3.3    11.1       0    -3.5   876.6    1.49Virginia City NCDC/Reno Airport
+30111977 0000       0     3.3    12.8       0   -0.94   875.5    1.65Virginia City NCDC/Reno Airport
+01121977 0000       0     1.7    16.7       0   -6.33   871.5    1.13Virginia City NCDC/Reno Airport
+02121977 0000       0     0.6    11.1       0   -4.39   870.3    2.37Virginia City NCDC/Reno Airport
+03121977 0000       0     5.6    13.3       0   -5.67   869.1    3.34Virginia City NCDC/Reno Airport
+04121977 0000       0     5.6    17.8       0    0.67   869.5    3.91Virginia City NCDC/Reno Airport
+05121977 0000       0     4.4    15.6       0    1.33   869.8     3.4Virginia City NCDC/Reno Airport
+06121977 0000       0     3.9    14.4       0   -4.61   866.6    2.93Virginia City NCDC/Reno Airport
+07121977 0000       0     5.0    16.1       0   -4.78   863.7    4.58Virginia City NCDC/Reno Airport
+08121977 0000       0     0.6    13.3       0  -12.67   865.9    2.31Virginia City NCDC/Reno Airport
+09121977 0000       0    -1.7    13.3       0  -11.83   867.3    0.67Virginia City NCDC/Reno Airport
+10121977 0000       0    -1.7    10.0       0   -8.28   867.4    0.77Virginia City NCDC/Reno Airport
+11121977 0000       0     4.4    14.4       0   -7.33   865.8    4.06Virginia City NCDC/Reno Airport
+12121977 0000 0.97282     0.6    13.3     0.9   -1.17   868.1    2.57Virginia City NCDC/Reno Airport
+13121977 0000 0.19558    -1.7    12.8     0.6    0.33     870     1.7Virginia City NCDC/Reno Airport
+14121977 0000       0    -1.1     7.2     0.3    2.28     866    6.22Virginia City NCDC/Reno Airport
+15121977 0000 0.42164     2.8    10.0     0.9    0.28   858.2    8.69Virginia City NCDC/Reno Airport
+16121977 0000 1.20396    -2.2    13.3     0.8    -6.5   865.1    2.93Virginia City NCDC/Reno Airport
+17121977 0000       0    -5.0     3.9     0.8    0.56   855.4    4.17Virginia City NCDC/Reno Airport
+18121977 0000  1.6002    -4.9     1.7       1   -3.83   858.3    2.47Virginia City NCDC/Reno Airport
+19121977 0000 2.86766    -8.0     3.3     0.8      -6   870.2    1.18Virginia City NCDC/Reno Airport
+20121977 0000 0.02794   -10.0    -0.6     0.6    -6.5     876    3.04Virginia City NCDC/Reno Airport
+21121977 0000       0    -7.8     0.0     0.6   -6.56   867.7     1.9Virginia City NCDC/Reno Airport
+22121977 0000   0.762    -7.8    -2.8     0.8   -1.67   857.9    2.37Virginia City NCDC/Reno Airport
+23121977 0000   0.508    -5.6     4.4     0.9   -0.78   859.5    3.86Virginia City NCDC/Reno Airport
+24121977 0000   1.016    -2.2     4.4     0.3   -4.22   869.2     1.8Virginia City NCDC/Reno Airport
+25121977 0000       0    -3.3     3.9     0.3    -3.5   872.4    0.57Virginia City NCDC/Reno Airport
+26121977 0000       0    -3.9     7.2     0.6   -3.11   869.7    0.82Virginia City NCDC/Reno Airport
+27121977 0000 0.64008    -4.4     3.9     0.9   -0.78   865.2    1.75Virginia City NCDC/Reno Airport
+28121977 0000 0.42672    -3.9     1.1     0.8   -0.17   865.1    0.26Virginia City NCDC/Reno Airport
+29121977 0000  0.4572    -1.1     7.8     0.8       1   863.6    0.36Virginia City NCDC/Reno Airport
+30121977 0000       0    -1.1     1.7     0.3   -1.78   860.9    5.71Virginia City NCDC/Reno Airport
+31121977 0000       0    -2.5     8.3     0.3   -4.83   867.7    1.75Virginia City NCDC/Reno Airport
+01101984 0000     0.3     3.3     6.1     0.8    1.94   863.5    3.09Virginia City NCDC/Reno Airport
+02101984 0000       0     6.1    16.1     0.3    5.17   866.8    1.44Virginia City NCDC/Reno Airport
+03101984 0000       0     8.3    18.3       0    3.78   866.4    2.52Virginia City NCDC/Reno Airport
+04101984 0000       0     7.2    21.1       0    1.83   865.6    2.21Virginia City NCDC/Reno Airport
+05101984 0000       0     7.2    20.0       0    0.11   866.1    2.73Virginia City NCDC/Reno Airport
+06101984 0000       0    10.0    21.7       0    2.11   869.7    2.88Virginia City NCDC/Reno Airport
+07101984 0000       0    11.7    23.3       0    1.89   873.4    2.06Virginia City NCDC/Reno Airport
+08101984 0000       0     8.3    22.2       0    2.22   870.2    3.40Virginia City NCDC/Reno Airport
+09101984 0000       0    10.0    21.7       0    0.61   866.3    2.52Virginia City NCDC/Reno Airport
+10101984 0000     1.6     1.7    21.1     0.9   -3.11   863.2    3.60Virginia City NCDC/Reno Airport
+11101984 0000       0    -0.6     8.3     0.6    0.61   860.3    7.46Virginia City NCDC/Reno Airport
+12101984 0000       0    10.6    16.7       0   -0.56   868.8    2.62Virginia City NCDC/Reno Airport
+13101984 0000       0    -1.1    17.2     0.6    5.39   870.3    4.78Virginia City NCDC/Reno Airport
+14101984 0000       0    -2.8    11.7       0   -3.28   869.5    3.86Virginia City NCDC/Reno Airport
+15101984 0000       0    -3.9    15.0       0   -7.33     865    4.84Virginia City NCDC/Reno Airport
+16101984 0000    3.76    -5.6     0.6       1   -6.06   861.5    3.04Virginia City NCDC/Reno Airport
+17101984 0000       0    -5.6     1.1     0.6   -3.22   857.6    4.63Virginia City NCDC/Reno Airport
+18101984 0000       0    -4.4     2.8     0.3   -4.94   870.7    2.78Virginia City NCDC/Reno Airport
+19101984 0000       0     0.0     8.9     0.6    1.44   865.2    2.11Virginia City NCDC/Reno Airport
+20101984 0000       0    -2.2     8.9     0.6    0.94     862    4.06Virginia City NCDC/Reno Airport
+21101984 0000       0    -2.2     6.1     0.3   -2.39     866    2.83Virginia City NCDC/Reno Airport
+22101984 0000       0    -1.7     7.8       0   -3.00   869.8    1.95Virginia City NCDC/Reno Airport
+23101984 0000       0    -1.7     7.8       0   -3.00   872.9    2.06Virginia City NCDC/Reno Airport
+24101984 0000       0     0.0    13.3       0   -1.83   870.9    2.37Virginia City NCDC/Reno Airport
+25101984 0000       0     0.0    13.3       0   -1.28   869.4    2.16Virginia City NCDC/Reno Airport
+26101984 0000    0.18    -2.2    11.1     0.8    1.11   862.5    5.14Virginia City NCDC/Reno Airport
+27101984 0000       0    -2.8     7.8     0.6   -1.39     864    3.81Virginia City NCDC/Reno Airport
+28101984 0000       0     5.0    10.6       0   -5.44   864.5    3.04Virginia City NCDC/Reno Airport
+29101984 0000       0     1.7    13.3       0    0.72   865.7    3.70Virginia City NCDC/Reno Airport
+30101984 0000       0    -1.7    12.2       0   -1.72   866.1    2.88Virginia City NCDC/Reno Airport
+31101984 0000       0    -1.7     8.3       0   -2.72   865.3    4.22Virginia City NCDC/Reno Airport
+01111984 0000       0     2.2    15.0       0   -6.50   869.4    1.85Virginia City NCDC/Reno Airport
+02111984 0000    0.38     3.9    12.2     0.8   -8.50   863.6   12.30Virginia City NCDC/Reno Airport
+03111984 0000       0     0.6    12.2       0   -0.61   864.4    5.92Virginia City NCDC/Reno Airport
+04111984 0000       0     0.6    12.2       0   -4.22   870.8    2.11Virginia City NCDC/Reno Airport
+05111984 0000    0.33     0.0    12.8     0.8   -3.83   868.2    1.49Virginia City NCDC/Reno Airport
+06111984 0000       0     0.0    12.8       0   -2.72   860.7    6.22Virginia City NCDC/Reno Airport
+07111984 0000     1.3    -0.6     7.2     0.9   -1.61   862.7    3.50Virginia City NCDC/Reno Airport
+08111984 0000    0.81    -4.4     1.7     0.8    0.28   857.8    4.32Virginia City NCDC/Reno Airport
+09111984 0000       0    -1.7     4.4     0.3   -4.56   870.2    4.22Virginia City NCDC/Reno Airport
+10111984 0000    0.08    -1.7     6.1     0.8   -2.89   868.2    2.37Virginia City NCDC/Reno Airport
+11111984 0000       0     3.3    14.4       0    2.28   864.7    3.40Virginia City NCDC/Reno Airport
+12111984 0000     1.6    -1.1    13.3     0.9   -7.28   859.8    9.52Virginia City NCDC/Reno Airport
+13111984 0000    0.28    -3.9     3.3     0.8   -1.17   856.9    7.36Virginia City NCDC/Reno Airport
+14111984 0000       0    -2.8     5.6     0.3   -3.22   870.5    4.01Virginia City NCDC/Reno Airport
+15111984 0000       0    -2.8     5.0     0.3   -3.28   869.5    1.59Virginia City NCDC/Reno Airport
+16111984 0000       0    -2.2     5.6     0.6   -1.72   865.1    1.65Virginia City NCDC/Reno Airport
+17111984 0000       0    -1.7     7.2     0.3   -2.33   867.6    1.70Virginia City NCDC/Reno Airport
+18111984 0000       0    -2.2     7.2     0.6   -1.17   865.3    3.96Virginia City NCDC/Reno Airport
+19111984 0000       0    -1.7     6.7       0   -4.06   871.8    1.18Virginia City NCDC/Reno Airport
+20111984 0000     0.3    -1.7    10.0     0.8   -3.33   865.8    3.29Virginia City NCDC/Reno Airport
+21111984 0000       0    -2.8     0.0     0.6   -1.22   863.4    5.25Virginia City NCDC/Reno Airport
+22111984 0000       0    -2.2     3.3     0.6   -0.78     868    2.16Virginia City NCDC/Reno Airport
+23111984 0000    0.91     0.6     7.8     0.8   -1.83   867.6    1.18Virginia City NCDC/Reno Airport
+24111984 0000    0.61    -7.2     3.3     0.8   -0.78   855.6    7.05Virginia City NCDC/Reno Airport
+25111984 0000       0    -8.3     0.6     0.6   -5.00   861.8    3.40Virginia City NCDC/Reno Airport
+26111984 0000       0    -3.9    -1.1     0.3   -7.72   869.9    2.21Virginia City NCDC/Reno Airport
+27111984 0000    2.74    -1.7     7.2       1   -3.61   866.4    4.32Virginia City NCDC/Reno Airport
+28111984 0000       0    -5.6     7.2     0.6    0.00   861.3    6.43Virginia City NCDC/Reno Airport
+29111984 0000       0    -5.0     3.3     0.6   -2.78   868.5    2.83Virginia City NCDC/Reno Airport
+30111984 0000       0    -3.3     6.1     0.6   -2.22   867.8    4.01Virginia City NCDC/Reno Airport
+01121984 0000       0    -5.0     2.8     0.6   -1.89   866.4    2.88Virginia City NCDC/Reno Airport
+02121984 0000    0.05    -3.3     1.1     0.8   -3.39   865.9    1.49Virginia City NCDC/Reno Airport
+03121984 0000       0    -3.9    -1.1     0.6   -1.28   863.2    1.90Virginia City NCDC/Reno Airport
+04121984 0000       0    -3.9     2.2     0.6   -1.44   865.2    3.14Virginia City NCDC/Reno Airport
+05121984 0000       0    -4.4     2.2     0.6   -2.06   866.8    1.54Virginia City NCDC/Reno Airport
+06121984 0000       0    -3.9     2.8     0.6   -2.89   874.2    3.24Virginia City NCDC/Reno Airport
+07121984 0000       0    -2.2     6.1     0.3   -2.72   872.2    1.44Virginia City NCDC/Reno Airport
+08121984 0000       0    -1.1     8.9       0   -2.28   865.9    1.29Virginia City NCDC/Reno Airport
+09121984 0000     0.1    -1.7     4.4     0.8   -1.44   868.8    0.72Virginia City NCDC/Reno Airport
+10121984 0000       0    -0.6     5.0     0.3   -1.83   862.9    3.29Virginia City NCDC/Reno Airport
+11121984 0000       0     0.0     5.6     0.3   -2.61   858.9    2.83Virginia City NCDC/Reno Airport
+12121984 0000     0.3    -6.7     5.6     0.8   -3.50   858.2    6.94Virginia City NCDC/Reno Airport
+13121984 0000       0   -10.0    -1.1     0.6   -7.72   862.8    7.15Virginia City NCDC/Reno Airport
+14121984 0000       0    -6.7     0.0     0.3   -8.72     867    2.62Virginia City NCDC/Reno Airport
+15121984 0000    1.07    -7.8     5.0     0.9   -6.22   856.1    4.58Virginia City NCDC/Reno Airport
+16121984 0000       0   -12.2    -2.2     0.6   -4.67   855.3    3.91Virginia City NCDC/Reno Airport
+17121984 0000       0   -12.2    -4.4     0.6  -10.61   864.5    1.90Virginia City NCDC/Reno Airport
+18121984 0000    0.05   -10.6    -5.0     0.8  -10.39   861.7    1.49Virginia City NCDC/Reno Airport
+19121984 0000       0   -11.1    -2.2     0.6   -7.33   863.7    2.73Virginia City NCDC/Reno Airport
+20121984 0000       0    -6.1     2.2       0   -9.78   862.6    1.39Virginia City NCDC/Reno Airport
+21121984 0000       0    -7.8     2.2     0.6   -6.50     869    2.31Virginia City NCDC/Reno Airport
+22121984 0000       0    -7.2     2.8     0.3   -7.94   875.9    1.49Virginia City NCDC/Reno Airport
+23121984 0000       0    -6.1    10.0       0   -8.06   873.3    1.29Virginia City NCDC/Reno Airport
+24121984 0000       0    -7.8     1.7     0.3   -7.61     871    1.23Virginia City NCDC/Reno Airport
+25121984 0000       0    -6.7     7.8       0   -7.50     867    1.34Virginia City NCDC/Reno Airport
+26121984 0000       0    -5.0     3.9     0.3   -6.44   859.4    1.29Virginia City NCDC/Reno Airport
+27121984 0000       0    -3.3     6.7       0   -7.56   858.7    1.49Virginia City NCDC/Reno Airport
+28121984 0000       0    -3.9     3.9       0   -6.22   857.7    2.62Virginia City NCDC/Reno Airport
+29121984 0000       0    -2.8     7.2       0   -6.94   866.2    1.08Virginia City NCDC/Reno Airport
+30121984 0000       0    -5.0     7.8       0   -5.83   870.2    3.60Virginia City NCDC/Reno Airport
+31121984 0000       0    -7.2     1.7     0.6   -5.94   874.5    1.54Virginia City NCDC/Reno Airport
+01011985 0000       0    -6.7     1.7     0.3   -7.83   878.5    1.34Virginia City NCDC/Reno Airport
+02011985 0000       0    -6.1     2.2     0.3   -7.39   879.8    1.18Virginia City NCDC/Reno Airport
+03011985 0000       0    -6.7     2.2     0.3   -7.61   879.9    1.39Virginia City NCDC/Reno Airport
+04011985 0000       0    -5.0     2.2       0   -7.56   879.9    1.44Virginia City NCDC/Reno Airport
+05011985 0000       0    -2.2     5.6       0   -5.28   876.3    0.98Virginia City NCDC/Reno Airport
+06011985 0000    0.13    -3.3     1.7     0.8   -3.61   870.7    1.59Virginia City NCDC/Reno Airport
+07011985 0000    0.23    -3.3     0.6     0.8   -0.61   864.3    1.59Virginia City NCDC/Reno Airport
+08011985 0000       0    -3.3     5.0     0.6   -0.72   862.5    1.59Virginia City NCDC/Reno Airport
+09011985 0000    0.05    -4.4     5.0     0.8    0.11   865.1    1.85Virginia City NCDC/Reno Airport
+10011985 0000       0    -6.7     2.2     0.6   -1.72   870.2    3.04Virginia City NCDC/Reno Airport
+11011985 0000       0    -7.8     0.0     0.6   -4.83     876    1.39Virginia City NCDC/Reno Airport
+12011985 0000       0   -10.0    -1.1     0.6   -6.00   878.4    2.78Virginia City NCDC/Reno Airport
+13011985 0000       0    -7.2     3.3       0   -8.83   875.8    2.11Virginia City NCDC/Reno Airport
+14011985 0000       0    -4.4     6.1       0   -7.33   874.5    2.26Virginia City NCDC/Reno Airport
+15011985 0000       0    -7.2     7.2     0.3   -5.78   873.7    1.29Virginia City NCDC/Reno Airport
+16011985 0000       0    -5.0     3.9     0.3   -5.89   876.2    1.39Virginia City NCDC/Reno Airport
+17011985 0000       0    -2.2     7.8       0   -5.28   878.6    1.85Virginia City NCDC/Reno Airport
+18011985 0000       0     1.1    14.4       0   -5.39   872.6    1.23Virginia City NCDC/Reno Airport
+19011985 0000       0    -1.1     9.4       0   -4.44     869    1.23Virginia City NCDC/Reno Airport
+20011985 0000       0    -3.9    13.3       0   -4.28   868.2    1.39Virginia City NCDC/Reno Airport
+21011985 0000       0    -6.7     2.2     0.6   -4.11   867.2    2.01Virginia City NCDC/Reno Airport
+22011985 0000       0    -6.1     2.2     0.6   -5.72   869.5    2.83Virginia City NCDC/Reno Airport
+23011985 0000       0    -9.4     1.1     0.6   -6.39   869.6    1.75Virginia City NCDC/Reno Airport
+24011985 0000       0    -8.3     0.0     0.6   -8.06     869    1.70Virginia City NCDC/Reno Airport
+25011985 0000     0.1    -7.8    -1.1     0.8   -8.11     870    1.29Virginia City NCDC/Reno Airport
+26011985 0000       0    -7.8     1.7     0.6   -2.11   869.4    1.80Virginia City NCDC/Reno Airport
+27011985 0000    0.18    -7.2    -0.6     0.8   -4.06   869.2    1.75Virginia City NCDC/Reno Airport
+28011985 0000       0    -8.3    -0.6     0.6   -3.83   864.3    2.21Virginia City NCDC/Reno Airport
+29011985 0000       0   -10.0    -2.2     0.6   -5.89   864.6    2.47Virginia City NCDC/Reno Airport
+30011985 0000       0    -6.1     2.2       0   -9.83     867    3.65Virginia City NCDC/Reno Airport
+31011985 0000    0.05   -13.9    -2.2     0.8  -12.78   867.5    2.83Virginia City NCDC/Reno Airport
+01021985 0000    0.28   -11.7    -1.1     0.8  -13.67   864.7    2.98Virginia City NCDC/Reno Airport
+02021985 0000       0    -9.4    -3.3     0.6   -8.89   858.2    3.91Virginia City NCDC/Reno Airport
+03021985 0000     0.2   -13.3    -0.6     0.8  -10.56   859.3    2.11Virginia City NCDC/Reno Airport
+04021985 0000       0   -14.4    -7.8     0.6   -8.61     865    3.65Virginia City NCDC/Reno Airport
+05021985 0000       0    -6.1     4.4       0  -12.17   869.4    1.59Virginia City NCDC/Reno Airport
+06021985 0000       0    -4.4     5.6       0   -8.72   865.9    1.59Virginia City NCDC/Reno Airport
+07021985 0000    1.85    -4.4     5.6     0.9   -6.89   863.9    4.06Virginia City NCDC/Reno Airport
+08021985 0000    1.47    -8.3     0.0     0.9   -0.06   857.2    7.51Virginia City NCDC/Reno Airport
+09021985 0000       0   -10.6     0.0     0.6   -7.33   862.2    4.17Virginia City NCDC/Reno Airport
+10021985 0000       0   -10.0     1.7     0.3   -9.56   871.3    2.73Virginia City NCDC/Reno Airport
+11021985 0000       0   -10.6     7.2     0.6   -5.44   874.1    1.65Virginia City NCDC/Reno Airport
+12021985 0000       0    -1.1    11.1       0   -3.44   873.2    1.95Virginia City NCDC/Reno Airport
+13021985 0000       0    -2.8     7.8     0.6   -0.67   875.6    1.29Virginia City NCDC/Reno Airport
+14021985 0000       0    -2.2    10.0     0.3   -1.00   877.7    1.18Virginia City NCDC/Reno Airport
+15021985 0000       0     2.2    15.6       0   -1.50   874.4    1.18Virginia City NCDC/Reno Airport
+16021985 0000       0    -0.6    13.3       0   -2.78   868.5    1.39Virginia City NCDC/Reno Airport
+17021985 0000       0    -2.8     5.6     0.6   -1.50   866.1    1.75Virginia City NCDC/Reno Airport
+18021985 0000       0     0.6     7.8       0   -2.00   870.9    1.75Virginia City NCDC/Reno Airport
+19021985 0000       0    -7.2    12.8     0.3   -1.78   868.3    1.34Virginia City NCDC/Reno Airport
+20021985 0000       0    -7.2     0.6     0.6   -6.83   862.1    5.97Virginia City NCDC/Reno Airport
+21021985 0000       0    -2.8     4.4       0   -8.33   869.1    2.11Virginia City NCDC/Reno Airport
+22021985 0000       0    -1.7    10.6       0   -4.33   871.1    2.06Virginia City NCDC/Reno Airport
+23021985 0000       0    -1.1    10.6       0   -5.72   873.6    1.85Virginia City NCDC/Reno Airport
+24021985 0000       0     1.1    13.9       0   -4.61     874    1.65Virginia City NCDC/Reno Airport
+25021985 0000       0    -2.2     5.0     0.3   -3.17   871.8    2.98Virginia City NCDC/Reno Airport
+26021985 0000       0    -5.0    12.8       0   -7.06   870.5    1.90Virginia City NCDC/Reno Airport
+27021985 0000       0    -2.2     6.1       0   -4.94     870    3.40Virginia City NCDC/Reno Airport
+28021985 0000       0     0.6    10.6       0   -8.06   873.1    1.49Virginia City NCDC/Reno Airport
+01031985 0000    2.06    -7.8    10.6       1   -6.78   866.3    2.93Virginia City NCDC/Reno Airport
+02031985 0000    1.19   -10.6    -5.6     0.9   -5.89   857.3    6.84Virginia City NCDC/Reno Airport
+03031985 0000       0   -10.6    -1.7     0.3  -10.50   864.9    5.30Virginia City NCDC/Reno Airport
+04031985 0000       0    -6.1     0.0     0.3   -8.61     861    3.76Virginia City NCDC/Reno Airport
+05031985 0000     0.2    -7.8     1.7     0.8   -7.72   860.7    3.45Virginia City NCDC/Reno Airport
+06031985 0000    0.28    -7.2    -0.6     0.8   -6.11   857.2    4.58Virginia City NCDC/Reno Airport
+07031985 0000    0.08    -8.3    -0.6     0.8   -6.78   859.9    4.17Virginia City NCDC/Reno Airport
+08031985 0000       0    -4.4     3.9       0   -9.72   869.6    2.68Virginia City NCDC/Reno Airport
+09031985 0000       0    -1.7    10.6       0   -6.11   868.8    1.29Virginia City NCDC/Reno Airport
+10031985 0000       0    -1.7     5.6     0.3   -2.11   865.3    2.37Virginia City NCDC/Reno Airport
+11031985 0000     0.1    -1.7     2.2     0.8    1.11   866.1    3.24Virginia City NCDC/Reno Airport
+12031985 0000       0    -2.2     8.9     0.3   -1.67   866.4    1.75Virginia City NCDC/Reno Airport
+13031985 0000       0    -1.7     6.7       0   -4.17   869.4    1.75Virginia City NCDC/Reno Airport
+14031985 0000       0     1.7     9.4       0   -5.44   867.6    1.75Virginia City NCDC/Reno Airport
+15031985 0000       0     0.6     9.4       0   -6.22   866.2    1.90Virginia City NCDC/Reno Airport
+16031985 0000       0     2.8    11.1       0   -5.11   866.8    1.39Virginia City NCDC/Reno Airport
+17031985 0000       0     1.1    11.7       0   -2.67   867.6    1.65Virginia City NCDC/Reno Airport
+18031985 0000    0.79     2.2     7.8     0.8   -0.50   865.5    3.96Virginia City NCDC/Reno Airport
+19031985 0000       0     1.7    12.8       0    1.11   869.2    2.01Virginia City NCDC/Reno Airport
+20031985 0000       0    -2.2    11.7       0   -3.00   870.3    1.80Virginia City NCDC/Reno Airport
+21031985 0000       0    -3.9     6.7       0   -8.78   867.3    6.43Virginia City NCDC/Reno Airport
+22031985 0000       0    -2.8     9.4       0  -11.06   868.2    2.26Virginia City NCDC/Reno Airport
+23031985 0000       0     3.9    13.9       0   -5.72   867.6    2.68Virginia City NCDC/Reno Airport
+24031985 0000       0    -3.9    10.0       0   -5.44   862.2   10.34Virginia City NCDC/Reno Airport
+25031985 0000       0    -7.2     2.8     0.3   -8.00   859.5    7.61Virginia City NCDC/Reno Airport
+26031985 0000    3.96    -7.2     2.2       1   -6.94   859.3    4.68Virginia City NCDC/Reno Airport
+27031985 0000    2.24    -7.8    -2.2       1   -3.50   852.8    6.48Virginia City NCDC/Reno Airport
+28031985 0000    1.14    -7.2    -0.6     0.9   -4.61   856.7    4.53Virginia City NCDC/Reno Airport
+29031985 0000       0    -5.6     0.6     0.6   -5.94   866.7    5.35Virginia City NCDC/Reno Airport
+30031985 0000       0     0.0    10.0       0   -6.94   874.2    2.31Virginia City NCDC/Reno Airport
+31031985 0000       0     3.3    13.3       0   -1.50   876.3    1.80Virginia City NCDC/Reno Airport
+01041985 0000       0     7.2    15.6       0   -0.28   876.9    2.26Virginia City NCDC/Reno Airport
+02041985 0000       0     7.2    20.6       0    0.39   874.6    2.11Virginia City NCDC/Reno Airport
+03041985 0000       0     5.6    18.9       0   -1.89     869    3.14Virginia City NCDC/Reno Airport
+04041985 0000       0     5.6    15.6       0   -2.22   866.4    4.12Virginia City NCDC/Reno Airport
+05041985 0000       0     8.9    19.4       0   -0.72   867.3    2.16Virginia City NCDC/Reno Airport
+06041985 0000       0    11.1    22.8       0   -0.72   866.2    2.01Virginia City NCDC/Reno Airport
+07041985 0000       0     8.9    21.7       0   -0.50   868.8    2.83Virginia City NCDC/Reno Airport
+08041985 0000       0    10.0    22.2       0   -1.11   869.9    2.52Virginia City NCDC/Reno Airport
+09041985 0000       0    10.0    21.7       0   -0.78   867.8    3.04Virginia City NCDC/Reno Airport
+10041985 0000       0     3.9    18.3       0    0.28     865    3.14Virginia City NCDC/Reno Airport
+11041985 0000       0     5.6    17.8       0   -3.83   867.2    3.81Virginia City NCDC/Reno Airport
+12041985 0000       0     8.9    17.8       0   -3.00   873.1    2.88Virginia City NCDC/Reno Airport
+13041985 0000       0    10.6    21.7       0   -2.17   874.6    1.44Virginia City NCDC/Reno Airport
+14041985 0000       0    11.1    23.9       0   -1.50   869.2    1.85Virginia City NCDC/Reno Airport
+15041985 0000       0     7.2    19.4       0   -0.28   862.4    3.91Virginia City NCDC/Reno Airport
+16041985 0000       0     1.7    19.4       0   -3.28   857.8    4.58Virginia City NCDC/Reno Airport
+17041985 0000       0     0.6     8.3     0.3   -0.61   859.3    4.94Virginia City NCDC/Reno Airport
+18041985 0000       0     2.2    14.4       0    0.67   862.3    3.76Virginia City NCDC/Reno Airport
+19041985 0000       0    -2.8     7.2     0.3   -2.28   861.4    8.39Virginia City NCDC/Reno Airport
+20041985 0000       0    -1.1     6.1       0   -7.33   860.5    4.22Virginia City NCDC/Reno Airport
+21041985 0000       0    -0.6     8.3     0.3   -1.61   857.3    4.63Virginia City NCDC/Reno Airport
+22041985 0000       0     4.4    15.0       0   -1.22   861.6    5.25Virginia City NCDC/Reno Airport
+23041985 0000       0     4.4    15.6       0   -0.78   867.6    4.63Virginia City NCDC/Reno Airport
+24041985 0000       0    -3.9    14.4       0   -4.17   869.9    3.29Virginia City NCDC/Reno Airport
+25041985 0000       0    -3.9     5.0       0   -6.22   865.8    6.17Virginia City NCDC/Reno Airport
+26041985 0000       0    -0.6     9.4       0   -8.78   866.3    2.83Virginia City NCDC/Reno Airport
+27041985 0000       0     7.2    17.2       0   -7.22   866.6    2.57Virginia City NCDC/Reno Airport
+28041985 0000       0     9.4    18.9       0    0.17   865.2    2.62Virginia City NCDC/Reno Airport
+29041985 0000       0     8.3    18.9       0    1.50   868.7    2.93Virginia City NCDC/Reno Airport
+30041985 0000       0     8.9    22.2       0    0.22   868.7    2.57Virginia City NCDC/Reno Airport
+01051985 0000       0    11.1    25.0       0    1.67   865.8    2.93Virginia City NCDC/Reno Airport
+02051985 0000       0     5.6    20.6       0    2.22   864.2    4.27Virginia City NCDC/Reno Airport
+03051985 0000       0     1.1    16.7       0   -1.33   864.2    4.37Virginia City NCDC/Reno Airport
+04051985 0000       0     5.0    14.4       0   -1.22   866.9    3.91Virginia City NCDC/Reno Airport
+05051985 0000       0     7.2    21.1       0   -1.39   863.6    2.42Virginia City NCDC/Reno Airport
+06051985 0000       0     6.1    21.1       0    1.33   860.2    4.22Virginia City NCDC/Reno Airport
+07051985 0000       0     4.4    16.7       0    0.94   861.7    4.37Virginia City NCDC/Reno Airport
+08051985 0000       0     3.9    15.0       0   -0.28   863.5    5.50Virginia City NCDC/Reno Airport
+09051985 0000       0     1.7    13.9     0.3    1.94   862.2    4.99Virginia City NCDC/Reno Airport
+10051985 0000       0     0.6    10.0     0.3    0.28   860.2    6.22Virginia City NCDC/Reno Airport
+11051985 0000       0     2.8    15.6       0    0.11   864.6    4.58Virginia City NCDC/Reno Airport
+12051985 0000       0     5.6    16.7       0   -0.39   865.7    3.76Virginia City NCDC/Reno Airport
+13051985 0000       0     7.8    18.9       0   -5.28   868.7    2.47Virginia City NCDC/Reno Airport
+14051985 0000       0     1.7    20.0       0   -0.56   865.4    4.48Virginia City NCDC/Reno Airport
+15051985 0000       0     2.8    12.2       0   -7.94   865.4    4.22Virginia City NCDC/Reno Airport
+16051985 0000       0     5.6    16.7       0   -3.22   864.6    2.98Virginia City NCDC/Reno Airport
+17051985 0000       0     8.9    22.2       0    1.22   865.1    2.73Virginia City NCDC/Reno Airport
+18051985 0000       0    10.0    23.9       0    0.44   864.3    3.19Virginia City NCDC/Reno Airport
+19051985 0000       0     7.8    21.1       0    2.33   861.4    3.55Virginia City NCDC/Reno Airport
+20051985 0000       0     7.2    17.8       0   -1.00   862.9    5.30Virginia City NCDC/Reno Airport
+21051985 0000       0    11.7    19.4       0    0.56   868.1    3.29Virginia City NCDC/Reno Airport
+22051985 0000       0    11.7    22.8       0    1.11   868.2    2.37Virginia City NCDC/Reno Airport
+23051985 0000       0    11.7    25.6       0    3.94   867.1    3.29Virginia City NCDC/Reno Airport
+24051985 0000       0     8.9    24.4       0    3.61   865.8    4.32Virginia City NCDC/Reno Airport
+25051985 0000       0     8.9    22.2       0    1.61   863.1    4.32Virginia City NCDC/Reno Airport
+26051985 0000       0     7.2    21.7       0    0.39   860.8    3.45Virginia City NCDC/Reno Airport
+27051985 0000       0     5.0    17.2       0    0.94   860.9    5.30Virginia City NCDC/Reno Airport
+28051985 0000       0     2.2    15.0       0   -2.94     863    6.53Virginia City NCDC/Reno Airport
+29051985 0000       0     1.1    11.1       0   -6.00   863.5    8.03Virginia City NCDC/Reno Airport
+30051985 0000       0     5.6    18.3       0   -5.33   865.6    3.24Virginia City NCDC/Reno Airport
+31051985 0000       0     2.8    11.7       0   -2.89   859.6    4.94Virginia City NCDC/Reno Airport
+01061985 0000       0     0.6    13.3       0   -3.00   862.8    4.42Virginia City NCDC/Reno Airport
+02061985 0000       0     0.6    10.6     0.3    0.11   863.8    4.84Virginia City NCDC/Reno Airport
+03061985 0000       0     7.2    17.8       0    4.17   864.4    2.83Virginia City NCDC/Reno Airport
+04061985 0000       0    12.2    22.8       0    6.06   866.1    3.45Virginia City NCDC/Reno Airport
+05061985 0000       0    12.8    22.2       0    6.06   866.3    4.32Virginia City NCDC/Reno Airport
+06061985 0000       0    16.7    27.2       0    4.67   867.9    4.58Virginia City NCDC/Reno Airport
+07061985 0000       0    13.3    25.6       0    3.17   867.9    4.58Virginia City NCDC/Reno Airport
+08061985 0000       0    14.4    27.8       0    3.56   869.2    3.55Virginia City NCDC/Reno Airport
+09061985 0000       0    12.8    28.9       0    4.11     867    4.12Virginia City NCDC/Reno Airport
+10061985 0000       0    12.8    24.4       0   -0.50   867.4    4.22Virginia City NCDC/Reno Airport
+11061985 0000       0    16.7    26.7       0   -2.67   869.6    3.04Virginia City NCDC/Reno Airport
+12061985 0000       0    17.2    31.1       0   -0.61   868.4    2.37Virginia City NCDC/Reno Airport
+13061985 0000       0    15.0    28.9       0    4.44   866.2    3.86Virginia City NCDC/Reno Airport
+14061985 0000       0    18.3    29.4       0    1.72   866.1    4.27Virginia City NCDC/Reno Airport
+15061985 0000       0    18.9    32.8       0    4.83   865.7    2.98Virginia City NCDC/Reno Airport
+16061985 0000       0    17.8    30.0       0    5.56   865.2    3.24Virginia City NCDC/Reno Airport
+17061985 0000       0    21.7    32.2       0    5.61   866.8    2.93Virginia City NCDC/Reno Airport
+18061985 0000       0    20.0    33.3       0    4.67     868    2.73Virginia City NCDC/Reno Airport
+19061985 0000     0.3    15.0    31.7     0.8    4.28   864.7    3.24Virginia City NCDC/Reno Airport
+20061985 0000       0    16.7    30.6       0    8.78   862.6    4.42Virginia City NCDC/Reno Airport
+21061985 0000       0    17.2    29.4       0   -1.22   863.5    3.40Virginia City NCDC/Reno Airport
+22061985 0000       0    17.2    31.7       0    0.28   864.8    2.62Virginia City NCDC/Reno Airport
+23061985 0000       0    12.8    26.7       0    5.39   865.4    5.09Virginia City NCDC/Reno Airport
+24061985 0000       0     5.6    22.8       0   -0.11   863.6    6.22Virginia City NCDC/Reno Airport
+25061985 0000       0     8.3    21.1       0   -6.33   865.9    4.01Virginia City NCDC/Reno Airport
+26061985 0000       0    13.3    26.1       0   -6.67   868.9    2.88Virginia City NCDC/Reno Airport
+27061985 0000       0    14.4    26.7       0    0.67   869.3    4.17Virginia City NCDC/Reno Airport
+28061985 0000       0    13.9    26.7       0    1.67   868.6    3.70Virginia City NCDC/Reno Airport
+29061985 0000       0    11.1    23.9       0   -2.56   866.9    4.63Virginia City NCDC/Reno Airport
+30061985 0000       0    16.1    25.6       0   -5.78   869.1    2.98Virginia City NCDC/Reno Airport
+01071985 0000       0    15.0    28.3       0   -0.83     872    2.68Virginia City NCDC/Reno Airport
+02071985 0000       0    15.0    30.0       0    3.44   873.4    3.45Virginia City NCDC/Reno Airport
+03071985 0000       0    17.8    30.6       0    2.67   871.5    3.45Virginia City NCDC/Reno Airport
+04071985 0000       0    17.2    30.6       0    2.61     870    3.65Virginia City NCDC/Reno Airport
+05071985 0000       0    18.9    32.2       0    2.11   869.8    4.12Virginia City NCDC/Reno Airport
+06071985 0000       0    17.2    29.4       0    3.94   868.4    4.12Virginia City NCDC/Reno Airport
+07071985 0000       0    18.3    28.9       0    5.61   868.6    3.65Virginia City NCDC/Reno Airport
+08071985 0000       0    18.3    31.1       0    6.39   869.5    3.70Virginia City NCDC/Reno Airport
+09071985 0000       0    18.9    32.8       0    5.39   870.3    2.83Virginia City NCDC/Reno Airport
+10071985 0000       0    18.3    30.6       0    5.22   871.3    4.68Virginia City NCDC/Reno Airport
+11071985 0000       0    18.3    27.2       0    6.94   870.6    2.83Virginia City NCDC/Reno Airport
+12071985 0000       0    18.9    29.4       0    7.11   868.6    2.57Virginia City NCDC/Reno Airport
+13071985 0000       0    21.1    31.7       0    5.61   866.5    2.68Virginia City NCDC/Reno Airport
+14071985 0000       0    19.4    33.3       0    0.89   865.5    3.14Virginia City NCDC/Reno Airport
+15071985 0000       0    17.2    32.2       0    1.00     866    4.17Virginia City NCDC/Reno Airport
+16071985 0000       0    16.1    29.4       0    2.06   865.4    4.27Virginia City NCDC/Reno Airport
+17071985 0000       0    16.1    28.9       0    6.00   865.4    4.01Virginia City NCDC/Reno Airport
+18071985 0000    0.66    16.7    31.7     0.8    4.61   866.7    3.76Virginia City NCDC/Reno Airport
+19071985 0000    0.51    16.7    30.0     0.8    8.44   868.2    3.81Virginia City NCDC/Reno Airport
+20071985 0000       0    15.6    26.1       0    7.39   867.7    3.65Virginia City NCDC/Reno Airport
+21071985 0000       0    12.8    22.2       0   11.33   866.9    3.55Virginia City NCDC/Reno Airport
+22071985 0000       0    14.4    25.0       0    9.94   867.2    3.70Virginia City NCDC/Reno Airport
+23071985 0000       0    17.8    27.8       0    8.28   867.8    3.65Virginia City NCDC/Reno Airport
+24071985 0000       0    18.9    29.4       0    4.39   866.4    2.93Virginia City NCDC/Reno Airport
+25071985 0000       0    17.8    31.1       0    3.83     866    2.78Virginia City NCDC/Reno Airport
+26071985 0000       0    15.0    29.4       0    6.72   868.2    4.63Virginia City NCDC/Reno Airport
+27071985 0000     0.1    17.2    31.1     0.8    6.67   868.4    3.55Virginia City NCDC/Reno Airport
+28071985 0000       0    12.8    29.4       0    6.39   865.7    3.29Virginia City NCDC/Reno Airport
+29071985 0000       0     9.4    24.4       0    0.72   862.8    4.73Virginia City NCDC/Reno Airport
+30071985 0000       0    10.6    21.1       0    1.94   863.2    5.25Virginia City NCDC/Reno Airport
+31071985 0000       0     9.4    21.7       0    2.33   862.9    5.20Virginia City NCDC/Reno Airport
+01081985 0000       0     7.8    21.7       0    1.33   865.4    4.22Virginia City NCDC/Reno Airport
+02081985 0000       0    11.1    22.8       0    3.39   869.6    4.22Virginia City NCDC/Reno Airport
+03081985 0000       0    16.7    26.7       0    1.06   869.4    2.16Virginia City NCDC/Reno Airport
+04081985 0000       0    15.0    27.8       0    4.22   866.7    3.19Virginia City NCDC/Reno Airport
+05081985 0000       0    16.7    28.3       0    0.89   867.5    3.96Virginia City NCDC/Reno Airport
+06081985 0000       0    15.6    30.6       0    1.72   867.7    3.81Virginia City NCDC/Reno Airport
+07081985 0000       0    13.3    27.8       0    1.22   866.3    4.42Virginia City NCDC/Reno Airport
+08081985 0000       0     8.9    26.1       0   -0.06   865.6    3.76Virginia City NCDC/Reno Airport
+09081985 0000       0    12.2    22.8       0   -2.39   868.6    3.81Virginia City NCDC/Reno Airport
+10081985 0000       0     7.8    26.7       0    1.22   865.9    3.29Virginia City NCDC/Reno Airport
+11081985 0000       0    11.7    20.0       0   -1.44   867.4    4.17Virginia City NCDC/Reno Airport
+12081985 0000       0    13.3    27.8       0   -1.94   867.3    2.68Virginia City NCDC/Reno Airport
+13081985 0000       0    16.7    28.3       0    2.00   866.4    3.91Virginia City NCDC/Reno Airport
+14081985 0000       0    17.2    27.2       0    2.22   866.9    2.88Virginia City NCDC/Reno Airport
+15081985 0000       0    14.4    31.1       0    3.17   864.2    2.73Virginia City NCDC/Reno Airport
+16081985 0000       0    17.2    30.0       0    1.56   861.7    3.91Virginia City NCDC/Reno Airport
+17081985 0000       0    12.2    26.7       0    3.33   862.5    3.70Virginia City NCDC/Reno Airport
+18081985 0000       0     9.4    22.2       0    5.94   866.5    3.91Virginia City NCDC/Reno Airport
+19081985 0000       0    10.6    26.7       0    1.72   867.7    3.91Virginia City NCDC/Reno Airport
+20081985 0000       0     8.9    25.0       0    0.00   866.3    4.42Virginia City NCDC/Reno Airport
+21081985 0000       0    12.2    25.6       0    0.44   867.4    4.01Virginia City NCDC/Reno Airport
+22081985 0000       0    15.6    26.7       0   -0.61   869.4    3.40Virginia City NCDC/Reno Airport
+23081985 0000       0    17.8    28.3       0   -0.78   869.7    2.62Virginia City NCDC/Reno Airport
+24081985 0000       0    17.8    32.2       0   -0.39     868    2.83Virginia City NCDC/Reno Airport
+25081985 0000       0    19.4    30.6       0    1.67   867.5    3.60Virginia City NCDC/Reno Airport
+26081985 0000       0    14.4    28.3       0    2.22   868.4    4.42Virginia City NCDC/Reno Airport
+27081985 0000       0    16.1    26.7       0    1.00   870.4    4.37Virginia City NCDC/Reno Airport
+28081985 0000       0    13.9    27.2       0    2.50   869.3    3.91Virginia City NCDC/Reno Airport
+29081985 0000       0    12.2    27.2       0    0.17   868.1    3.91Virginia City NCDC/Reno Airport
+30081985 0000       0    15.0    26.1       0    9.22   867.9    4.84Virginia City NCDC/Reno Airport
+31081985 0000       0    16.1    26.1       0    9.56     868    3.45Virginia City NCDC/Reno Airport
+01091985 0000       0    10.6    23.3       0    3.39   865.6    4.32Virginia City NCDC/Reno Airport
+02091985 0000       0     7.8    27.2       0   -0.83     864    5.71Virginia City NCDC/Reno Airport
+03091985 0000    0.64     8.9    20.0     0.8    6.28   864.1    3.91Virginia City NCDC/Reno Airport
+04091985 0000       0     9.4    20.6       0    7.39   863.3    4.22Virginia City NCDC/Reno Airport
+05091985 0000    0.18    11.1    19.4     0.8    6.61   862.8    3.14Virginia City NCDC/Reno Airport
+06091985 0000       0    10.6    18.3     0.3   10.11     862    3.29Virginia City NCDC/Reno Airport
+07091985 0000       0     7.2    15.0     0.6    7.83   863.9    4.89Virginia City NCDC/Reno Airport
+08091985 0000    0.89     3.3    15.6     0.8    4.72   864.5    5.97Virginia City NCDC/Reno Airport
+09091985 0000       0     1.1     8.9     0.6    4.06   862.8    3.81Virginia City NCDC/Reno Airport
+10091985 0000    0.28     1.1     9.4     0.8    0.72   863.2    3.45Virginia City NCDC/Reno Airport
+11091985 0000       0     0.6    11.1     0.3    0.56   862.1    4.84Virginia City NCDC/Reno Airport
+12091985 0000       0     6.7    18.3       0   -1.17   868.9    3.24Virginia City NCDC/Reno Airport
+13091985 0000       0     8.9    20.0       0   -0.28   869.2    2.21Virginia City NCDC/Reno Airport
+14091985 0000       0     6.1    19.4       0    0.61   868.1    4.48Virginia City NCDC/Reno Airport
+15091985 0000       0     5.6    20.0       0   -3.78   867.5    3.34Virginia City NCDC/Reno Airport
+16091985 0000       0     8.3    19.4       0   -3.56   864.6    3.34Virginia City NCDC/Reno Airport
+17091985 0000       0     1.7    16.7       0    0.67   860.1    4.12Virginia City NCDC/Reno Airport
+18091985 0000       0     1.1    11.1     0.6    4.17   860.8    4.27Virginia City NCDC/Reno Airport
+19091985 0000       0     2.8    13.3       0    1.33     867    1.85Virginia City NCDC/Reno Airport
+20091985 0000       0     7.8    16.7       0    0.28   870.4    2.01Virginia City NCDC/Reno Airport
+21091985 0000       0     8.9    22.8       0   -0.61   869.2    1.59Virginia City NCDC/Reno Airport
+22091985 0000       0     8.3    17.8       0    3.11   866.9    3.29Virginia City NCDC/Reno Airport
+23091985 0000       0    10.0    19.4       0   -1.00   869.7    2.16Virginia City NCDC/Reno Airport
+24091985 0000       0    10.6    26.1       0   -0.11   871.5    1.65Virginia City NCDC/Reno Airport
+25091985 0000       0    10.0    20.6       0    0.56     869    2.06Virginia City NCDC/Reno Airport
+26091985 0000       0    13.3    24.4       0    2.72   866.7    1.95Virginia City NCDC/Reno Airport
+27091985 0000       0     6.7    23.9       0    4.44     863    3.24Virginia City NCDC/Reno Airport
+28091985 0000       0     3.9    15.6       0    1.28   864.2    3.45Virginia City NCDC/Reno Airport
+29091985 0000       0     6.1    16.7       0   -3.78     867    2.16Virginia City NCDC/Reno Airport
+30091985 0000       0     8.3    16.7       0   -3.39   866.4    1.95Virginia City NCDC/Reno Airport
+01101985 0000       0    10.0    18.9       0   -5.72   867.7    1.90Virginia City NCDC/Reno Airport
+02101985 0000       0    11.1    18.9       0   -3.39   869.7    1.85Virginia City NCDC/Reno Airport
+03101985 0000       0    10.0    22.8       0    1.83   873.2    2.01Virginia City NCDC/Reno Airport
+04101985 0000       0    10.0    20.0       0    1.56   874.9    2.26Virginia City NCDC/Reno Airport
+05101985 0000       0    10.6    25.6       0    0.50   872.9    1.80Virginia City NCDC/Reno Airport
+06101985 0000    0.56     6.7    15.0     0.8    3.67     865    4.01Virginia City NCDC/Reno Airport
+07101985 0000       0     1.1    14.4     0.6    4.89   858.7    4.99Virginia City NCDC/Reno Airport
+08101985 0000     1.3    -6.1     2.2     0.9   -0.78   858.3    3.91Virginia City NCDC/Reno Airport
+09101985 0000       0    -6.1     0.0     0.6   -3.22   863.9    2.47Virginia City NCDC/Reno Airport
+10101985 0000       0    -1.7     7.2     0.3   -2.17     869    2.57Virginia City NCDC/Reno Airport
+11101985 0000       0     2.8    14.4       0    0.44   866.3    1.75Virginia City NCDC/Reno Airport
+12101985 0000       0    -2.2     8.3     0.6   -0.78   867.3    2.68Virginia City NCDC/Reno Airport
+13101985 0000       0    -1.1     6.7       0   -3.89     871    2.83Virginia City NCDC/Reno Airport
+14101985 0000       0    -1.1    11.1       0   -7.28   874.2    1.49Virginia City NCDC/Reno Airport
+15101985 0000       0     4.4    13.9       0   -6.56   873.3    1.44Virginia City NCDC/Reno Airport
+16101985 0000       0     5.0    20.0       0   -5.00   867.8    1.54Virginia City NCDC/Reno Airport
+17101985 0000       0     6.1    15.0       0   -2.72   866.1    1.23Virginia City NCDC/Reno Airport
+18101985 0000       0     7.2    16.7       0   -1.11   868.7    1.03Virginia City NCDC/Reno Airport
+19101985 0000       0     6.7    19.4       0   -0.67     869    2.06Virginia City NCDC/Reno Airport
+20101985 0000       0    -0.6    16.1       0   -6.33   863.3    4.58Virginia City NCDC/Reno Airport
+21101985 0000       0    -2.2     3.9     0.6   -3.11   855.2   10.80Virginia City NCDC/Reno Airport
+22101985 0000       0     1.7     7.8       0   -4.06     863    3.60Virginia City NCDC/Reno Airport
+23101985 0000       0     5.6    15.6       0    2.94   867.2    3.04Virginia City NCDC/Reno Airport
+24101985 0000       0     6.7    18.3       0    2.56   869.8    1.75Virginia City NCDC/Reno Airport
+25101985 0000       0     6.1    17.8       0   -0.39   868.8    1.08Virginia City NCDC/Reno Airport
+26101985 0000       0     6.1    15.6       0   -2.78   868.1    1.34Virginia City NCDC/Reno Airport
+27101985 0000       0     6.7    19.4       0   -2.11   866.7    1.13Virginia City NCDC/Reno Airport
+28101985 0000       0     5.0    18.3       0   -2.50   865.6    2.26Virginia City NCDC/Reno Airport
+29101985 0000       0     8.9    17.8       0   -2.22   867.3    1.18Virginia City NCDC/Reno Airport
+30101985 0000       0     0.6    14.4       0   -1.44   865.7    2.42Virginia City NCDC/Reno Airport
+31101985 0000       0    -2.8    18.3       0   -3.67   866.4    2.68Virginia City NCDC/Reno Airport
+01111985 0000       0     2.2    11.1       0   -4.89   869.6    2.06Virginia City NCDC/Reno Airport
+02111985 0000       0     3.9    12.2       0   -2.61   870.3    1.03Virginia City NCDC/Reno Airport
+03111985 0000       0     6.1    16.1       0   -1.33   868.9    1.23Virginia City NCDC/Reno Airport
+04111985 0000       0     8.9    17.2       0    0.28   867.6    1.39Virginia City NCDC/Reno Airport
+05111985 0000       0     2.2    16.1       0   -0.39   869.4    4.94Virginia City NCDC/Reno Airport
+06111985 0000       0     1.7     8.9       0   -4.33   873.5    1.54Virginia City NCDC/Reno Airport
+07111985 0000       0     5.0    16.7       0   -2.56   870.1    2.11Virginia City NCDC/Reno Airport
+08111985 0000       0     6.1    16.1       0   -1.72   862.3    4.84Virginia City NCDC/Reno Airport
+09111985 0000       0    -6.1    10.6       0   -6.22   859.2    5.92Virginia City NCDC/Reno Airport
+10111985 0000    1.75    -5.0     2.2     0.9   -2.44   852.1    6.17Virginia City NCDC/Reno Airport
+11111985 0000    1.55    -9.4    -3.3     0.9   -7.67     854    1.65Virginia City NCDC/Reno Airport
+12111985 0000    0.81   -10.6    -4.4     0.8   -7.94   858.7    2.98Virginia City NCDC/Reno Airport
+13111985 0000       0   -12.8    -4.4     0.6  -10.67   869.2    2.01Virginia City NCDC/Reno Airport
+14111985 0000       0    -8.9     0.0       0  -11.94   875.2    1.54Virginia City NCDC/Reno Airport
+15111985 0000       0    -6.7     0.6       0  -10.67   875.4    1.54Virginia City NCDC/Reno Airport
+16111985 0000     0.1    -1.1     7.2     0.8   -2.72   869.7    1.03Virginia City NCDC/Reno Airport
+17111985 0000       0    -3.3     5.6     0.6   -2.61   863.3    3.34Virginia City NCDC/Reno Airport
+18111985 0000       0    -9.4     1.7     0.3   -8.33   865.2    6.02Virginia City NCDC/Reno Airport
+19111985 0000       0   -10.6    -3.3     0.3  -11.44   873.5    1.54Virginia City NCDC/Reno Airport
+20111985 0000       0   -10.0     1.7     0.3   -8.67   868.9    2.01Virginia City NCDC/Reno Airport
+21111985 0000       0    -8.9     3.3     0.3   -7.94   864.6    3.81Virginia City NCDC/Reno Airport
+22111985 0000       0     0.6     5.0       0  -13.56   862.7    3.86Virginia City NCDC/Reno Airport
+23111985 0000       0    -2.2     4.4       0   -5.44   863.7    2.06Virginia City NCDC/Reno Airport
+24111985 0000    0.13     0.0     3.9     0.8    0.00   858.1    1.39Virginia City NCDC/Reno Airport
+25111985 0000    0.15    -0.6     2.2     0.8    1.78   854.4    2.01Virginia City NCDC/Reno Airport
+26111985 0000       0    -2.2     8.9     0.3   -1.33   863.5    1.80Virginia City NCDC/Reno Airport
+27111985 0000       0     1.7     8.3       0   -1.39   866.3    3.29Virginia City NCDC/Reno Airport
+28111985 0000       0     1.1     5.6     0.6    1.44   860.6    3.09Virginia City NCDC/Reno Airport
+29111985 0000    2.54     0.0     5.6       1   -0.33   848.9    6.17Virginia City NCDC/Reno Airport
+30111985 0000    0.53    -5.0     1.7     0.8   -4.11   856.8    3.19Virginia City NCDC/Reno Airport
+01121985 0000       0    -3.3     4.4     0.6   -2.89   863.7    1.29Virginia City NCDC/Reno Airport
+02121985 0000    0.89     0.0     5.6     0.8    2.06   855.6    4.99Virginia City NCDC/Reno Airport
+03121985 0000    1.02     1.1     5.6     0.9    0.00   863.6    5.25Virginia City NCDC/Reno Airport
+04121985 0000       0    -1.7     6.7     0.6   -1.11   871.2    1.34Virginia City NCDC/Reno Airport
+05121985 0000       0     0.6     6.7     0.3   -0.39   869.6    1.59Virginia City NCDC/Reno Airport
+06121985 0000       0    -1.7     7.8     0.3   -1.94     872    2.37Virginia City NCDC/Reno Airport
+07121985 0000       0    -1.7     8.9     0.6    0.72     869    3.40Virginia City NCDC/Reno Airport
+08121985 0000    0.05    -5.6     7.2     0.8   -4.11   867.8    3.29Virginia City NCDC/Reno Airport
+09121985 0000       0    -6.1     0.6     0.6   -5.22   868.4    2.73Virginia City NCDC/Reno Airport
+10121985 0000    0.08   -11.7    -3.3     0.8   -7.44   866.4    3.60Virginia City NCDC/Reno Airport
+11121985 0000    0.08   -13.3    -6.1     0.8  -11.22   868.5    2.93Virginia City NCDC/Reno Airport
+12121985 0000       0   -14.4    -7.2     0.6  -13.00   873.3    2.31Virginia City NCDC/Reno Airport
+13121985 0000       0   -11.1    -1.1     0.6   -9.72   876.2    1.65Virginia City NCDC/Reno Airport
+14121985 0000       0    -7.8     0.0     0.3   -8.33     877    1.23Virginia City NCDC/Reno Airport
+15121985 0000       0    -5.0     3.9       0   -6.89   876.7    0.36Virginia City NCDC/Reno Airport
+16121985 0000       0    -3.9     3.9       0   -6.28   879.1    1.13Virginia City NCDC/Reno Airport
+17121985 0000       0    -3.9     5.6       0   -6.00   881.2    0.67Virginia City NCDC/Reno Airport
+18121985 0000       0    -3.3     3.9       0   -5.72   881.3    1.18Virginia City NCDC/Reno Airport
+19121985 0000       0    -3.3     6.1       0   -5.56   879.1    0.98Virginia City NCDC/Reno Airport
+20121985 0000       0    -2.2     7.8       0   -6.11   878.1    0.41Virginia City NCDC/Reno Airport
+21121985 0000       0    -3.9     6.7       0   -6.50     878    0.72Virginia City NCDC/Reno Airport
+22121985 0000       0    -3.3     5.0     0.3   -4.06   879.4    1.95Virginia City NCDC/Reno Airport
+23121985 0000       0    -2.8     8.9       0   -5.06     880    1.85Virginia City NCDC/Reno Airport
+24121985 0000       0    -2.8     8.3       0   -4.83   879.9    1.85Virginia City NCDC/Reno Airport
+25121985 0000       0    -3.3     6.1     0.3   -4.56   878.6    1.80Virginia City NCDC/Reno Airport
+26121985 0000       0    -1.7     7.8       0   -5.11     875    1.95Virginia City NCDC/Reno Airport
+27121985 0000       0    -1.7    10.0       0   -5.44   874.2    1.59Virginia City NCDC/Reno Airport
+28121985 0000       0     1.7    10.6       0   -5.17   873.5    1.65Virginia City NCDC/Reno Airport
+29121985 0000    0.69     0.6     6.7     0.8   -3.67   870.5    1.70Virginia City NCDC/Reno Airport
+30121985 0000       0     0.0     5.6     0.6    0.50   868.3    1.90Virginia City NCDC/Reno Airport
+31121985 0000       0     1.1     6.7     0.6    2.28     871    1.70Virginia City NCDC/Reno Airport
 01011986 0000       0    0.56   11.11    0.15    0.35   868.6    3.49NCDC (268761)
 02011986 0000       0    2.78    8.33    0.41   -2.87   865.6    2.77NCDC (268761)
 03011986 0000       0   -1.67    6.67    0.29   -1.71   868.6    1.61NCDC (268761)
