@@ -1,857 +1,1001 @@
 VERSION        3
 Latitude:   39.2967 Longitude:  -119.799Washoe Lake Outlet
-            1 Release
+            1Release         
 01011976 0000       0
-01101976 0000       0No data available - assumed no flow
-02101976 0000       0No data available - assumed no flow
-03101976 0000       0No data available - assumed no flow
-04101976 0000       0No data available - assumed no flow
-05101976 0000       0No data available - assumed no flow
-06101976 0000       0No data available - assumed no flow
-07101976 0000       0No data available - assumed no flow
-08101976 0000       0No data available - assumed no flow
-09101976 0000       0No data available - assumed no flow
-10101976 0000       0No data available - assumed no flow
-11101976 0000       0No data available - assumed no flow
-12101976 0000       0No data available - assumed no flow
-13101976 0000       0No data available - assumed no flow
-14101976 0000       0No data available - assumed no flow
-15101976 0000       0No data available - assumed no flow
-16101976 0000       0No data available - assumed no flow
-17101976 0000       0No data available - assumed no flow
-18101976 0000       0No data available - assumed no flow
-19101976 0000       0No data available - assumed no flow
-20101976 0000       0No data available - assumed no flow
-21101976 0000       0No data available - assumed no flow
-22101976 0000       0No data available - assumed no flow
-23101976 0000       0No data available - assumed no flow
-24101976 0000       0No data available - assumed no flow
-25101976 0000       0No data available - assumed no flow
-26101976 0000       0No data available - assumed no flow
-27101976 0000       0No data available - assumed no flow
-28101976 0000       0No data available - assumed no flow
-29101976 0000       0No data available - assumed no flow
-30101976 0000       0No data available - assumed no flow
-31101976 0000       0No data available - assumed no flow
-01111976 0000       0No data available - assumed no flow
-02111976 0000       0No data available - assumed no flow
-03111976 0000       0No data available - assumed no flow
-04111976 0000       0No data available - assumed no flow
-05111976 0000       0No data available - assumed no flow
-06111976 0000       0No data available - assumed no flow
-07111976 0000       0No data available - assumed no flow
-08111976 0000       0No data available - assumed no flow
-09111976 0000       0No data available - assumed no flow
-10111976 0000       0No data available - assumed no flow
-11111976 0000       0No data available - assumed no flow
-12111976 0000       0No data available - assumed no flow
-13111976 0000       0No data available - assumed no flow
-14111976 0000       0No data available - assumed no flow
-15111976 0000       0No data available - assumed no flow
-16111976 0000       0No data available - assumed no flow
-17111976 0000       0No data available - assumed no flow
-18111976 0000       0No data available - assumed no flow
-19111976 0000       0No data available - assumed no flow
-20111976 0000       0No data available - assumed no flow
-21111976 0000       0No data available - assumed no flow
-22111976 0000       0No data available - assumed no flow
-23111976 0000       0No data available - assumed no flow
-24111976 0000       0No data available - assumed no flow
-25111976 0000       0No data available - assumed no flow
-26111976 0000       0No data available - assumed no flow
-27111976 0000       0No data available - assumed no flow
-28111976 0000       0No data available - assumed no flow
-29111976 0000       0No data available - assumed no flow
-30111976 0000       0No data available - assumed no flow
-01121976 0000       0No data available - assumed no flow
-02121976 0000       0No data available - assumed no flow
-03121976 0000       0No data available - assumed no flow
-04121976 0000       0No data available - assumed no flow
-05121976 0000       0No data available - assumed no flow
-06121976 0000       0No data available - assumed no flow
-07121976 0000       0No data available - assumed no flow
-08121976 0000       0No data available - assumed no flow
-09121976 0000       0No data available - assumed no flow
-10121976 0000       0No data available - assumed no flow
-11121976 0000       0No data available - assumed no flow
-12121976 0000       0No data available - assumed no flow
-13121976 0000       0No data available - assumed no flow
-14121976 0000       0No data available - assumed no flow
-15121976 0000       0No data available - assumed no flow
-16121976 0000       0No data available - assumed no flow
-17121976 0000       0No data available - assumed no flow
-18121976 0000       0No data available - assumed no flow
-19121976 0000       0No data available - assumed no flow
-20121976 0000       0No data available - assumed no flow
-21121976 0000       0No data available - assumed no flow
-22121976 0000       0No data available - assumed no flow
-23121976 0000       0No data available - assumed no flow
-24121976 0000       0No data available - assumed no flow
-25121976 0000       0No data available - assumed no flow
-26121976 0000       0No data available - assumed no flow
-27121976 0000       0No data available - assumed no flow
-28121976 0000       0No data available - assumed no flow
-29121976 0000       0No data available - assumed no flow
-30121976 0000       0No data available - assumed no flow
-31121976 0000       0No data available - assumed no flow
-01011977 0000       0No data available - assumed no flow
-02011977 0000       0No data available - assumed no flow
-03011977 0000       0No data available - assumed no flow
-04011977 0000       0No data available - assumed no flow
-05011977 0000       0No data available - assumed no flow
-06011977 0000       0No data available - assumed no flow
-07011977 0000       0No data available - assumed no flow
-08011977 0000       0No data available - assumed no flow
-09011977 0000       0No data available - assumed no flow
-10011977 0000       0No data available - assumed no flow
-11011977 0000       0No data available - assumed no flow
-12011977 0000       0No data available - assumed no flow
-13011977 0000       0No data available - assumed no flow
-14011977 0000       0No data available - assumed no flow
-15011977 0000       0No data available - assumed no flow
-16011977 0000       0No data available - assumed no flow
-17011977 0000       0No data available - assumed no flow
-18011977 0000       0No data available - assumed no flow
-19011977 0000       0No data available - assumed no flow
-20011977 0000       0No data available - assumed no flow
-21011977 0000       0No data available - assumed no flow
-22011977 0000       0No data available - assumed no flow
-23011977 0000       0No data available - assumed no flow
-24011977 0000       0No data available - assumed no flow
-25011977 0000       0No data available - assumed no flow
-26011977 0000       0No data available - assumed no flow
-27011977 0000       0No data available - assumed no flow
-28011977 0000       0No data available - assumed no flow
-29011977 0000       0No data available - assumed no flow
-30011977 0000       0No data available - assumed no flow
-31011977 0000       0No data available - assumed no flow
-01021977 0000       0No data available - assumed no flow
-02021977 0000       0No data available - assumed no flow
-03021977 0000       0No data available - assumed no flow
-04021977 0000       0No data available - assumed no flow
-05021977 0000       0No data available - assumed no flow
-06021977 0000       0No data available - assumed no flow
-07021977 0000       0No data available - assumed no flow
-08021977 0000       0No data available - assumed no flow
-09021977 0000       0No data available - assumed no flow
-10021977 0000       0No data available - assumed no flow
-11021977 0000       0No data available - assumed no flow
-12021977 0000       0No data available - assumed no flow
-13021977 0000       0No data available - assumed no flow
-14021977 0000       0No data available - assumed no flow
-15021977 0000       0No data available - assumed no flow
-16021977 0000       0No data available - assumed no flow
-17021977 0000       0No data available - assumed no flow
-18021977 0000       0No data available - assumed no flow
-19021977 0000       0No data available - assumed no flow
-20021977 0000       0No data available - assumed no flow
-21021977 0000       0No data available - assumed no flow
-22021977 0000       0No data available - assumed no flow
-23021977 0000       0No data available - assumed no flow
-24021977 0000       0No data available - assumed no flow
-25021977 0000       0No data available - assumed no flow
-26021977 0000       0No data available - assumed no flow
-27021977 0000       0No data available - assumed no flow
-28021977 0000       0No data available - assumed no flow
-01031977 0000       0No data available - assumed no flow
-02031977 0000       0No data available - assumed no flow
-03031977 0000       0No data available - assumed no flow
-04031977 0000       0No data available - assumed no flow
-05031977 0000       0No data available - assumed no flow
-06031977 0000       0No data available - assumed no flow
-07031977 0000       0No data available - assumed no flow
-08031977 0000       0No data available - assumed no flow
-09031977 0000       0No data available - assumed no flow
-10031977 0000       0No data available - assumed no flow
-11031977 0000       0No data available - assumed no flow
-12031977 0000       0No data available - assumed no flow
-13031977 0000       0No data available - assumed no flow
-14031977 0000       0No data available - assumed no flow
-15031977 0000       0No data available - assumed no flow
-16031977 0000       0No data available - assumed no flow
-17031977 0000       0No data available - assumed no flow
-18031977 0000       0No data available - assumed no flow
-19031977 0000       0No data available - assumed no flow
-20031977 0000       0No data available - assumed no flow
-21031977 0000       0No data available - assumed no flow
-22031977 0000       0No data available - assumed no flow
-23031977 0000       0No data available - assumed no flow
-24031977 0000       0No data available - assumed no flow
-25031977 0000       0No data available - assumed no flow
-26031977 0000       0No data available - assumed no flow
-27031977 0000       0No data available - assumed no flow
-28031977 0000       0No data available - assumed no flow
-29031977 0000       0No data available - assumed no flow
-30031977 0000       0No data available - assumed no flow
-31031977 0000       0No data available - assumed no flow
-01041977 0000       0No data available - assumed no flow
-02041977 0000       0No data available - assumed no flow
-03041977 0000       0No data available - assumed no flow
-04041977 0000       0No data available - assumed no flow
-05041977 0000       0No data available - assumed no flow
-06041977 0000       0No data available - assumed no flow
-07041977 0000       0No data available - assumed no flow
-08041977 0000       0No data available - assumed no flow
-09041977 0000       0No data available - assumed no flow
-10041977 0000       0No data available - assumed no flow
-11041977 0000       0No data available - assumed no flow
-12041977 0000       0No data available - assumed no flow
-13041977 0000       0No data available - assumed no flow
-14041977 0000       0No data available - assumed no flow
-15041977 0000       0No data available - assumed no flow
-16041977 0000       0No data available - assumed no flow
-17041977 0000       0No data available - assumed no flow
-18041977 0000       0No data available - assumed no flow
-19041977 0000       0No data available - assumed no flow
-20041977 0000       0No data available - assumed no flow
-21041977 0000       0No data available - assumed no flow
-22041977 0000       0No data available - assumed no flow
-23041977 0000       0No data available - assumed no flow
-24041977 0000       0No data available - assumed no flow
-25041977 0000       0No data available - assumed no flow
-26041977 0000       0No data available - assumed no flow
-27041977 0000       0No data available - assumed no flow
-28041977 0000       0No data available - assumed no flow
-29041977 0000       0No data available - assumed no flow
-30041977 0000       0No data available - assumed no flow
-01051977 0000       0No data available - assumed no flow
-02051977 0000       0No data available - assumed no flow
-03051977 0000       0No data available - assumed no flow
-04051977 0000       0No data available - assumed no flow
-05051977 0000       0No data available - assumed no flow
-06051977 0000       0No data available - assumed no flow
-07051977 0000       0No data available - assumed no flow
-08051977 0000       0No data available - assumed no flow
-09051977 0000       0No data available - assumed no flow
-10051977 0000       0No data available - assumed no flow
-11051977 0000       0No data available - assumed no flow
-12051977 0000       0No data available - assumed no flow
-13051977 0000       0No data available - assumed no flow
-14051977 0000       0No data available - assumed no flow
-15051977 0000       0No data available - assumed no flow
-16051977 0000       0No data available - assumed no flow
-17051977 0000       0No data available - assumed no flow
-18051977 0000       0No data available - assumed no flow
-19051977 0000       0No data available - assumed no flow
-20051977 0000       0No data available - assumed no flow
-21051977 0000       0No data available - assumed no flow
-22051977 0000       0No data available - assumed no flow
-23051977 0000       0No data available - assumed no flow
-24051977 0000       0No data available - assumed no flow
-25051977 0000       0No data available - assumed no flow
-26051977 0000       0No data available - assumed no flow
-27051977 0000       0No data available - assumed no flow
-28051977 0000       0No data available - assumed no flow
-29051977 0000       0No data available - assumed no flow
-30051977 0000       0No data available - assumed no flow
-31051977 0000       0No data available - assumed no flow
-01061977 0000       0No data available - assumed no flow
-02061977 0000       0No data available - assumed no flow
-03061977 0000       0No data available - assumed no flow
-04061977 0000       0No data available - assumed no flow
-05061977 0000       0No data available - assumed no flow
-06061977 0000       0No data available - assumed no flow
-07061977 0000       0No data available - assumed no flow
-08061977 0000       0No data available - assumed no flow
-09061977 0000       0No data available - assumed no flow
-10061977 0000       0No data available - assumed no flow
-11061977 0000       0No data available - assumed no flow
-12061977 0000       0No data available - assumed no flow
-13061977 0000       0No data available - assumed no flow
-14061977 0000       0No data available - assumed no flow
-15061977 0000       0No data available - assumed no flow
-16061977 0000       0No data available - assumed no flow
-17061977 0000       0No data available - assumed no flow
-18061977 0000       0No data available - assumed no flow
-19061977 0000       0No data available - assumed no flow
-20061977 0000       0No data available - assumed no flow
-21061977 0000       0No data available - assumed no flow
-22061977 0000       0No data available - assumed no flow
-23061977 0000       0No data available - assumed no flow
-24061977 0000       0No data available - assumed no flow
-25061977 0000       0No data available - assumed no flow
-26061977 0000       0No data available - assumed no flow
-27061977 0000       0No data available - assumed no flow
-28061977 0000       0No data available - assumed no flow
-29061977 0000       0No data available - assumed no flow
-30061977 0000       0No data available - assumed no flow
-01071977 0000       0No data available - assumed no flow
-02071977 0000       0No data available - assumed no flow
-03071977 0000       0No data available - assumed no flow
-04071977 0000       0No data available - assumed no flow
-05071977 0000       0No data available - assumed no flow
-06071977 0000       0No data available - assumed no flow
-07071977 0000       0No data available - assumed no flow
-08071977 0000       0No data available - assumed no flow
-09071977 0000       0No data available - assumed no flow
-10071977 0000       0No data available - assumed no flow
-11071977 0000       0No data available - assumed no flow
-12071977 0000       0No data available - assumed no flow
-13071977 0000       0No data available - assumed no flow
-14071977 0000       0No data available - assumed no flow
-15071977 0000       0No data available - assumed no flow
-16071977 0000       0No data available - assumed no flow
-17071977 0000       0No data available - assumed no flow
-18071977 0000       0No data available - assumed no flow
-19071977 0000       0No data available - assumed no flow
-20071977 0000       0No data available - assumed no flow
-21071977 0000       0No data available - assumed no flow
-22071977 0000       0No data available - assumed no flow
-23071977 0000       0No data available - assumed no flow
-24071977 0000       0No data available - assumed no flow
-25071977 0000       0No data available - assumed no flow
-26071977 0000       0No data available - assumed no flow
-27071977 0000       0No data available - assumed no flow
-28071977 0000       0No data available - assumed no flow
-29071977 0000       0No data available - assumed no flow
-30071977 0000       0No data available - assumed no flow
-31071977 0000       0No data available - assumed no flow
-01081977 0000       0No data available - assumed no flow
-02081977 0000       0No data available - assumed no flow
-03081977 0000       0No data available - assumed no flow
-04081977 0000       0No data available - assumed no flow
-05081977 0000       0No data available - assumed no flow
-06081977 0000       0No data available - assumed no flow
-07081977 0000       0No data available - assumed no flow
-08081977 0000       0No data available - assumed no flow
-09081977 0000       0No data available - assumed no flow
-10081977 0000       0No data available - assumed no flow
-11081977 0000       0No data available - assumed no flow
-12081977 0000       0No data available - assumed no flow
-13081977 0000       0No data available - assumed no flow
-14081977 0000       0No data available - assumed no flow
-15081977 0000       0No data available - assumed no flow
-16081977 0000       0No data available - assumed no flow
-17081977 0000       0No data available - assumed no flow
-18081977 0000       0No data available - assumed no flow
-19081977 0000       0No data available - assumed no flow
-20081977 0000       0No data available - assumed no flow
-21081977 0000       0No data available - assumed no flow
-22081977 0000       0No data available - assumed no flow
-23081977 0000       0No data available - assumed no flow
-24081977 0000       0No data available - assumed no flow
-25081977 0000       0No data available - assumed no flow
-26081977 0000       0No data available - assumed no flow
-27081977 0000       0No data available - assumed no flow
-28081977 0000       0No data available - assumed no flow
-29081977 0000       0No data available - assumed no flow
-30081977 0000       0No data available - assumed no flow
-31081977 0000       0No data available - assumed no flow
-01091977 0000       0No data available - assumed no flow
-02091977 0000       0No data available - assumed no flow
-03091977 0000       0No data available - assumed no flow
-04091977 0000       0No data available - assumed no flow
-05091977 0000       0No data available - assumed no flow
-06091977 0000       0No data available - assumed no flow
-07091977 0000       0No data available - assumed no flow
-08091977 0000       0No data available - assumed no flow
-09091977 0000       0No data available - assumed no flow
-10091977 0000       0No data available - assumed no flow
-11091977 0000       0No data available - assumed no flow
-12091977 0000       0No data available - assumed no flow
-13091977 0000       0No data available - assumed no flow
-14091977 0000       0No data available - assumed no flow
-15091977 0000       0No data available - assumed no flow
-16091977 0000       0No data available - assumed no flow
-17091977 0000       0No data available - assumed no flow
-18091977 0000       0No data available - assumed no flow
-19091977 0000       0No data available - assumed no flow
-20091977 0000       0No data available - assumed no flow
-21091977 0000       0No data available - assumed no flow
-22091977 0000       0No data available - assumed no flow
-23091977 0000       0No data available - assumed no flow
-24091977 0000       0No data available - assumed no flow
-25091977 0000       0No data available - assumed no flow
-26091977 0000       0No data available - assumed no flow
-27091977 0000       0No data available - assumed no flow
-28091977 0000       0No data available - assumed no flow
-29091977 0000       0No data available - assumed no flow
-30091977 0000       0No data available - assumed no flow
-01101977 0000    -999
-02101977 0000    -999
-03101977 0000    -999
-04101977 0000    -999
-05101977 0000    -999
-06101977 0000    -999
-07101977 0000    -999
-08101977 0000    -999
-09101977 0000    -999
-10101977 0000    -999
-11101977 0000    -999
-12101977 0000    -999
-13101977 0000    -999
-14101977 0000    -999
-15101977 0000    -999
-16101977 0000    -999
-17101977 0000    -999
-18101977 0000    -999
-19101977 0000    -999
-20101977 0000    -999
-21101977 0000    -999
-22101977 0000    -999
-23101977 0000    -999
-24101977 0000    -999
-25101977 0000    -999
-26101977 0000    -999
-27101977 0000    -999
-28101977 0000    -999
-29101977 0000    -999
-30101977 0000    -999
-31101977 0000    -999
-01111977 0000    -999
-02111977 0000    -999
-03111977 0000    -999
-04111977 0000    -999
-05111977 0000    -999
-06111977 0000    -999
-07111977 0000    -999
-08111977 0000    -999
-09111977 0000    -999
-10111977 0000    -999
-11111977 0000    -999
-12111977 0000    -999
-13111977 0000    -999
-14111977 0000    -999
-15111977 0000    -999
-16111977 0000    -999
-17111977 0000    -999
-18111977 0000    -999
-19111977 0000    -999
-20111977 0000    -999
-21111977 0000    -999
-22111977 0000    -999
-23111977 0000    -999
-24111977 0000    -999
-25111977 0000    -999
-26111977 0000    -999
-27111977 0000    -999
-28111977 0000    -999
-29111977 0000    -999
-30111977 0000    -999
-01121977 0000    -999
-02121977 0000    -999
-03121977 0000    -999
-04121977 0000    -999
-05121977 0000    -999
-06121977 0000    -999
-07121977 0000    -999
-08121977 0000    -999
-09121977 0000    -999
-10121977 0000    -999
-11121977 0000    -999
-12121977 0000    -999
-13121977 0000    -999
-14121977 0000    -999
-15121977 0000    -999
-16121977 0000    -999
-17121977 0000    -999
-18121977 0000    -999
-19121977 0000    -999
-20121977 0000    -999
-21121977 0000    -999
-22121977 0000    -999
-23121977 0000    -999
-24121977 0000    -999
-25121977 0000    -999
-26121977 0000    -999
-27121977 0000    -999
-28121977 0000    -999
-29121977 0000    -999
-30121977 0000    -999
-31121977 0000    -999
-22021985 0000    0.39FWM G-51
-23021985 0000     0.4FWM G-51
-24021985 0000     0.4FWM G-51
-25021985 0000     0.4FWM G-51
-26021985 0000    0.41FWM G-51
-27021985 0000     0.4FWM G-51
-28021985 0000     0.4FWM G-51
-01031985 0000    0.62FWM G-51
-02031985 0000    0.24FWM G-51
-03031985 0000    0.48FWM G-51
-04031985 0000    0.67FWM G-51
-05031985 0000     0.5FWM G-51
-06031985 0000    0.57FWM G-51
-07031985 0000    0.56FWM G-51
-08031985 0000    0.51FWM G-51
-09031985 0000    0.52FWM G-51
-10031985 0000    0.52FWM G-51
-11031985 0000    0.51FWM G-51
-12031985 0000    0.52FWM G-51
-13031985 0000    0.53FWM G-51
-14031985 0000    0.53FWM G-51
-15031985 0000    0.52FWM G-51
-16031985 0000    0.54FWM G-51
-17031985 0000    0.54FWM G-51
-18031985 0000    0.54FWM G-51
-19031985 0000     0.6FWM G-51
-20031985 0000    0.64FWM G-51
-21031985 0000    0.62FWM G-51
-22031985 0000    0.57FWM G-51
-23031985 0000    0.72FWM G-51
-24031985 0000    1.14FWM G-51
-25031985 0000    0.59FWM G-51
-26031985 0000     0.8FWM G-51
-27031985 0000    0.85FWM G-51
-28031985 0000    0.62FWM G-51
-29031985 0000    0.61FWM G-51
-30031985 0000    0.65FWM G-51
-31031985 0000    0.68FWM G-51
-01041985 0000    0.73FWM G-51
-02041985 0000    0.79FWM G-51
-03041985 0000    0.78FWM G-51
-04041985 0000    0.75FWM G-51
-05041985 0000    0.81FWM G-51
-06041985 0000    0.84FWM G-51
-07041985 0000    0.87FWM G-51
-08041985 0000    0.87FWM G-51
-09041985 0000     0.9FWM G-51
-10041985 0000    0.97FWM G-51
-11041985 0000    0.98FWM G-51
-12041985 0000    0.92FWM G-51
-13041985 0000    0.97FWM G-51
-14041985 0000    1.03FWM G-51
-15041985 0000     1.1FWM G-51
-16041985 0000     1.1FWM G-51
-17041985 0000    0.99FWM G-51
-18041985 0000    1.11FWM G-51
-19041985 0000    1.14FWM G-51
-20041985 0000    1.04FWM G-51
-21041985 0000    1.06FWM G-51
-22041985 0000       1FWM G-51
-23041985 0000    0.94FWM G-51
-24041985 0000    0.85FWM G-51
-25041985 0000    0.69FWM G-51
-26041985 0000     0.8FWM G-51
-27041985 0000    0.88FWM G-51
-28041985 0000    0.92FWM G-51
-29041985 0000    0.82FWM G-51
-30041985 0000     0.8FWM G-51
-01051985 0000    0.87FWM G-51
-02051985 0000    0.92FWM G-51
-03051985 0000    0.95FWM G-51
-04051985 0000    0.75FWM G-51
-05051985 0000     0.8FWM G-51
-06051985 0000    0.84FWM G-51
-07051985 0000    0.84FWM G-51
-08051985 0000    0.79FWM G-51
-09051985 0000    0.74FWM G-51
-10051985 0000    0.71FWM G-51
-11051985 0000    0.63FWM G-51
-12051985 0000    0.59FWM G-51
-13051985 0000    0.63FWM G-51
-14051985 0000    0.57FWM G-51
-15051985 0000    0.57FWM G-51
-16051985 0000    0.59FWM G-51
-17051985 0000    0.57FWM G-51
-18051985 0000    0.56FWM G-51
-19051985 0000    0.55FWM G-51
-20051985 0000    0.57FWM G-51
-21051985 0000    0.52FWM G-51
-22051985 0000    0.52FWM G-51
-23051985 0000    0.52FWM G-51
-24051985 0000    0.51FWM G-51
-25051985 0000    0.62FWM G-51
-26051985 0000     0.5FWM G-51
-27051985 0000    0.55FWM G-51
-28051985 0000    0.64FWM G-51
-29051985 0000    0.44FWM G-51
-30051985 0000    0.24FWM G-51
-31051985 0000    0.42FWM G-51
-01061985 0000    0.27FWM G-51
-02061985 0000    0.18FWM G-51
-03061985 0000    0.23FWM G-51
-04061985 0000    0.27FWM G-51
-05061985 0000    0.33FWM G-51
-06061985 0000    0.25FWM G-51
-07061985 0000    0.27FWM G-51
-08061985 0000    0.14FWM G-51
-09061985 0000    0.12FWM G-51
-10061985 0000    0.09FWM G-51
-11061985 0000    0.08FWM G-51
-12061985 0000    0.08FWM G-51
-13061985 0000    0.07FWM G-51
-14061985 0000    0.05FWM G-51
-15061985 0000    0.03FWM G-51
-16061985 0000    0.03FWM G-51
-17061985 0000    0.02FWM G-51
-18061985 0000    0.02FWM G-51
-19061985 0000    0.01FWM G-51
-20061985 0000       0FWM G-51
-21061985 0000       0FWM G-51
-22061985 0000       0FWM G-51
-23061985 0000       0FWM G-51
-24061985 0000       0FWM G-51
-25061985 0000       0FWM G-51
-26061985 0000       0FWM G-51
-27061985 0000       0FWM G-51
-28061985 0000       0FWM G-51
-29061985 0000       0FWM G-51
-30061985 0000       0FWM G-51
-01071985 0000       0FWM G-51
-02071985 0000       0FWM G-51
-03071985 0000    0.27FWM G-51
-04071985 0000    0.36FWM G-51
-05071985 0000    0.05FWM G-51
-06071985 0000    0.37FWM G-51
-07071985 0000    0.33FWM G-51
-08071985 0000    0.31FWM G-51
-09071985 0000     0.3FWM G-51
-10071985 0000    0.29FWM G-51
-11071985 0000    0.26FWM G-51
-12071985 0000    0.26FWM G-51
-13071985 0000    0.26FWM G-51
-14071985 0000    0.25FWM G-51
-15071985 0000    0.23FWM G-51
-16071985 0000    0.18FWM G-51
-17071985 0000    0.14FWM G-51
-18071985 0000    0.13FWM G-51
-19071985 0000    0.14FWM G-51
-20071985 0000    0.14FWM G-51
-21071985 0000    0.14FWM G-51
-22071985 0000    0.14FWM G-51
-23071985 0000    0.14FWM G-51
-24071985 0000    0.14FWM G-51
-25071985 0000    0.14FWM G-51
-26071985 0000    0.14FWM G-51
-27071985 0000    0.14FWM G-51
-28071985 0000    0.14FWM G-51
-29071985 0000    0.14FWM G-51
-30071985 0000    0.14FWM G-51
-31071985 0000    0.15FWM G-51
-01081985 0000    0.15FWM G-51
-02081985 0000    1.53FWM G-51
-03081985 0000    0.15FWM G-51
-04081985 0000    0.15FWM G-51
-05081985 0000    0.15FWM G-51
-06081985 0000    0.15FWM G-51
-07081985 0000    0.17FWM G-51
-08081985 0000    0.15FWM G-51
-09081985 0000    0.14FWM G-51
-10081985 0000    0.11FWM G-51
-11081985 0000    0.11FWM G-51
-12081985 0000    0.11FWM G-51
-13081985 0000    0.11FWM G-51
-14081985 0000     0.1FWM G-51
-15081985 0000     0.1FWM G-51
-16081985 0000    0.09FWM G-51
-17081985 0000    0.09FWM G-51
-18081985 0000    0.09FWM G-51
-19081985 0000    0.08FWM G-51
-20081985 0000    0.08FWM G-51
-21081985 0000    0.08FWM G-51
-22081985 0000    0.08FWM G-51
-23081985 0000    0.09FWM G-51
-24081985 0000    0.11FWM G-51
-25081985 0000    0.14FWM G-51
-26081985 0000    0.14FWM G-51
-27081985 0000    0.13FWM G-51
-28081985 0000    0.13FWM G-51
-29081985 0000    0.19FWM G-51
-30081985 0000     0.3FWM G-51
-31081985 0000    0.29FWM G-51
-01091985 0000    0.26FWM G-51
-02091985 0000    0.24FWM G-51
-03091985 0000    0.18FWM G-51
-04091985 0000    0.16FWM G-51
-05091985 0000    0.11FWM G-51
-06091985 0000    0.35FWM G-51
-07091985 0000    0.53FWM G-51
-08091985 0000    0.54FWM G-51
-09091985 0000    0.51FWM G-51
-10091985 0000    0.55FWM G-51
-11091985 0000    0.55FWM G-51
-12091985 0000    0.57FWM G-51
-13091985 0000    0.57FWM G-51
-14091985 0000    0.57FWM G-51
-15091985 0000    0.57FWM G-51
-16091985 0000    0.57FWM G-51
-17091985 0000    0.57FWM G-51
-18091985 0000    0.59FWM G-51
-19091985 0000    0.26FWM G-51
-20091985 0000    0.03FWM G-51
-21091985 0000    0.03FWM G-51
-22091985 0000    0.03FWM G-51
-23091985 0000    0.03FWM G-51
-24091985 0000    0.03FWM G-51
-25091985 0000    0.03FWM G-51
-26091985 0000    0.03FWM G-51
-27091985 0000    0.03FWM G-51
-28091985 0000    0.03FWM G-51
-29091985 0000    0.03FWM G-51
-30091985 0000    0.03FWM G-51
-01101985 0000    0.03FWM G-51
-02101985 0000    0.03FWM G-51
-03101985 0000    0.03FWM G-51
-04101985 0000    0.03FWM G-51
-05101985 0000    0.03FWM G-51
-06101985 0000    0.03FWM G-51
-07101985 0000    0.03FWM G-51
-08101985 0000    0.03FWM G-51
-09101985 0000    0.03FWM G-51
-10101985 0000    0.03FWM G-51
-11101985 0000    0.03FWM G-51
-12101985 0000    0.03FWM G-51
-13101985 0000    0.03FWM G-51
-14101985 0000    0.03FWM G-51
-15101985 0000    0.03FWM G-51
-16101985 0000    0.03FWM G-51
-17101985 0000    0.03FWM G-51
-18101985 0000    0.03FWM G-51
-19101985 0000    0.03FWM G-51
-20101985 0000    0.03FWM G-51
-21101985 0000    0.03FWM G-51
-22101985 0000    0.03FWM G-51
-23101985 0000    0.03FWM G-51
-24101985 0000    0.03FWM G-51
-25101985 0000    0.03FWM G-51
-26101985 0000    0.03FWM G-51
-27101985 0000    0.03FWM G-51
-28101985 0000    0.03FWM G-51
-29101985 0000    0.03FWM G-51
-30101985 0000    0.03FWM G-51
-31101985 0000    0.03FWM G-51
-01111985 0000    0.03FWM G-51
-02111985 0000    0.03FWM G-51
-03111985 0000    0.03FWM G-51
-04111985 0000    0.03FWM G-51
-05111985 0000    0.03FWM G-51
-06111985 0000    0.03FWM G-51
-07111985 0000    0.03FWM G-51
-08111985 0000    0.03FWM G-51
-09111985 0000    0.03FWM G-51
-10111985 0000    0.03FWM G-51
-11111985 0000    0.03FWM G-51
-12111985 0000    0.03FWM G-51
-13111985 0000    0.03FWM G-51
-14111985 0000    0.03FWM G-51
-15111985 0000    0.03FWM G-51
-16111985 0000    0.03FWM G-51
-17111985 0000    0.03FWM G-51
-18111985 0000    0.03FWM G-51
-19111985 0000    0.03FWM G-51
-20111985 0000    0.03FWM G-51
-21111985 0000    0.03FWM G-51
-22111985 0000    0.03FWM G-51
-23111985 0000    0.03FWM G-51
-24111985 0000    0.03FWM G-51
-25111985 0000    0.03FWM G-51
-26111985 0000    0.03FWM G-51
-27111985 0000    0.03FWM G-51
-28111985 0000    0.03FWM G-51
-29111985 0000    0.03FWM G-51
-30111985 0000    0.03FWM G-51
-01121985 0000    0.03FWM G-51
-02121985 0000    0.03FWM G-51
-03121985 0000    0.03FWM G-51
-04121985 0000    0.03FWM G-51
-05121985 0000    0.03FWM G-51
-06121985 0000    0.03FWM G-51
-07121985 0000    0.03FWM G-51
-08121985 0000    0.03FWM G-51
-09121985 0000    0.03FWM G-51
-10121985 0000    0.03FWM G-51
-11121985 0000    0.03FWM G-51
-12121985 0000    0.03FWM G-51
-13121985 0000    0.03FWM G-51
-14121985 0000    0.03FWM G-51
-15121985 0000    0.03FWM G-51
-16121985 0000    0.03FWM G-51
-17121985 0000    0.03FWM G-51
-18121985 0000    0.03FWM G-51
-19121985 0000    0.03FWM G-51
-20121985 0000    0.03FWM G-51
-21121985 0000    0.03FWM G-51
-22121985 0000    0.03FWM G-51
-23121985 0000    0.03FWM G-51
-24121985 0000    0.03FWM G-51
-25121985 0000    0.03FWM G-51
-26121985 0000    0.03FWM G-51
-27121985 0000    0.03FWM G-51
-28121985 0000    0.03FWM G-51
-29121985 0000    0.03FWM G-51
-30121985 0000    0.03FWM G-51
-31121985 0000    0.03FWM G-51
-01011986 0000    0.03FWM G-51
-02011986 0000    0.03FWM G-51
-03011986 0000    0.03FWM G-51
-04011986 0000    0.03FWM G-51
-05011986 0000    0.03FWM G-51
-06011986 0000    0.03FWM G-51
-07011986 0000    0.03FWM G-51
-08011986 0000    0.03FWM G-51
-09011986 0000    0.03FWM G-51
-10011986 0000    0.03FWM G-51
-11011986 0000    0.03FWM G-51
-12011986 0000    0.03FWM G-51
-13011986 0000    0.03FWM G-51
-14011986 0000    0.03FWM G-51
-15011986 0000    0.03FWM G-51
-16011986 0000    0.03FWM G-51
-17011986 0000    0.03FWM G-51
-18011986 0000    0.03FWM G-51
-19011986 0000    0.03FWM G-51
-20011986 0000    0.03FWM G-51
-21011986 0000    0.03FWM G-51
-22011986 0000    0.03FWM G-51
-23011986 0000    0.03FWM G-51
-24011986 0000    0.03FWM G-51
-25011986 0000    0.03FWM G-51
-26011986 0000    0.03FWM G-51
-27011986 0000    0.03FWM G-51
-28011986 0000    0.03FWM G-51
-29011986 0000    0.03FWM G-51
-30011986 0000    0.03FWM G-51
-31011986 0000    0.03FWM G-51
-01021986 0000    0.03FWM G-51
-02021986 0000    0.03FWM G-51
-03021986 0000    0.03FWM G-51
-04021986 0000    0.03FWM G-51
-05021986 0000    0.03FWM G-51
-06021986 0000    0.03FWM G-51
-07021986 0000    0.03FWM G-51
-08021986 0000    0.03FWM G-51
-09021986 0000    0.03FWM G-51
-10021986 0000    0.03FWM G-51
-11021986 0000    0.03FWM G-51
-12021986 0000    0.03FWM G-51
-13021986 0000    0.03FWM G-51
-14021986 0000    0.03FWM G-51
-15021986 0000    0.03FWM G-51
-16021986 0000    0.05FWM G-51
-17021986 0000    2.56FWM G-51
-18021986 0000    5.15FWM G-51
-19021986 0000    6.93FWM G-51
-20021986 0000     6.2FWM G-51
-21021986 0000    5.74FWM G-51
-22021986 0000    5.22FWM G-51
-23021986 0000    4.66FWM G-51
-24021986 0000    4.48FWM G-51
-25021986 0000    4.37FWM G-51
-26021986 0000    4.32FWM G-51
-27021986 0000    4.21FWM G-51
-28021986 0000    4.15FWM G-51
-01031986 0000    4.13FWM G-51
-02031986 0000    4.08FWM G-51
-03031986 0000    4.04FWM G-51
-04031986 0000    4.02FWM G-51
-05031986 0000    4.02FWM G-51
-06031986 0000    4.04FWM G-51
-07031986 0000    4.39FWM G-51
-08031986 0000    5.09FWM G-51
-09031986 0000    5.15FWM G-51
-10031986 0000    5.15FWM G-51
-11031986 0000    4.97FWM G-51
-12031986 0000    4.81FWM G-51
-13031986 0000    4.78FWM G-51
-14031986 0000    4.66FWM G-51
-15031986 0000    4.81FWM G-51
-16031986 0000    4.48FWM G-51
-17031986 0000    4.48FWM G-51
-18031986 0000    4.55FWM G-51
-19031986 0000    4.53FWM G-51
-20031986 0000     4.5FWM G-51
-21031986 0000    4.48FWM G-51
+01101976 0000       0
+02101976 0000       0
+03101976 0000       0
+04101976 0000       0
+05101976 0000       0
+06101976 0000       0
+07101976 0000       0
+08101976 0000       0
+09101976 0000       0
+10101976 0000       0
+11101976 0000       0
+12101976 0000       0
+13101976 0000       0
+14101976 0000       0
+15101976 0000       0
+16101976 0000       0
+17101976 0000       0
+18101976 0000       0
+19101976 0000       0
+20101976 0000       0
+21101976 0000       0
+22101976 0000       0
+23101976 0000       0
+24101976 0000       0
+25101976 0000       0
+26101976 0000       0
+27101976 0000       0
+28101976 0000       0
+29101976 0000       0
+30101976 0000       0
+31101976 0000       0
+01111976 0000       0
+02111976 0000       0
+03111976 0000       0
+04111976 0000       0
+05111976 0000       0
+06111976 0000       0
+07111976 0000       0
+08111976 0000       0
+09111976 0000       0
+10111976 0000       0
+11111976 0000       0
+12111976 0000       0
+13111976 0000       0
+14111976 0000       0
+15111976 0000       0
+16111976 0000       0
+17111976 0000       0
+18111976 0000       0
+19111976 0000       0
+20111976 0000       0
+21111976 0000       0
+22111976 0000       0
+23111976 0000       0
+24111976 0000       0
+25111976 0000       0
+26111976 0000       0
+27111976 0000       0
+28111976 0000       0
+29111976 0000       0
+30111976 0000       0
+01121976 0000       0
+02121976 0000       0
+03121976 0000       0
+04121976 0000       0
+05121976 0000       0
+06121976 0000       0
+07121976 0000       0
+08121976 0000       0
+09121976 0000       0
+10121976 0000       0
+11121976 0000       0
+12121976 0000       0
+13121976 0000       0
+14121976 0000       0
+15121976 0000       0
+16121976 0000       0
+17121976 0000       0
+18121976 0000       0
+19121976 0000       0
+20121976 0000       0
+21121976 0000       0
+22121976 0000       0
+23121976 0000       0
+24121976 0000       0
+25121976 0000       0
+26121976 0000       0
+27121976 0000       0
+28121976 0000       0
+29121976 0000       0
+30121976 0000       0
+31121976 0000       0
+01011977 0000       0
+02011977 0000       0
+03011977 0000       0
+04011977 0000       0
+05011977 0000       0
+06011977 0000       0
+07011977 0000       0
+08011977 0000       0
+09011977 0000       0
+10011977 0000       0
+11011977 0000       0
+12011977 0000       0
+13011977 0000       0
+14011977 0000       0
+15011977 0000       0
+16011977 0000       0
+17011977 0000       0
+18011977 0000       0
+19011977 0000       0
+20011977 0000       0
+21011977 0000       0
+22011977 0000       0
+23011977 0000       0
+24011977 0000       0
+25011977 0000       0
+26011977 0000       0
+27011977 0000       0
+28011977 0000       0
+29011977 0000       0
+30011977 0000       0
+31011977 0000       0
+01021977 0000       0
+02021977 0000       0
+03021977 0000       0
+04021977 0000       0
+05021977 0000       0
+06021977 0000       0
+07021977 0000       0
+08021977 0000       0
+09021977 0000       0
+10021977 0000       0
+11021977 0000       0
+12021977 0000       0
+13021977 0000       0
+14021977 0000       0
+15021977 0000       0
+16021977 0000       0
+17021977 0000       0
+18021977 0000       0
+19021977 0000       0
+20021977 0000       0
+21021977 0000       0
+22021977 0000       0
+23021977 0000       0
+24021977 0000       0
+25021977 0000       0
+26021977 0000       0
+27021977 0000       0
+28021977 0000       0
+01031977 0000       0
+02031977 0000       0
+03031977 0000       0
+04031977 0000       0
+05031977 0000       0
+06031977 0000       0
+07031977 0000       0
+08031977 0000       0
+09031977 0000       0
+10031977 0000       0
+11031977 0000       0
+12031977 0000       0
+13031977 0000       0
+14031977 0000       0
+15031977 0000       0
+16031977 0000       0
+17031977 0000       0
+18031977 0000       0
+19031977 0000       0
+20031977 0000       0
+21031977 0000       0
+22031977 0000       0
+23031977 0000       0
+24031977 0000       0
+25031977 0000       0
+26031977 0000       0
+27031977 0000       0
+28031977 0000       0
+29031977 0000       0
+30031977 0000       0
+31031977 0000       0
+01041977 0000       0
+02041977 0000       0
+03041977 0000       0
+04041977 0000       0
+05041977 0000       0
+06041977 0000       0
+07041977 0000       0
+08041977 0000       0
+09041977 0000       0
+10041977 0000       0
+11041977 0000       0
+12041977 0000       0
+13041977 0000       0
+14041977 0000       0
+15041977 0000       0
+16041977 0000       0
+17041977 0000       0
+18041977 0000       0
+19041977 0000       0
+20041977 0000       0
+21041977 0000       0
+22041977 0000       0
+23041977 0000       0
+24041977 0000       0
+25041977 0000       0
+26041977 0000       0
+27041977 0000       0
+28041977 0000       0
+29041977 0000       0
+30041977 0000       0
+01051977 0000       0
+02051977 0000       0
+03051977 0000       0
+04051977 0000       0
+05051977 0000       0
+06051977 0000       0
+07051977 0000       0
+08051977 0000       0
+09051977 0000       0
+10051977 0000       0
+11051977 0000       0
+12051977 0000       0
+13051977 0000       0
+14051977 0000       0
+15051977 0000       0
+16051977 0000       0
+17051977 0000       0
+18051977 0000       0
+19051977 0000       0
+20051977 0000       0
+21051977 0000       0
+22051977 0000       0
+23051977 0000       0
+24051977 0000       0
+25051977 0000       0
+26051977 0000       0
+27051977 0000       0
+28051977 0000       0
+29051977 0000       0
+30051977 0000       0
+31051977 0000       0
+01061977 0000       0
+02061977 0000       0
+03061977 0000       0
+04061977 0000       0
+05061977 0000       0
+06061977 0000       0
+07061977 0000       0
+08061977 0000       0
+09061977 0000       0
+10061977 0000       0
+11061977 0000       0
+12061977 0000       0
+13061977 0000       0
+14061977 0000       0
+15061977 0000       0
+16061977 0000       0
+17061977 0000       0
+18061977 0000       0
+19061977 0000       0
+20061977 0000       0
+21061977 0000       0
+22061977 0000       0
+23061977 0000       0
+24061977 0000       0
+25061977 0000       0
+26061977 0000       0
+27061977 0000       0
+28061977 0000       0
+29061977 0000       0
+30061977 0000       0
+01071977 0000       0
+02071977 0000       0
+03071977 0000       0
+04071977 0000       0
+05071977 0000       0
+06071977 0000       0
+07071977 0000       0
+08071977 0000       0
+09071977 0000       0
+10071977 0000       0
+11071977 0000       0
+12071977 0000       0
+13071977 0000       0
+14071977 0000       0
+15071977 0000       0
+16071977 0000       0
+17071977 0000       0
+18071977 0000       0
+19071977 0000       0
+20071977 0000       0
+21071977 0000       0
+22071977 0000       0
+23071977 0000       0
+24071977 0000       0
+25071977 0000       0
+26071977 0000       0
+27071977 0000       0
+28071977 0000       0
+29071977 0000       0
+30071977 0000       0
+31071977 0000       0
+01081977 0000       0
+02081977 0000       0
+03081977 0000       0
+04081977 0000       0
+05081977 0000       0
+06081977 0000       0
+07081977 0000       0
+08081977 0000       0
+09081977 0000       0
+10081977 0000       0
+11081977 0000       0
+12081977 0000       0
+13081977 0000       0
+14081977 0000       0
+15081977 0000       0
+16081977 0000       0
+17081977 0000       0
+18081977 0000       0
+19081977 0000       0
+20081977 0000       0
+21081977 0000       0
+22081977 0000       0
+23081977 0000       0
+24081977 0000       0
+25081977 0000       0
+26081977 0000       0
+27081977 0000       0
+28081977 0000       0
+29081977 0000       0
+30081977 0000       0
+31081977 0000       0
+01091977 0000       0
+02091977 0000       0
+03091977 0000       0
+04091977 0000       0
+05091977 0000       0
+06091977 0000       0
+07091977 0000       0
+08091977 0000       0
+09091977 0000       0
+10091977 0000       0
+11091977 0000       0
+12091977 0000       0
+13091977 0000       0
+14091977 0000       0
+15091977 0000       0
+16091977 0000       0
+17091977 0000       0
+18091977 0000       0
+19091977 0000       0
+20091977 0000       0
+21091977 0000       0
+22091977 0000       0
+23091977 0000       0
+24091977 0000       0
+25091977 0000       0
+26091977 0000       0
+27091977 0000       0
+28091977 0000       0
+29091977 0000       0
+30091977 0000       0
+01101977 0000       0
+02101977 0000       0
+03101977 0000       0
+04101977 0000       0
+05101977 0000       0
+06101977 0000       0
+07101977 0000       0
+08101977 0000       0
+09101977 0000       0
+10101977 0000       0
+11101977 0000       0
+12101977 0000       0
+13101977 0000       0
+14101977 0000       0
+15101977 0000       0
+16101977 0000       0
+17101977 0000       0
+18101977 0000       0
+19101977 0000       0
+20101977 0000       0
+21101977 0000       0
+22101977 0000       0
+23101977 0000       0
+24101977 0000       0
+25101977 0000       0
+26101977 0000       0
+27101977 0000       0
+28101977 0000       0
+29101977 0000       0
+30101977 0000       0
+31101977 0000       0
+01111977 0000       0
+02111977 0000       0
+03111977 0000       0
+04111977 0000       0
+05111977 0000       0
+06111977 0000       0
+07111977 0000       0
+08111977 0000       0
+09111977 0000       0
+10111977 0000       0
+11111977 0000       0
+12111977 0000       0
+13111977 0000       0
+14111977 0000       0
+15111977 0000       0
+16111977 0000       0
+17111977 0000       0
+18111977 0000       0
+19111977 0000       0
+20111977 0000       0
+21111977 0000       0
+22111977 0000       0
+23111977 0000       0
+24111977 0000       0
+25111977 0000       0
+26111977 0000       0
+27111977 0000       0
+28111977 0000       0
+29111977 0000       0
+30111977 0000       0
+01121977 0000       0
+02121977 0000       0
+03121977 0000       0
+04121977 0000       0
+05121977 0000       0
+06121977 0000       0
+07121977 0000       0
+08121977 0000       0
+09121977 0000       0
+10121977 0000       0
+11121977 0000       0
+12121977 0000       0
+13121977 0000       0
+14121977 0000       0
+15121977 0000       0
+16121977 0000       0
+17121977 0000       0
+18121977 0000       0
+19121977 0000       0
+20121977 0000       0
+21121977 0000       0
+22121977 0000       0
+23121977 0000       0
+24121977 0000       0
+25121977 0000       0
+26121977 0000       0
+27121977 0000       0
+28121977 0000       0
+29121977 0000       0
+30121977 0000       0
+31121977 0000       0
+01101984 0000       0
+02101984 0000       0
+03101984 0000       0
+04101984 0000       0
+05101984 0000       0
+06101984 0000       0
+07101984 0000       0
+08101984 0000       0
+09101984 0000       0
+10101984 0000       0
+11101984 0000       0
+12101984 0000       0
+13101984 0000       0
+14101984 0000       0
+15101984 0000       0
+16101984 0000       0
+17101984 0000       0
+18101984 0000       0
+19101984 0000       0
+20101984 0000       0
+21101984 0000       0
+22101984 0000       0
+23101984 0000       0
+24101984 0000       0
+25101984 0000       0
+26101984 0000       0
+27101984 0000       0
+28101984 0000       0
+29101984 0000       0
+30101984 0000       0
+31101984 0000       0
+01111984 0000       0
+02111984 0000       0
+03111984 0000       0
+04111984 0000       0
+05111984 0000       0
+06111984 0000       0
+07111984 0000       0
+08111984 0000       0
+09111984 0000       0
+10111984 0000       0
+11111984 0000       0
+12111984 0000       0
+13111984 0000       0
+14111984 0000       0
+15111984 0000       0
+16111984 0000       0
+17111984 0000       0
+18111984 0000       0
+19111984 0000       0
+20111984 0000       0
+21111984 0000       0
+22111984 0000       0
+23111984 0000       0
+24111984 0000       0
+25111984 0000       0
+26111984 0000       0
+27111984 0000       0
+28111984 0000       0
+29111984 0000       0
+30111984 0000       0
+01121984 0000       0
+02121984 0000       0
+03121984 0000       0
+04121984 0000       0
+05121984 0000       0
+06121984 0000       0
+07121984 0000       0
+08121984 0000       0
+09121984 0000       0
+10121984 0000       0
+11121984 0000       0
+12121984 0000       0
+13121984 0000       0
+14121984 0000       0
+15121984 0000       0
+16121984 0000       0
+17121984 0000       0
+18121984 0000       0
+19121984 0000       0
+20121984 0000       0
+21121984 0000       0
+22121984 0000       0
+23121984 0000       0
+24121984 0000       0
+25121984 0000       0
+26121984 0000       0
+27121984 0000       0
+28121984 0000       0
+29121984 0000       0
+30121984 0000       0
+31121984 0000       0
+01011985 0000       0
+02011985 0000       0
+03011985 0000       0
+04011985 0000       0
+05011985 0000       0
+06011985 0000       0
+07011985 0000       0
+08011985 0000       0
+09011985 0000       0
+10011985 0000       0
+11011985 0000       0
+12011985 0000       0
+13011985 0000       0
+14011985 0000       0
+15011985 0000       0
+16011985 0000       0
+17011985 0000       0
+18011985 0000       0
+19011985 0000       0
+20011985 0000       0
+21011985 0000       0
+22011985 0000       0
+23011985 0000       0
+24011985 0000       0
+25011985 0000       0
+26011985 0000       0
+27011985 0000       0
+28011985 0000       0
+29011985 0000       0
+30011985 0000       0
+31011985 0000       0
+01021985 0000       0
+02021985 0000       0
+03021985 0000       0
+04021985 0000       0
+05021985 0000       0
+06021985 0000       0
+07021985 0000       0
+08021985 0000       0
+09021985 0000       0
+10021985 0000       0
+11021985 0000       0
+12021985 0000       0
+13021985 0000       0
+14021985 0000       0
+15021985 0000       0
+16021985 0000       0
+17021985 0000       0
+18021985 0000       0
+19021985 0000       0
+20021985 0000       0
+21021985 0000       0
+22021985 0000       0
+23021985 0000       0
+24021985 0000       0
+25021985 0000       0
+26021985 0000       0
+27021985 0000       0
+28021985 0000       0
+01031985 0000       0
+02031985 0000       0
+03031985 0000       0
+04031985 0000       0
+05031985 0000       0
+06031985 0000       0
+07031985 0000       0
+08031985 0000       0
+09031985 0000       0
+10031985 0000       0
+11031985 0000       0
+12031985 0000       0
+13031985 0000       0
+14031985 0000       0
+15031985 0000       0
+16031985 0000       0
+17031985 0000       0
+18031985 0000       0
+19031985 0000       0
+20031985 0000       0
+21031985 0000       0
+22031985 0000       0
+23031985 0000       0
+24031985 0000       0
+25031985 0000       0
+26031985 0000       0
+27031985 0000       0
+28031985 0000       0
+29031985 0000       0
+30031985 0000       0
+31031985 0000       0
+01041985 0000       0
+02041985 0000       0
+03041985 0000       0
+04041985 0000       0
+05041985 0000       0
+06041985 0000       0
+07041985 0000       0
+08041985 0000       0
+09041985 0000       0
+10041985 0000       0
+11041985 0000       0
+12041985 0000       0
+13041985 0000       0
+14041985 0000       0
+15041985 0000       0
+16041985 0000       0
+17041985 0000       0
+18041985 0000       0
+19041985 0000       0
+20041985 0000       0
+21041985 0000       0
+22041985 0000       0
+23041985 0000       0
+24041985 0000       0
+25041985 0000       0
+26041985 0000       0
+27041985 0000       0
+28041985 0000       0
+29041985 0000       0
+30041985 0000       0
+01051985 0000       0
+02051985 0000       0
+03051985 0000       0
+04051985 0000       0
+05051985 0000       0
+06051985 0000       0
+07051985 0000       0
+08051985 0000       0
+09051985 0000       0
+10051985 0000       0
+11051985 0000       0
+12051985 0000       0
+13051985 0000       0
+14051985 0000       0
+15051985 0000       0
+16051985 0000       0
+17051985 0000       0
+18051985 0000       0
+19051985 0000       0
+20051985 0000       0
+21051985 0000       0
+22051985 0000       0
+23051985 0000       0
+24051985 0000       0
+25051985 0000       0
+26051985 0000       0
+27051985 0000       0
+28051985 0000       0
+29051985 0000       0
+30051985 0000       0
+31051985 0000       0
+01061985 0000       0
+02061985 0000       0
+03061985 0000       0
+04061985 0000       0
+05061985 0000       0
+06061985 0000       0
+07061985 0000       0
+08061985 0000       0
+09061985 0000       0
+10061985 0000       0
+11061985 0000       0
+12061985 0000       0
+13061985 0000       0
+14061985 0000       0
+15061985 0000       0
+16061985 0000       0
+17061985 0000       0
+18061985 0000       0
+19061985 0000       0
+20061985 0000       0
+21061985 0000       0
+22061985 0000       0
+23061985 0000       0
+24061985 0000       0
+25061985 0000       0
+26061985 0000       0
+27061985 0000       0
+28061985 0000       0
+29061985 0000       0
+30061985 0000       0
+01071985 0000       0
+02071985 0000       0
+03071985 0000       0
+04071985 0000       0
+05071985 0000       0
+06071985 0000       0
+07071985 0000       0
+08071985 0000       0
+09071985 0000       0
+10071985 0000       0
+11071985 0000       0
+12071985 0000       0
+13071985 0000       0
+14071985 0000       0
+15071985 0000       0
+16071985 0000       0
+17071985 0000       0
+18071985 0000       0
+19071985 0000       0
+20071985 0000       0
+21071985 0000       0
+22071985 0000       0
+23071985 0000       0
+24071985 0000       0
+25071985 0000       0
+26071985 0000       0
+27071985 0000       0
+28071985 0000       0
+29071985 0000       0
+30071985 0000       0
+31071985 0000       0
+01081985 0000       0
+02081985 0000       0
+03081985 0000       0
+04081985 0000       0
+05081985 0000       0
+06081985 0000       0
+07081985 0000       0
+08081985 0000       0
+09081985 0000       0
+10081985 0000       0
+11081985 0000       0
+12081985 0000       0
+13081985 0000       0
+14081985 0000       0
+15081985 0000       0
+16081985 0000       0
+17081985 0000       0
+18081985 0000       0
+19081985 0000       0
+20081985 0000       0
+21081985 0000       0
+22081985 0000       0
+23081985 0000       0
+24081985 0000       0
+25081985 0000       0
+26081985 0000       0
+27081985 0000       0
+28081985 0000       0
+29081985 0000       0
+30081985 0000       0
+31081985 0000       0
+01091985 0000       0
+02091985 0000       0
+03091985 0000       0
+04091985 0000       0
+05091985 0000       0
+06091985 0000       0
+07091985 0000       0
+08091985 0000       0
+09091985 0000       0
+10091985 0000       0
+11091985 0000       0
+12091985 0000       0
+13091985 0000       0
+14091985 0000       0
+15091985 0000       0
+16091985 0000       0
+17091985 0000       0
+18091985 0000       0
+19091985 0000       0
+20091985 0000       0
+21091985 0000       0
+22091985 0000       0
+23091985 0000       0
+24091985 0000       0
+25091985 0000       0
+26091985 0000       0
+27091985 0000       0
+28091985 0000       0
+29091985 0000       0
+30091985 0000       0
+01101985 0000       0
+02101985 0000       0
+03101985 0000       0
+04101985 0000       0
+05101985 0000       0
+06101985 0000       0
+07101985 0000       0
+08101985 0000       0
+09101985 0000       0
+10101985 0000       0
+11101985 0000       0
+12101985 0000       0
+13101985 0000       0
+14101985 0000       0
+15101985 0000       0
+16101985 0000       0
+17101985 0000       0
+18101985 0000       0
+19101985 0000       0
+20101985 0000       0
+21101985 0000       0
+22101985 0000       0
+23101985 0000       0
+24101985 0000       0
+25101985 0000       0
+26101985 0000       0
+27101985 0000       0
+28101985 0000       0
+29101985 0000       0
+30101985 0000       0
+31101985 0000       0
+01111985 0000       0
+02111985 0000       0
+03111985 0000       0
+04111985 0000       0
+05111985 0000       0
+06111985 0000       0
+07111985 0000       0
+08111985 0000       0
+09111985 0000       0
+10111985 0000       0
+11111985 0000       0
+12111985 0000       0
+13111985 0000       0
+14111985 0000       0
+15111985 0000       0
+16111985 0000       0
+17111985 0000       0
+18111985 0000       0
+19111985 0000       0
+20111985 0000       0
+21111985 0000       0
+22111985 0000       0
+23111985 0000       0
+24111985 0000       0
+25111985 0000       0
+26111985 0000       0
+27111985 0000       0
+28111985 0000       0
+29111985 0000       0
+30111985 0000       0
+01121985 0000       0
+02121985 0000       0
+03121985 0000       0
+04121985 0000       0
+05121985 0000       0
+06121985 0000       0
+07121985 0000       0
+08121985 0000       0
+09121985 0000       0
+10121985 0000       0
+11121985 0000       0
+12121985 0000       0
+13121985 0000       0
+14121985 0000       0
+15121985 0000       0
+16121985 0000       0
+17121985 0000       0
+18121985 0000       0
+19121985 0000       0
+20121985 0000       0
+21121985 0000       0
+22121985 0000       0
+23121985 0000       0
+24121985 0000       0
+25121985 0000       0
+26121985 0000       0
+27121985 0000       0
+28121985 0000       0
+29121985 0000       0
+30121985 0000       0
+31121985 0000       0
+01011986 0000    0.03
+02011986 0000    0.03
+03011986 0000    0.03
+04011986 0000    0.03
+05011986 0000    0.03
+06011986 0000    0.03
+07011986 0000    0.03
+08011986 0000    0.03
+09011986 0000    0.03
+10011986 0000    0.03
+11011986 0000    0.03
+12011986 0000    0.03
+13011986 0000    0.03
+14011986 0000    0.03
+15011986 0000    0.03
+16011986 0000    0.03
+17011986 0000    0.03
+18011986 0000    0.03
+19011986 0000    0.03
+20011986 0000    0.03
+21011986 0000    0.03
+22011986 0000    0.03
+23011986 0000    0.03
+24011986 0000    0.03
+25011986 0000    0.03
+26011986 0000    0.03
+27011986 0000    0.03
+28011986 0000    0.03
+29011986 0000    0.03
+30011986 0000    0.03
+31011986 0000    0.03
+01021986 0000    0.03
+02021986 0000    0.03
+03021986 0000    0.03
+04021986 0000    0.03
+05021986 0000    0.03
+06021986 0000    0.03
+07021986 0000    0.03
+08021986 0000    0.03
+09021986 0000    0.03
+10021986 0000    0.03
+11021986 0000    0.03
+12021986 0000    0.03
+13021986 0000    0.03
+14021986 0000    0.03
+15021986 0000    0.03
+16021986 0000    0.05
+17021986 0000    2.56
+18021986 0000    5.15
+19021986 0000    6.93
+20021986 0000     6.2
+21021986 0000    5.74
+22021986 0000    5.22
+23021986 0000    4.66
+24021986 0000    4.48
+25021986 0000    4.37
+26021986 0000    4.32
+27021986 0000    4.21
+28021986 0000    4.15
+01031986 0000    4.13
+02031986 0000    4.08
+03031986 0000    4.04
+04031986 0000    4.02
+05031986 0000    4.02
+06031986 0000    4.04
+07031986 0000    4.39
+08031986 0000    5.09
+09031986 0000    5.15
+10031986 0000    5.15
+11031986 0000    4.97
+12031986 0000    4.81
+13031986 0000    4.78
+14031986 0000    4.66
+15031986 0000    4.81
+16031986 0000    4.48
+17031986 0000    4.48
+18031986 0000    4.55
+19031986 0000    4.53
+20031986 0000     4.5
+21031986 0000    4.48
 22031986 0000    4.41FWM G-51
 23031986 0000    4.48FWM G-51
 24031986 0000    4.57FWM G-51
@@ -8125,11 +8269,11 @@ Latitude:   39.2967 Longitude:  -119.799Washoe Lake Outlet
 15022006 0000       0estimated from lake elevation
 16022006 0000       0estimated from lake elevation
 17022006 0000       0estimated from lake elevation
-18022006 00005.084E-4estimated from lake elevation
-19022006 00005.084E-4estimated from lake elevation
-20022006 00005.084E-4estimated from lake elevation
+18022006 00000.0005084estimated from lake elevation
+19022006 00000.0005084estimated from lake elevation
+20022006 00000.0005084estimated from lake elevation
 21022006 00000.001016estimated from lake elevation
-22022006 00005.084E-4estimated from lake elevation
+22022006 00000.0005084estimated from lake elevation
 23022006 00000.001016estimated from lake elevation
 24022006 00000.001525estimated from lake elevation
 25022006 00000.001525estimated from lake elevation
@@ -8652,7 +8796,7 @@ Latitude:   39.2967 Longitude:  -119.799Washoe Lake Outlet
 27072007 00000.002033estimated from lake elevation
 28072007 00000.001016estimated from lake elevation
 29072007 00000.001016estimated from lake elevation
-30072007 00005.084E-4estimated from lake elevation
+30072007 00000.0005084estimated from lake elevation
 31072007 0000       0estimated from lake elevation
 01082007 0000       0estimated from lake elevation
 02082007 0000       0estimated from lake elevation
