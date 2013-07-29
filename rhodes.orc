@@ -1,5 +1,5 @@
 VERSION        3
-Latitude:   39.3669 Longitude:  -119.753RHODES  ROAD
+Latitude:   39.3669 Longitude:  -119.753Steamboat Creek at RHODES  ROAD
            21MTEMP   MH      MNH4    MCA     MMG     MNA     MSO4    MNO3    MCL     MPO4    MALK    MTIC    MCOLI   MDO     MBOD    MTPO4   MTON    MTKN    MTNH4   MTSS    MTDS    
 21101987 0000       6     8.2    0.05    -999    -999    -999    -999    0.16      10    0.15    -999   48.39     150     9.6     1.4    0.17    0.34    0.39    0.56       8     27821NEV-1  310203
 01121987 0000       6       8    0.05    -999    -999    -999    -999    0.05       6    0.08    -999   38.95       0    10.2    -999     0.1    0.29    0.34     0.4       5     22821NEV-1  310203

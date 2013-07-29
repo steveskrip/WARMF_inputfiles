@@ -1,7 +1,7 @@
 VERSION       72
 WARMF default coefficient file                                         
-BEGDATE        1      10    1976
-ENDDATE       31      12    1977
+BEGDATE        1      10    1984
+ENDDATE       31      12    1985
 ********  NCATCH    NSEG NRESSEG NRESERV  PERDAY  NLOOPS AUTOCAL LOADING********
 SYSTEM       124     137       8       7       1       1       0       1
 QUAL  = ON  
@@ -211,12 +211,12 @@ PTSFILESProsser_FNA.PTS
 PTSFILESDonner_FNA.PTS
 AIRFILE        1
 AIRFILE smithval_yos.air
-FILES   Trk_FNA85_1.CAT
-FILES   Trk_FNA85_1.RIV
-FILES   Trk_FNA85_1.LAK
-FILES   Trk_FNA85_1.PSM
-FILES   Trk_FNA85_1.WST
-FILES   Trk_FNA85_1.OUT
+FILES   Trk_FNA85_2.CAT
+FILES   Trk_FNA85_2.RIV
+FILES   Trk_FNA85_2.LAK
+FILES   Trk_FNA85_2.PSM
+FILES   Trk_FNA85_2.WST
+FILES   Trk_FNA85_2.OUT
 ******** SYSTEM COEFFICIENTS ******
 TOL        0.001   0.001   0.001   0.001
 TAREA   8.4331E9 2157.24
